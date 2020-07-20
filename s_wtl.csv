@@ -1,0 +1,2908 @@
+worker: task/skill_level,1,2,3,4,5
+"Bailey, Pernell : Aerial lift Use",0,0,1,0,0
+"Bailey, Pernell : Electrical Troubleshooting",0,0,1,0,0
+"Bailey, Pernell : Gas Calls (any equipment)",0,0,1,0,0
+"Bailey, Pernell : Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Bailey, Pernell : Swagelok tubing",0,0,0,1,0
+"Bailey, Pernell : Vacuum pump repair",0,1,0,0,0
+"Bailey, Pernell : Forklift operator",1,0,0,0,0
+"Bailey, Pernell : Confined Space Entry",1,0,0,0,0
+"Bailey, Pernell : Confined Space Supervisor",1,0,0,0,0
+"Bailey, Pernell : Welder",1,0,0,0,0
+"Bailey, Pernell : Fire Watch",0,1,0,0,0
+"Bailey, Pernell : Rigging",0,0,0,1,0
+"Bailey, Pernell : Cadwelds",0,0,1,0,0
+"Bailey, Pernell : Compressor PM / CM",1,0,0,0,0
+"Bailey, Pernell : Troubleshoot DC Grounds",0,1,0,0,0
+"Bailey, Pernell : SF6 gas cart use",0,1,0,0,0
+"Bailey, Pernell : Hotspots Inspections",1,0,0,0,0
+"Bailey, Pernell : Overheard Crane Training",0,1,0,0,0
+"Bailey, Pernell : CS PM / CM",0,1,0,0,0
+"Bailey, Pernell : LTC PM / CM",0,1,0,0,0
+"Bailey, Pernell : AGS PM / CM",0,1,0,0,0
+"Bailey, Pernell : Mechanical Deluge Repair",0,1,0,0,0
+"Bailey, Pernell : Tapguard 260/TM 100 troubleshooting",0,1,0,0,0
+"Bailey, Pernell : Transformer Fan replacement",0,1,0,0,0
+"Bailey, Pernell : Transformer Pump replacement",0,1,0,0,0
+"Bailey, Pernell : Sesco oil processing truck operator",0,1,0,0,0
+"Bailey, Pernell : Sesco oil processing truck repair",0,1,0,0,0
+"Bailey, Pernell : Transformer Vacuum pump operator",0,1,0,0,0
+"Bailey, Pernell : Transformer Replacement",0,1,0,0,0
+"Bailey, Pernell : Transformer Bushing Replacement",0,1,0,0,0
+"Bailey, Pernell : Circuit Switcher Replacement",0,1,0,0,0
+"Bailey, Pernell : Kelman installation",0,1,0,0,0
+"Bailey, Pernell : AC High Voltage Test Set PM / CM",0,0,0,0,0
+"Bailey, Pernell : DC High Voltage Test Set PM / CM",0,0,0,0,0
+"Bailey, Pernell : Low Voltage Test Set CM",0,0,0,0,0
+"Bailey, Pernell : PURs Pump/Motor Replacement",0,0,1,0,0
+"Bailey, Pernell : PURs Pump VFD Replacement",0,0,1,0,0
+"Bailey, Pernell : PURs/CP Pump/Motor Alignment",0,0,1,0,0
+"Bailey, Pernell : Pump House Ladder Calibration",0,0,1,0,0
+"Bailey, Pernell : Pump House PLC troubleshooting & Repairs",0,0,1,0,0
+"Bailey, Pernell : Diesel Generator PM / CM",0,0,1,0,0
+"Bailey, Pernell : Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Bailey, Pernell : Pump House Pump Replacement ",0,0,1,0,0
+"Bailey, Pernell : Distribution Breaker PM",0,0,1,0,0
+"Bailey, Pernell : Distribution Breaker CM",0,0,1,0,0
+"Bailey, Pernell : Transmission Breaker CM",0,0,1,0,0
+"Bailey, Pernell : Transmission Breaker PM",0,0,1,0,0
+"Bailey, Pernell : Barksdale PM / CM",0,0,1,0,0
+"Bailey, Pernell : Battery Corrective Maintenance",0,0,1,0,0
+"Bailey, Pernell : Battery PM",0,0,1,0,0
+"Bailey, Pernell : Repair high voltage test leads/portable grounds",0,0,1,0,0
+"Bailey, Pernell : Installing / troubleshooting RMS coils",0,0,1,0,0
+"Bailey, Pernell : Capbank Repairs",0,0,1,0,0
+"Bailey, Pernell : Disconnect and Ground Switch Adj/Repairs",0,0,1,0,0
+"Bailey, Pernell : Kemper Roof Installations",0,0,1,0,0
+"Bailey, Pernell : HVAC Maintenance",0,0,1,0,0
+"Bailey, Pernell : Asbestos abatement",1,0,0,0,0
+"Bradley, James: Aerial lift Use",0,0,0,1,0
+"Bradley, James: Electrical Troubleshooting",0,0,0,1,0
+"Bradley, James: Gas Calls (any equipment)",0,0,0,1,0
+"Bradley, James: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Bradley, James: Swagelok tubing",1,0,0,0,0
+"Bradley, James: Vacuum pump repair",0,1,0,0,0
+"Bradley, James: Forklift operator",1,0,0,0,0
+"Bradley, James: Confined Space Entry",1,0,0,0,0
+"Bradley, James: Confined Space Supervisor",1,0,0,0,0
+"Bradley, James: Welder",1,0,0,0,0
+"Bradley, James: Fire Watch",0,1,0,0,0
+"Bradley, James: Rigging",0,0,0,1,0
+"Bradley, James: Cadwelds",0,0,1,0,0
+"Bradley, James: Compressor PM / CM",1,0,0,0,0
+"Bradley, James: Troubleshoot DC Grounds",0,0,0,1,0
+"Bradley, James: SF6 gas cart use",0,0,0,1,0
+"Bradley, James: Hotspots Inspections",1,0,0,0,0
+"Bradley, James: Overheard Crane Training",0,0,0,1,0
+"Bradley, James: CS PM / CM",1,0,0,0,0
+"Bradley, James: LTC PM / CM",1,0,0,0,0
+"Bradley, James: AGS PM / CM",1,0,0,0,0
+"Bradley, James: Mechanical Deluge Repair",1,0,0,0,0
+"Bradley, James: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Bradley, James: Transformer Fan replacement",1,0,0,0,0
+"Bradley, James: Transformer Pump replacement",1,0,0,0,0
+"Bradley, James: Sesco oil processing truck operator",1,0,0,0,0
+"Bradley, James: Sesco oil processing truck repair",1,0,0,0,0
+"Bradley, James: Transformer Vacuum pump operator",1,0,0,0,0
+"Bradley, James: Transformer Replacement",1,0,0,0,0
+"Bradley, James: Transformer Bushing Replacement",1,0,0,0,0
+"Bradley, James: Circuit Switcher Replacement",1,0,0,0,0
+"Bradley, James: Kelman installation",1,0,0,0,0
+"Bradley, James: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Bradley, James: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Bradley, James: Low Voltage Test Set CM",1,0,0,0,0
+"Bradley, James: PURs Pump/Motor Replacement",1,0,0,0,0
+"Bradley, James: PURs Pump VFD Replacement",1,0,0,0,0
+"Bradley, James: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Bradley, James: Pump House Ladder Calibration",1,0,0,0,0
+"Bradley, James: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Bradley, James: Diesel Generator PM / CM",1,0,0,0,0
+"Bradley, James: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Bradley, James: Pump House Pump Replacement ",1,0,0,0,0
+"Bradley, James: Distribution Breaker PM",0,0,0,1,0
+"Bradley, James: Distribution Breaker CM",0,0,0,1,0
+"Bradley, James: Transmission Breaker CM",0,0,0,1,0
+"Bradley, James: Transmission Breaker PM",0,0,0,1,0
+"Bradley, James: Barksdale PM / CM",0,0,0,1,0
+"Bradley, James: Battery Corrective Maintenance",0,0,1,0,0
+"Bradley, James: Battery PM",0,0,1,0,0
+"Bradley, James: Repair high voltage test leads/portable grounds",1,0,0,0,0
+"Bradley, James: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Bradley, James: Capbank Repairs",0,0,0,1,0
+"Bradley, James: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Bradley, James: Kemper Roof Installations",0,0,0,1,0
+"Bradley, James: HVAC Maintenance",1,0,0,0,0
+"Bradley, James: Asbestos abatement",1,0,0,0,0
+"Cheng, Ted: Aerial lift Use",0,0,0,1,0
+"Cheng, Ted: Electrical Troubleshooting",0,0,0,1,0
+"Cheng, Ted: Gas Calls (any equipment)",0,0,0,1,0
+"Cheng, Ted: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Cheng, Ted: Swagelok tubing",0,0,0,1,0
+"Cheng, Ted: Vacuum pump repair",0,1,0,0,0
+"Cheng, Ted: Forklift operator",1,0,0,0,0
+"Cheng, Ted: Confined Space Entry",1,0,0,0,0
+"Cheng, Ted: Confined Space Supervisor",1,0,0,0,0
+"Cheng, Ted: Welder",0,0,0,1,0
+"Cheng, Ted: Fire Watch",0,1,0,0,0
+"Cheng, Ted: Rigging",0,0,0,1,0
+"Cheng, Ted: Cadwelds",0,0,1,0,0
+"Cheng, Ted: Compressor PM / CM",1,0,0,0,0
+"Cheng, Ted: Troubleshoot DC Grounds",1,0,0,0,0
+"Cheng, Ted: SF6 gas cart use",1,0,0,0,0
+"Cheng, Ted: Hotspots Inspections",1,0,0,0,0
+"Cheng, Ted: Overheard Crane Training",1,0,0,0,0
+"Cheng, Ted: CS PM / CM",1,0,0,0,0
+"Cheng, Ted: LTC PM / CM",1,0,0,0,0
+"Cheng, Ted: AGS PM / CM",1,0,0,0,0
+"Cheng, Ted: Mechanical Deluge Repair",1,0,0,0,0
+"Cheng, Ted: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Cheng, Ted: Transformer Fan replacement",1,0,0,0,0
+"Cheng, Ted: Transformer Pump replacement",1,0,0,0,0
+"Cheng, Ted: Sesco oil processing truck operator",1,0,0,0,0
+"Cheng, Ted: Sesco oil processing truck repair",1,0,0,0,0
+"Cheng, Ted: Transformer Vacuum pump operator",1,0,0,0,0
+"Cheng, Ted: Transformer Replacement",1,0,0,0,0
+"Cheng, Ted: Transformer Bushing Replacement",1,0,0,0,0
+"Cheng, Ted: Circuit Switcher Replacement",1,0,0,0,0
+"Cheng, Ted: Kelman installation",1,0,0,0,0
+"Cheng, Ted: AC High Voltage Test Set PM / CM",0,0,0,1,0
+"Cheng, Ted: DC High Voltage Test Set PM / CM",0,0,0,1,0
+"Cheng, Ted: Low Voltage Test Set CM",0,0,0,1,0
+"Cheng, Ted: PURs Pump/Motor Replacement",0,0,0,1,0
+"Cheng, Ted: PURs Pump VFD Replacement",0,0,0,1,0
+"Cheng, Ted: PURs/CP Pump/Motor Alignment",0,0,0,1,0
+"Cheng, Ted: Pump House Ladder Calibration",0,0,0,1,0
+"Cheng, Ted: Pump House PLC troubleshooting & Repairs",0,0,0,1,0
+"Cheng, Ted: Diesel Generator PM / CM",0,0,0,1,0
+"Cheng, Ted: Working in a PURs facility w/ out an operator",0,0,0,1,0
+"Cheng, Ted: Pump House Pump Replacement ",0,0,0,1,0
+"Cheng, Ted: Distribution Breaker PM",1,0,0,0,0
+"Cheng, Ted: Distribution Breaker CM",1,0,0,0,0
+"Cheng, Ted: Transmission Breaker CM",1,0,0,0,0
+"Cheng, Ted: Transmission Breaker PM",1,0,0,0,0
+"Cheng, Ted: Barksdale PM / CM",1,0,0,0,0
+"Cheng, Ted: Battery Corrective Maintenance",1,0,0,0,0
+"Cheng, Ted: Battery PM",1,0,0,0,0
+"Cheng, Ted: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Cheng, Ted: Installing / troubleshooting RMS coils",1,0,0,0,0
+"Cheng, Ted: Capbank Repairs",1,0,0,0,0
+"Cheng, Ted: Disconnect and Ground Switch Adj/Repairs",1,0,0,0,0
+"Cheng, Ted: Kemper Roof Installations",1,0,0,0,0
+"Cheng, Ted: HVAC Maintenance",1,0,0,0,0
+"Cheng, Ted: Asbestos abatement",1,0,0,0,0
+"Cucchiara, John: Aerial lift Use",0,0,0,1,0
+"Cucchiara, John: Electrical Troubleshooting",0,0,0,1,0
+"Cucchiara, John: Gas Calls (any equipment)",0,0,0,1,0
+"Cucchiara, John: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Cucchiara, John: Swagelok tubing",0,0,0,1,0
+"Cucchiara, John: Vacuum pump repair",0,1,0,0,0
+"Cucchiara, John: Forklift operator",1,0,0,0,0
+"Cucchiara, John: Confined Space Entry",1,0,0,0,0
+"Cucchiara, John: Confined Space Supervisor",1,0,0,0,0
+"Cucchiara, John: Welder",1,0,0,0,0
+"Cucchiara, John: Fire Watch",0,1,0,0,0
+"Cucchiara, John: Rigging",0,0,0,1,0
+"Cucchiara, John: Cadwelds",0,0,1,0,0
+"Cucchiara, John: Compressor PM / CM",1,0,0,0,0
+"Cucchiara, John: Troubleshoot DC Grounds",0,0,0,0,1
+"Cucchiara, John: SF6 gas cart use",0,0,0,1,0
+"Cucchiara, John: Hotspots Inspections",1,0,0,0,0
+"Cucchiara, John: Overheard Crane Training",0,0,0,1,0
+"Cucchiara, John: CS PM / CM",1,0,0,0,0
+"Cucchiara, John: LTC PM / CM",1,0,0,0,0
+"Cucchiara, John: AGS PM / CM",1,0,0,0,0
+"Cucchiara, John: Mechanical Deluge Repair",1,0,0,0,0
+"Cucchiara, John: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Cucchiara, John: Transformer Fan replacement",1,0,0,0,0
+"Cucchiara, John: Transformer Pump replacement",1,0,0,0,0
+"Cucchiara, John: Sesco oil processing truck operator",1,0,0,0,0
+"Cucchiara, John: Sesco oil processing truck repair",1,0,0,0,0
+"Cucchiara, John: Transformer Vacuum pump operator",1,0,0,0,0
+"Cucchiara, John: Transformer Replacement",1,0,0,0,0
+"Cucchiara, John: Transformer Bushing Replacement",1,0,0,0,0
+"Cucchiara, John: Circuit Switcher Replacement",1,0,0,0,0
+"Cucchiara, John: Kelman installation",1,0,0,0,0
+"Cucchiara, John: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Cucchiara, John: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Cucchiara, John: Low Voltage Test Set CM",1,0,0,0,0
+"Cucchiara, John: PURs Pump/Motor Replacement",1,0,0,0,0
+"Cucchiara, John: PURs Pump VFD Replacement",1,0,0,0,0
+"Cucchiara, John: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Cucchiara, John: Pump House Ladder Calibration",1,0,0,0,0
+"Cucchiara, John: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Cucchiara, John: Diesel Generator PM / CM",1,0,0,0,0
+"Cucchiara, John: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Cucchiara, John: Pump House Pump Replacement ",1,0,0,0,0
+"Cucchiara, John: Distribution Breaker PM",0,0,0,1,0
+"Cucchiara, John: Distribution Breaker CM",0,0,0,1,0
+"Cucchiara, John: Transmission Breaker CM",0,0,0,1,0
+"Cucchiara, John: Transmission Breaker PM",0,0,0,1,0
+"Cucchiara, John: Barksdale PM / CM",0,0,0,1,0
+"Cucchiara, John: Battery Corrective Maintenance",0,0,1,0,0
+"Cucchiara, John: Battery PM",0,0,1,0,0
+"Cucchiara, John: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Cucchiara, John: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Cucchiara, John: Capbank Repairs",0,0,0,1,0
+"Cucchiara, John: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Cucchiara, John: Kemper Roof Installations",0,0,0,1,0
+"Cucchiara, John: HVAC Maintenance",0,0,0,1,0
+"Cucchiara, John: Asbestos abatement",1,0,0,0,0
+"Decker, Ronald: Aerial lift Use",0,0,0,1,0
+"Decker, Ronald: Electrical Troubleshooting",0,0,0,1,0
+"Decker, Ronald: Gas Calls (any equipment)",0,0,0,1,0
+"Decker, Ronald: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Decker, Ronald: Swagelok tubing",0,0,0,1,0
+"Decker, Ronald: Vacuum pump repair",0,1,0,0,0
+"Decker, Ronald: Forklift operator",1,0,0,0,0
+"Decker, Ronald: Confined Space Entry",1,0,0,0,0
+"Decker, Ronald: Confined Space Supervisor",1,0,0,0,0
+"Decker, Ronald: Welder",1,0,0,0,0
+"Decker, Ronald: Fire Watch",0,1,0,0,0
+"Decker, Ronald: Rigging",0,0,0,1,0
+"Decker, Ronald: Cadwelds",0,0,1,0,0
+"Decker, Ronald: Compressor PM / CM",1,0,0,0,0
+"Decker, Ronald: Troubleshoot DC Grounds",0,0,0,1,0
+"Decker, Ronald: SF6 gas cart use",0,0,0,1,0
+"Decker, Ronald: Hotspots Inspections",1,0,0,0,0
+"Decker, Ronald: Overheard Crane Training",0,0,0,1,0
+"Decker, Ronald: CS PM / CM",1,0,0,0,0
+"Decker, Ronald: LTC PM / CM",1,0,0,0,0
+"Decker, Ronald: AGS PM / CM",1,0,0,0,0
+"Decker, Ronald: Mechanical Deluge Repair",1,0,0,0,0
+"Decker, Ronald: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Decker, Ronald: Transformer Fan replacement",1,0,0,0,0
+"Decker, Ronald: Transformer Pump replacement",1,0,0,0,0
+"Decker, Ronald: Sesco oil processing truck operator",1,0,0,0,0
+"Decker, Ronald: Sesco oil processing truck repair",1,0,0,0,0
+"Decker, Ronald: Transformer Vacuum pump operator",1,0,0,0,0
+"Decker, Ronald: Transformer Replacement",1,0,0,0,0
+"Decker, Ronald: Transformer Bushing Replacement",1,0,0,0,0
+"Decker, Ronald: Circuit Switcher Replacement",1,0,0,0,0
+"Decker, Ronald: Kelman installation",1,0,0,0,0
+"Decker, Ronald: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Decker, Ronald: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Decker, Ronald: Low Voltage Test Set CM",1,0,0,0,0
+"Decker, Ronald: PURs Pump/Motor Replacement",1,0,0,0,0
+"Decker, Ronald: PURs Pump VFD Replacement",1,0,0,0,0
+"Decker, Ronald: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Decker, Ronald: Pump House Ladder Calibration",1,0,0,0,0
+"Decker, Ronald: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Decker, Ronald: Diesel Generator PM / CM",1,0,0,0,0
+"Decker, Ronald: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Decker, Ronald: Pump House Pump Replacement ",1,0,0,0,0
+"Decker, Ronald: Distribution Breaker PM",0,0,0,1,0
+"Decker, Ronald: Distribution Breaker CM",0,0,0,1,0
+"Decker, Ronald: Transmission Breaker CM",0,0,0,1,0
+"Decker, Ronald: Transmission Breaker PM",0,0,0,1,0
+"Decker, Ronald: Barksdale PM / CM",0,0,0,1,0
+"Decker, Ronald: Battery Corrective Maintenance",0,0,1,0,0
+"Decker, Ronald: Battery PM",0,0,1,0,0
+"Decker, Ronald: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Decker, Ronald: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Decker, Ronald: Capbank Repairs",0,0,0,1,0
+"Decker, Ronald: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Decker, Ronald: Kemper Roof Installations",0,0,0,1,0
+"Decker, Ronald: HVAC Maintenance",0,0,0,1,0
+"Decker, Ronald: Asbestos abatement",1,0,0,0,0
+"Dryden, Lorenzo: Aerial lift Use",0,0,0,1,0
+"Dryden, Lorenzo: Electrical Troubleshooting",0,0,0,1,0
+"Dryden, Lorenzo: Gas Calls (any equipment)",0,0,0,1,0
+"Dryden, Lorenzo: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Dryden, Lorenzo: Swagelok tubing",0,0,0,1,0
+"Dryden, Lorenzo: Vacuum pump repair",0,1,0,0,0
+"Dryden, Lorenzo: Forklift operator",1,0,0,0,0
+"Dryden, Lorenzo: Confined Space Entry",1,0,0,0,0
+"Dryden, Lorenzo: Confined Space Supervisor",1,0,0,0,0
+"Dryden, Lorenzo: Welder",1,0,0,0,0
+"Dryden, Lorenzo: Fire Watch",0,1,0,0,0
+"Dryden, Lorenzo: Rigging",0,0,0,1,0
+"Dryden, Lorenzo: Cadwelds",0,0,1,0,0
+"Dryden, Lorenzo: Compressor PM / CM",1,0,0,0,0
+"Dryden, Lorenzo: Troubleshoot DC Grounds",0,0,0,1,0
+"Dryden, Lorenzo: SF6 gas cart use",0,0,0,1,0
+"Dryden, Lorenzo: Hotspots Inspections",1,0,0,0,0
+"Dryden, Lorenzo: Overheard Crane Training",0,0,0,1,0
+"Dryden, Lorenzo: CS PM / CM",1,0,0,0,0
+"Dryden, Lorenzo: LTC PM / CM",1,0,0,0,0
+"Dryden, Lorenzo: AGS PM / CM",1,0,0,0,0
+"Dryden, Lorenzo: Mechanical Deluge Repair",1,0,0,0,0
+"Dryden, Lorenzo: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Dryden, Lorenzo: Transformer Fan replacement",1,0,0,0,0
+"Dryden, Lorenzo: Transformer Pump replacement",1,0,0,0,0
+"Dryden, Lorenzo: Sesco oil processing truck operator",1,0,0,0,0
+"Dryden, Lorenzo: Sesco oil processing truck repair",1,0,0,0,0
+"Dryden, Lorenzo: Transformer Vacuum pump operator",1,0,0,0,0
+"Dryden, Lorenzo: Transformer Replacement",1,0,0,0,0
+"Dryden, Lorenzo: Transformer Bushing Replacement",1,0,0,0,0
+"Dryden, Lorenzo: Circuit Switcher Replacement",1,0,0,0,0
+"Dryden, Lorenzo: Kelman installation",1,0,0,0,0
+"Dryden, Lorenzo: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Dryden, Lorenzo: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Dryden, Lorenzo: Low Voltage Test Set CM",1,0,0,0,0
+"Dryden, Lorenzo: PURs Pump/Motor Replacement",1,0,0,0,0
+"Dryden, Lorenzo: PURs Pump VFD Replacement",1,0,0,0,0
+"Dryden, Lorenzo: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Dryden, Lorenzo: Pump House Ladder Calibration",1,0,0,0,0
+"Dryden, Lorenzo: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Dryden, Lorenzo: Diesel Generator PM / CM",1,0,0,0,0
+"Dryden, Lorenzo: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Dryden, Lorenzo: Pump House Pump Replacement ",1,0,0,0,0
+"Dryden, Lorenzo: Distribution Breaker PM",0,0,0,1,0
+"Dryden, Lorenzo: Distribution Breaker CM",0,0,0,1,0
+"Dryden, Lorenzo: Transmission Breaker CM",0,0,0,1,0
+"Dryden, Lorenzo: Transmission Breaker PM",0,0,0,1,0
+"Dryden, Lorenzo: Barksdale PM / CM",0,0,0,1,0
+"Dryden, Lorenzo: Battery Corrective Maintenance",0,0,1,0,0
+"Dryden, Lorenzo: Battery PM",0,0,1,0,0
+"Dryden, Lorenzo: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Dryden, Lorenzo: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Dryden, Lorenzo: Capbank Repairs",0,0,0,1,0
+"Dryden, Lorenzo: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Dryden, Lorenzo: Kemper Roof Installations",0,0,0,1,0
+"Dryden, Lorenzo: HVAC Maintenance",0,0,0,1,0
+"Dryden, Lorenzo: Asbestos abatement",1,0,0,0,0
+"Ercolino, Frank: Aerial lift Use",0,0,0,1,0
+"Ercolino, Frank: Electrical Troubleshooting",0,0,0,1,0
+"Ercolino, Frank: Gas Calls (any equipment)",0,0,0,1,0
+"Ercolino, Frank: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Ercolino, Frank: Swagelok tubing",0,0,0,1,0
+"Ercolino, Frank: Vacuum pump repair",0,1,0,0,0
+"Ercolino, Frank: Forklift operator",1,0,0,0,0
+"Ercolino, Frank: Confined Space Entry",1,0,0,0,0
+"Ercolino, Frank: Confined Space Supervisor",1,0,0,0,0
+"Ercolino, Frank: Welder",1,0,0,0,0
+"Ercolino, Frank: Fire Watch",0,1,0,0,0
+"Ercolino, Frank: Rigging",0,0,0,1,0
+"Ercolino, Frank: Cadwelds",0,0,1,0,0
+"Ercolino, Frank: Compressor PM / CM",1,0,0,0,0
+"Ercolino, Frank: Troubleshoot DC Grounds",0,0,0,1,0
+"Ercolino, Frank: SF6 gas cart use",0,0,0,1,0
+"Ercolino, Frank: Hotspots Inspections",1,0,0,0,0
+"Ercolino, Frank: Overheard Crane Training",0,0,0,1,0
+"Ercolino, Frank: CS PM / CM",1,0,0,0,0
+"Ercolino, Frank: LTC PM / CM",1,0,0,0,0
+"Ercolino, Frank: AGS PM / CM",1,0,0,0,0
+"Ercolino, Frank: Mechanical Deluge Repair",1,0,0,0,0
+"Ercolino, Frank: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Ercolino, Frank: Transformer Fan replacement",1,0,0,0,0
+"Ercolino, Frank: Transformer Pump replacement",1,0,0,0,0
+"Ercolino, Frank: Sesco oil processing truck operator",1,0,0,0,0
+"Ercolino, Frank: Sesco oil processing truck repair",1,0,0,0,0
+"Ercolino, Frank: Transformer Vacuum pump operator",1,0,0,0,0
+"Ercolino, Frank: Transformer Replacement",1,0,0,0,0
+"Ercolino, Frank: Transformer Bushing Replacement",1,0,0,0,0
+"Ercolino, Frank: Circuit Switcher Replacement",1,0,0,0,0
+"Ercolino, Frank: Kelman installation",1,0,0,0,0
+"Ercolino, Frank: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Ercolino, Frank: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Ercolino, Frank: Low Voltage Test Set CM",1,0,0,0,0
+"Ercolino, Frank: PURs Pump/Motor Replacement",1,0,0,0,0
+"Ercolino, Frank: PURs Pump VFD Replacement",1,0,0,0,0
+"Ercolino, Frank: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Ercolino, Frank: Pump House Ladder Calibration",1,0,0,0,0
+"Ercolino, Frank: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Ercolino, Frank: Diesel Generator PM / CM",1,0,0,0,0
+"Ercolino, Frank: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Ercolino, Frank: Pump House Pump Replacement ",1,0,0,0,0
+"Ercolino, Frank: Distribution Breaker PM",0,0,0,1,0
+"Ercolino, Frank: Distribution Breaker CM",0,0,0,1,0
+"Ercolino, Frank: Transmission Breaker CM",0,0,0,1,0
+"Ercolino, Frank: Transmission Breaker PM",0,0,0,1,0
+"Ercolino, Frank: Barksdale PM / CM",0,0,0,1,0
+"Ercolino, Frank: Battery Corrective Maintenance",0,0,1,0,0
+"Ercolino, Frank: Battery PM",0,0,1,0,0
+"Ercolino, Frank: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Ercolino, Frank: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Ercolino, Frank: Capbank Repairs",0,0,0,1,0
+"Ercolino, Frank: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Ercolino, Frank: Kemper Roof Installations",0,0,0,1,0
+"Ercolino, Frank: HVAC Maintenance",0,0,0,1,0
+"Ercolino, Frank: Asbestos abatement",1,0,0,0,0
+"Evans, Nathaniel: Aerial lift Use",0,0,0,1,0
+"Evans, Nathaniel: Electrical Troubleshooting",0,0,0,1,0
+"Evans, Nathaniel: Gas Calls (any equipment)",0,0,0,1,0
+"Evans, Nathaniel: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Evans, Nathaniel: Swagelok tubing",0,0,0,1,0
+"Evans, Nathaniel: Vacuum pump repair",0,1,0,0,0
+"Evans, Nathaniel: Forklift operator",1,0,0,0,0
+"Evans, Nathaniel: Confined Space Entry",1,0,0,0,0
+"Evans, Nathaniel: Confined Space Supervisor",1,0,0,0,0
+"Evans, Nathaniel: Welder",1,0,0,0,0
+"Evans, Nathaniel: Fire Watch",0,1,0,0,0
+"Evans, Nathaniel: Rigging",0,0,0,1,0
+"Evans, Nathaniel: Cadwelds",0,0,1,0,0
+"Evans, Nathaniel: Compressor PM / CM",1,0,0,0,0
+"Evans, Nathaniel: Troubleshoot DC Grounds",0,0,0,1,0
+"Evans, Nathaniel: SF6 gas cart use",0,0,0,1,0
+"Evans, Nathaniel: Hotspots Inspections",1,0,0,0,0
+"Evans, Nathaniel: Overheard Crane Training",0,0,0,1,0
+"Evans, Nathaniel: CS PM / CM",1,0,0,0,0
+"Evans, Nathaniel: LTC PM / CM",1,0,0,0,0
+"Evans, Nathaniel: AGS PM / CM",1,0,0,0,0
+"Evans, Nathaniel: Mechanical Deluge Repair",1,0,0,0,0
+"Evans, Nathaniel: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Evans, Nathaniel: Transformer Fan replacement",1,0,0,0,0
+"Evans, Nathaniel: Transformer Pump replacement",1,0,0,0,0
+"Evans, Nathaniel: Sesco oil processing truck operator",1,0,0,0,0
+"Evans, Nathaniel: Sesco oil processing truck repair",1,0,0,0,0
+"Evans, Nathaniel: Transformer Vacuum pump operator",1,0,0,0,0
+"Evans, Nathaniel: Transformer Replacement",1,0,0,0,0
+"Evans, Nathaniel: Transformer Bushing Replacement",1,0,0,0,0
+"Evans, Nathaniel: Circuit Switcher Replacement",1,0,0,0,0
+"Evans, Nathaniel: Kelman installation",1,0,0,0,0
+"Evans, Nathaniel: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Evans, Nathaniel: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Evans, Nathaniel: Low Voltage Test Set CM",1,0,0,0,0
+"Evans, Nathaniel: PURs Pump/Motor Replacement",1,0,0,0,0
+"Evans, Nathaniel: PURs Pump VFD Replacement",1,0,0,0,0
+"Evans, Nathaniel: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Evans, Nathaniel: Pump House Ladder Calibration",1,0,0,0,0
+"Evans, Nathaniel: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Evans, Nathaniel: Diesel Generator PM / CM",1,0,0,0,0
+"Evans, Nathaniel: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Evans, Nathaniel: Pump House Pump Replacement ",1,0,0,0,0
+"Evans, Nathaniel: Distribution Breaker PM",0,0,0,1,0
+"Evans, Nathaniel: Distribution Breaker CM",0,0,0,1,0
+"Evans, Nathaniel: Transmission Breaker CM",0,0,0,1,0
+"Evans, Nathaniel: Transmission Breaker PM",0,0,0,1,0
+"Evans, Nathaniel: Barksdale PM / CM",0,0,0,1,0
+"Evans, Nathaniel: Battery Corrective Maintenance",0,0,1,0,0
+"Evans, Nathaniel: Battery PM",0,0,1,0,0
+"Evans, Nathaniel: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Evans, Nathaniel: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Evans, Nathaniel: Capbank Repairs",0,0,0,1,0
+"Evans, Nathaniel: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Evans, Nathaniel: Kemper Roof Installations",0,0,0,1,0
+"Evans, Nathaniel: HVAC Maintenance",0,0,0,1,0
+"Evans, Nathaniel: Asbestos abatement",1,0,0,0,0
+"Fisher, Shawn: Aerial lift Use",0,0,0,1,0
+"Fisher, Shawn: Electrical Troubleshooting",0,0,0,1,0
+"Fisher, Shawn: Gas Calls (any equipment)",0,0,0,1,0
+"Fisher, Shawn: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Fisher, Shawn: Swagelok tubing",0,0,0,1,0
+"Fisher, Shawn: Vacuum pump repair",0,1,0,0,0
+"Fisher, Shawn: Forklift operator",1,0,0,0,0
+"Fisher, Shawn: Confined Space Entry",1,0,0,0,0
+"Fisher, Shawn: Confined Space Supervisor",1,0,0,0,0
+"Fisher, Shawn: Welder",1,0,0,0,0
+"Fisher, Shawn: Fire Watch",0,1,0,0,0
+"Fisher, Shawn: Rigging",0,0,0,1,0
+"Fisher, Shawn: Cadwelds",0,0,1,0,0
+"Fisher, Shawn: Compressor PM / CM",1,0,0,0,0
+"Fisher, Shawn: Troubleshoot DC Grounds",0,0,0,1,0
+"Fisher, Shawn: SF6 gas cart use",0,0,0,1,0
+"Fisher, Shawn: Hotspots Inspections",1,0,0,0,0
+"Fisher, Shawn: Overheard Crane Training",0,0,0,0,0
+"Fisher, Shawn: CS PM / CM",1,0,0,0,0
+"Fisher, Shawn: LTC PM / CM",1,0,0,0,0
+"Fisher, Shawn: AGS PM / CM",1,0,0,0,0
+"Fisher, Shawn: Mechanical Deluge Repair",1,0,0,0,0
+"Fisher, Shawn: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Fisher, Shawn: Transformer Fan replacement",1,0,0,0,0
+"Fisher, Shawn: Transformer Pump replacement",1,0,0,0,0
+"Fisher, Shawn: Sesco oil processing truck operator",1,0,0,0,0
+"Fisher, Shawn: Sesco oil processing truck repair",1,0,0,0,0
+"Fisher, Shawn: Transformer Vacuum pump operator",1,0,0,0,0
+"Fisher, Shawn: Transformer Replacement",1,0,0,0,0
+"Fisher, Shawn: Transformer Bushing Replacement",1,0,0,0,0
+"Fisher, Shawn: Circuit Switcher Replacement",1,0,0,0,0
+"Fisher, Shawn: Kelman installation",1,0,0,0,0
+"Fisher, Shawn: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Fisher, Shawn: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Fisher, Shawn: Low Voltage Test Set CM",1,0,0,0,0
+"Fisher, Shawn: PURs Pump/Motor Replacement",1,0,0,0,0
+"Fisher, Shawn: PURs Pump VFD Replacement",1,0,0,0,0
+"Fisher, Shawn: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Fisher, Shawn: Pump House Ladder Calibration",1,0,0,0,0
+"Fisher, Shawn: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Fisher, Shawn: Diesel Generator PM / CM",1,0,0,0,0
+"Fisher, Shawn: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Fisher, Shawn: Pump House Pump Replacement ",1,0,0,0,0
+"Fisher, Shawn: Distribution Breaker PM",0,0,0,1,0
+"Fisher, Shawn: Distribution Breaker CM",0,0,0,1,0
+"Fisher, Shawn: Transmission Breaker CM",0,0,0,1,0
+"Fisher, Shawn: Transmission Breaker PM",0,0,0,1,0
+"Fisher, Shawn: Barksdale PM / CM",0,0,0,1,0
+"Fisher, Shawn: Battery Corrective Maintenance",0,0,1,0,0
+"Fisher, Shawn: Battery PM",0,0,1,0,0
+"Fisher, Shawn: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Fisher, Shawn: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Fisher, Shawn: Capbank Repairs",0,0,0,1,0
+"Fisher, Shawn: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Fisher, Shawn: Kemper Roof Installations",0,0,0,1,0
+"Fisher, Shawn: HVAC Maintenance",0,0,0,1,0
+"Fisher, Shawn: Asbestos abatement",1,0,0,0,0
+"Gangoo, Ishmael: Aerial lift Use",0,0,0,1,0
+"Gangoo, Ishmael: Electrical Troubleshooting",0,0,0,1,0
+"Gangoo, Ishmael: Gas Calls (any equipment)",0,0,0,1,0
+"Gangoo, Ishmael: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Gangoo, Ishmael: Swagelok tubing",0,0,0,1,0
+"Gangoo, Ishmael: Vacuum pump repair",0,1,0,0,0
+"Gangoo, Ishmael: Forklift operator",1,0,0,0,0
+"Gangoo, Ishmael: Confined Space Entry",1,0,0,0,0
+"Gangoo, Ishmael: Confined Space Supervisor",1,0,0,0,0
+"Gangoo, Ishmael: Welder",1,0,0,0,0
+"Gangoo, Ishmael: Fire Watch",0,1,0,0,0
+"Gangoo, Ishmael: Rigging",0,0,0,1,0
+"Gangoo, Ishmael: Cadwelds",0,0,1,0,0
+"Gangoo, Ishmael: Compressor PM / CM",1,0,0,0,0
+"Gangoo, Ishmael: Troubleshoot DC Grounds",0,1,0,0,0
+"Gangoo, Ishmael: SF6 gas cart use",0,0,1,0,0
+"Gangoo, Ishmael: Hotspots Inspections",1,0,0,0,0
+"Gangoo, Ishmael: Overheard Crane Training",0,0,0,1,0
+"Gangoo, Ishmael: CS PM / CM",0,0,0,1,0
+"Gangoo, Ishmael: LTC PM / CM",0,0,0,1,0
+"Gangoo, Ishmael: AGS PM / CM",0,0,0,1,0
+"Gangoo, Ishmael: Mechanical Deluge Repair",0,0,0,1,0
+"Gangoo, Ishmael: Tapguard 260/TM 100 troubleshooting",0,0,0,1,0
+"Gangoo, Ishmael: Transformer Fan replacement",0,0,0,1,0
+"Gangoo, Ishmael: Transformer Pump replacement",0,0,0,1,0
+"Gangoo, Ishmael: Sesco oil processing truck operator",0,0,0,1,0
+"Gangoo, Ishmael: Sesco oil processing truck repair",0,0,0,1,0
+"Gangoo, Ishmael: Transformer Vacuum pump operator",0,0,0,1,0
+"Gangoo, Ishmael: Transformer Replacement",0,0,0,1,0
+"Gangoo, Ishmael: Transformer Bushing Replacement",0,0,0,1,0
+"Gangoo, Ishmael: Circuit Switcher Replacement",0,0,0,1,0
+"Gangoo, Ishmael: Kelman installation",0,0,0,1,0
+"Gangoo, Ishmael: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Gangoo, Ishmael: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Gangoo, Ishmael: Low Voltage Test Set CM",1,0,0,0,0
+"Gangoo, Ishmael: PURs Pump/Motor Replacement",1,0,0,0,0
+"Gangoo, Ishmael: PURs Pump VFD Replacement",1,0,0,0,0
+"Gangoo, Ishmael: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Gangoo, Ishmael: Pump House Ladder Calibration",1,0,0,0,0
+"Gangoo, Ishmael: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Gangoo, Ishmael: Diesel Generator PM / CM",1,0,0,0,0
+"Gangoo, Ishmael: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Gangoo, Ishmael: Pump House Pump Replacement ",1,0,0,0,0
+"Gangoo, Ishmael: Distribution Breaker PM",1,0,0,0,0
+"Gangoo, Ishmael: Distribution Breaker CM",1,0,0,0,0
+"Gangoo, Ishmael: Transmission Breaker CM",1,0,0,0,0
+"Gangoo, Ishmael: Transmission Breaker PM",1,0,0,0,0
+"Gangoo, Ishmael: Barksdale PM / CM",1,0,0,0,0
+"Gangoo, Ishmael: Battery Corrective Maintenance",1,0,0,0,0
+"Gangoo, Ishmael: Battery PM",1,0,0,0,0
+"Gangoo, Ishmael: Repair high voltage test leads/portable grounds",1,0,0,0,0
+"Gangoo, Ishmael: Installing / troubleshooting RMS coils",1,0,0,0,0
+"Gangoo, Ishmael: Capbank Repairs",1,0,0,0,0
+"Gangoo, Ishmael: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Gangoo, Ishmael: Kemper Roof Installations",1,0,0,0,0
+"Gangoo, Ishmael: HVAC Maintenance",1,0,0,0,0
+"Gangoo, Ishmael: Asbestos abatement",1,0,0,0,0
+"Garzino, Frank: Aerial lift Use",0,0,0,1,0
+"Garzino, Frank: Electrical Troubleshooting",0,0,0,1,0
+"Garzino, Frank: Gas Calls (any equipment)",0,0,0,1,0
+"Garzino, Frank: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Garzino, Frank: Swagelok tubing",0,0,0,1,0
+"Garzino, Frank: Vacuum pump repair",0,1,0,0,0
+"Garzino, Frank: Forklift operator",1,0,0,0,0
+"Garzino, Frank: Confined Space Entry",1,0,0,0,0
+"Garzino, Frank: Confined Space Supervisor",1,0,0,0,0
+"Garzino, Frank: Welder",1,0,0,0,0
+"Garzino, Frank: Fire Watch",0,1,0,0,0
+"Garzino, Frank: Rigging",0,0,0,1,0
+"Garzino, Frank: Cadwelds",0,0,1,0,0
+"Garzino, Frank: Compressor PM / CM",1,0,0,0,0
+"Garzino, Frank: Troubleshoot DC Grounds",0,0,0,1,0
+"Garzino, Frank: SF6 gas cart use",0,0,0,1,0
+"Garzino, Frank: Hotspots Inspections",1,0,0,0,0
+"Garzino, Frank: Overheard Crane Training",0,0,0,0,0
+"Garzino, Frank: CS PM / CM",1,0,0,0,0
+"Garzino, Frank: LTC PM / CM",1,0,0,0,0
+"Garzino, Frank: AGS PM / CM",1,0,0,0,0
+"Garzino, Frank: Mechanical Deluge Repair",1,0,0,0,0
+"Garzino, Frank: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Garzino, Frank: Transformer Fan replacement",1,0,0,0,0
+"Garzino, Frank: Transformer Pump replacement",1,0,0,0,0
+"Garzino, Frank: Sesco oil processing truck operator",1,0,0,0,0
+"Garzino, Frank: Sesco oil processing truck repair",1,0,0,0,0
+"Garzino, Frank: Transformer Vacuum pump operator",1,0,0,0,0
+"Garzino, Frank: Transformer Replacement",1,0,0,0,0
+"Garzino, Frank: Transformer Bushing Replacement",1,0,0,0,0
+"Garzino, Frank: Circuit Switcher Replacement",1,0,0,0,0
+"Garzino, Frank: Kelman installation",1,0,0,0,0
+"Garzino, Frank: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Garzino, Frank: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Garzino, Frank: Low Voltage Test Set CM",1,0,0,0,0
+"Garzino, Frank: PURs Pump/Motor Replacement",1,0,0,0,0
+"Garzino, Frank: PURs Pump VFD Replacement",1,0,0,0,0
+"Garzino, Frank: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Garzino, Frank: Pump House Ladder Calibration",1,0,0,0,0
+"Garzino, Frank: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Garzino, Frank: Diesel Generator PM / CM",1,0,0,0,0
+"Garzino, Frank: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Garzino, Frank: Pump House Pump Replacement ",1,0,0,0,0
+"Garzino, Frank: Distribution Breaker PM",0,0,0,1,0
+"Garzino, Frank: Distribution Breaker CM",0,0,0,1,0
+"Garzino, Frank: Transmission Breaker CM",0,0,0,1,0
+"Garzino, Frank: Transmission Breaker PM",0,0,0,1,0
+"Garzino, Frank: Barksdale PM / CM",0,0,0,1,0
+"Garzino, Frank: Battery Corrective Maintenance",0,0,1,0,0
+"Garzino, Frank: Battery PM",0,0,1,0,0
+"Garzino, Frank: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Garzino, Frank: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Garzino, Frank: Capbank Repairs",0,0,0,1,0
+"Garzino, Frank: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Garzino, Frank: Kemper Roof Installations",0,0,0,1,0
+"Garzino, Frank: HVAC Maintenance",0,0,0,1,0
+"Garzino, Frank: Asbestos abatement",1,0,0,0,0
+"Grunewald, Jason: Aerial lift Use",0,0,0,1,0
+"Grunewald, Jason: Electrical Troubleshooting",0,0,0,1,0
+"Grunewald, Jason: Gas Calls (any equipment)",0,0,0,1,0
+"Grunewald, Jason: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Grunewald, Jason: Swagelok tubing",0,0,0,1,0
+"Grunewald, Jason: Vacuum pump repair",0,1,0,0,0
+"Grunewald, Jason: Forklift operator",0,0,0,1,0
+"Grunewald, Jason: Confined Space Entry",1,0,0,0,0
+"Grunewald, Jason: Confined Space Supervisor",1,0,0,0,0
+"Grunewald, Jason: Welder",1,0,0,0,0
+"Grunewald, Jason: Fire Watch",0,1,0,0,0
+"Grunewald, Jason: Rigging",0,0,0,1,0
+"Grunewald, Jason: Cadwelds",0,0,1,0,0
+"Grunewald, Jason: Compressor PM / CM",1,0,0,0,0
+"Grunewald, Jason: Troubleshoot DC Grounds",0,1,0,0,0
+"Grunewald, Jason: SF6 gas cart use",0,0,1,0,0
+"Grunewald, Jason: Hotspots Inspections",1,0,0,0,0
+"Grunewald, Jason: Overheard Crane Training",0,0,0,1,0
+"Grunewald, Jason: CS PM / CM",0,0,0,1,0
+"Grunewald, Jason: LTC PM / CM",0,0,0,1,0
+"Grunewald, Jason: AGS PM / CM",0,0,0,1,0
+"Grunewald, Jason: Mechanical Deluge Repair",0,0,0,1,0
+"Grunewald, Jason: Tapguard 260/TM 100 troubleshooting",0,0,0,1,0
+"Grunewald, Jason: Transformer Fan replacement",0,0,0,1,0
+"Grunewald, Jason: Transformer Pump replacement",0,0,0,1,0
+"Grunewald, Jason: Sesco oil processing truck operator",0,0,0,1,0
+"Grunewald, Jason: Sesco oil processing truck repair",0,0,0,1,0
+"Grunewald, Jason: Transformer Vacuum pump operator",0,0,0,1,0
+"Grunewald, Jason: Transformer Replacement",0,0,0,1,0
+"Grunewald, Jason: Transformer Bushing Replacement",0,0,0,1,0
+"Grunewald, Jason: Circuit Switcher Replacement",0,0,0,1,0
+"Grunewald, Jason: Kelman installation",0,0,0,1,0
+"Grunewald, Jason: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Grunewald, Jason: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Grunewald, Jason: Low Voltage Test Set CM",1,0,0,0,0
+"Grunewald, Jason: PURs Pump/Motor Replacement",1,0,0,0,0
+"Grunewald, Jason: PURs Pump VFD Replacement",1,0,0,0,0
+"Grunewald, Jason: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Grunewald, Jason: Pump House Ladder Calibration",1,0,0,0,0
+"Grunewald, Jason: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Grunewald, Jason: Diesel Generator PM / CM",1,0,0,0,0
+"Grunewald, Jason: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Grunewald, Jason: Pump House Pump Replacement ",1,0,0,0,0
+"Grunewald, Jason: Distribution Breaker PM",1,0,0,0,0
+"Grunewald, Jason: Distribution Breaker CM",1,0,0,0,0
+"Grunewald, Jason: Transmission Breaker CM",1,0,0,0,0
+"Grunewald, Jason: Transmission Breaker PM",1,0,0,0,0
+"Grunewald, Jason: Barksdale PM / CM",1,0,0,0,0
+"Grunewald, Jason: Battery Corrective Maintenance",1,0,0,0,0
+"Grunewald, Jason: Battery PM",1,0,0,0,0
+"Grunewald, Jason: Repair high voltage test leads/portable grounds",1,0,0,0,0
+"Grunewald, Jason: Installing / troubleshooting RMS coils",1,0,0,0,0
+"Grunewald, Jason: Capbank Repairs",1,0,0,0,0
+"Grunewald, Jason: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Grunewald, Jason: Kemper Roof Installations",1,0,0,0,0
+"Grunewald, Jason: HVAC Maintenance",1,0,0,0,0
+"Grunewald, Jason: Asbestos abatement",1,0,0,0,0
+"Hanson, Raphael: Aerial lift Use",0,0,0,1,0
+"Hanson, Raphael: Electrical Troubleshooting",0,0,0,1,0
+"Hanson, Raphael: Gas Calls (any equipment)",0,0,0,1,0
+"Hanson, Raphael: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Hanson, Raphael: Swagelok tubing",0,0,0,1,0
+"Hanson, Raphael: Vacuum pump repair",0,1,0,0,0
+"Hanson, Raphael: Forklift operator",1,0,0,0,0
+"Hanson, Raphael: Confined Space Entry",1,0,0,0,0
+"Hanson, Raphael: Confined Space Supervisor",1,0,0,0,0
+"Hanson, Raphael: Welder",1,0,0,0,0
+"Hanson, Raphael: Fire Watch",0,1,0,0,0
+"Hanson, Raphael: Rigging",0,0,0,1,0
+"Hanson, Raphael: Cadwelds",0,0,1,0,0
+"Hanson, Raphael: Compressor PM / CM",1,0,0,0,0
+"Hanson, Raphael: Troubleshoot DC Grounds",0,1,0,0,0
+"Hanson, Raphael: SF6 gas cart use",0,0,1,0,0
+"Hanson, Raphael: Hotspots Inspections",1,0,0,0,0
+"Hanson, Raphael: Overheard Crane Training",0,0,0,1,0
+"Hanson, Raphael: CS PM / CM",0,0,0,1,0
+"Hanson, Raphael: LTC PM / CM",0,0,0,1,0
+"Hanson, Raphael: AGS PM / CM",0,0,0,1,0
+"Hanson, Raphael: Mechanical Deluge Repair",0,0,0,1,0
+"Hanson, Raphael: Tapguard 260/TM 100 troubleshooting",0,0,0,1,0
+"Hanson, Raphael: Transformer Fan replacement",0,0,0,1,0
+"Hanson, Raphael: Transformer Pump replacement",0,0,0,1,0
+"Hanson, Raphael: Sesco oil processing truck operator",0,0,0,1,0
+"Hanson, Raphael: Sesco oil processing truck repair",0,0,0,1,0
+"Hanson, Raphael: Transformer Vacuum pump operator",0,0,0,1,0
+"Hanson, Raphael: Transformer Replacement",0,0,0,1,0
+"Hanson, Raphael: Transformer Bushing Replacement",0,0,0,1,0
+"Hanson, Raphael: Circuit Switcher Replacement",0,0,0,1,0
+"Hanson, Raphael: Kelman installation",0,0,0,1,0
+"Hanson, Raphael: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Hanson, Raphael: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Hanson, Raphael: Low Voltage Test Set CM",1,0,0,0,0
+"Hanson, Raphael: PURs Pump/Motor Replacement",1,0,0,0,0
+"Hanson, Raphael: PURs Pump VFD Replacement",1,0,0,0,0
+"Hanson, Raphael: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Hanson, Raphael: Pump House Ladder Calibration",1,0,0,0,0
+"Hanson, Raphael: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Hanson, Raphael: Diesel Generator PM / CM",1,0,0,0,0
+"Hanson, Raphael: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Hanson, Raphael: Pump House Pump Replacement ",1,0,0,0,0
+"Hanson, Raphael: Distribution Breaker PM",1,0,0,0,0
+"Hanson, Raphael: Distribution Breaker CM",1,0,0,0,0
+"Hanson, Raphael: Transmission Breaker CM",1,0,0,0,0
+"Hanson, Raphael: Transmission Breaker PM",1,0,0,0,0
+"Hanson, Raphael: Barksdale PM / CM",1,0,0,0,0
+"Hanson, Raphael: Battery Corrective Maintenance",1,0,0,0,0
+"Hanson, Raphael: Battery PM",1,0,0,0,0
+"Hanson, Raphael: Repair high voltage test leads/portable grounds",1,0,0,0,0
+"Hanson, Raphael: Installing / troubleshooting RMS coils",1,0,0,0,0
+"Hanson, Raphael: Capbank Repairs",1,0,0,0,0
+"Hanson, Raphael: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Hanson, Raphael: Kemper Roof Installations",1,0,0,0,0
+"Hanson, Raphael: HVAC Maintenance",1,0,0,0,0
+"Hanson, Raphael: Asbestos abatement",1,0,0,0,0
+"Hayes, Jason: Aerial lift Use",0,0,0,1,0
+"Hayes, Jason: Electrical Troubleshooting",0,0,0,1,0
+"Hayes, Jason: Gas Calls (any equipment)",0,0,0,1,0
+"Hayes, Jason: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Hayes, Jason: Swagelok tubing",0,0,0,1,0
+"Hayes, Jason: Vacuum pump repair",0,1,0,0,0
+"Hayes, Jason: Forklift operator",1,0,0,0,0
+"Hayes, Jason: Confined Space Entry",1,0,0,0,0
+"Hayes, Jason: Confined Space Supervisor",1,0,0,0,0
+"Hayes, Jason: Welder",0,0,0,1,0
+"Hayes, Jason: Fire Watch",0,1,0,0,0
+"Hayes, Jason: Rigging",0,0,0,1,0
+"Hayes, Jason: Cadwelds",0,0,1,0,0
+"Hayes, Jason: Compressor PM / CM",1,0,0,0,0
+"Hayes, Jason: Troubleshoot DC Grounds",1,0,0,0,0
+"Hayes, Jason: SF6 gas cart use",1,0,0,0,0
+"Hayes, Jason: Hotspots Inspections",1,0,0,0,0
+"Hayes, Jason: Overheard Crane Training",1,0,0,0,0
+"Hayes, Jason: CS PM / CM",1,0,0,0,0
+"Hayes, Jason: LTC PM / CM",1,0,0,0,0
+"Hayes, Jason: AGS PM / CM",1,0,0,0,0
+"Hayes, Jason: Mechanical Deluge Repair",1,0,0,0,0
+"Hayes, Jason: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Hayes, Jason: Transformer Fan replacement",1,0,0,0,0
+"Hayes, Jason: Transformer Pump replacement",1,0,0,0,0
+"Hayes, Jason: Sesco oil processing truck operator",1,0,0,0,0
+"Hayes, Jason: Sesco oil processing truck repair",1,0,0,0,0
+"Hayes, Jason: Transformer Vacuum pump operator",1,0,0,0,0
+"Hayes, Jason: Transformer Replacement",1,0,0,0,0
+"Hayes, Jason: Transformer Bushing Replacement",1,0,0,0,0
+"Hayes, Jason: Circuit Switcher Replacement",1,0,0,0,0
+"Hayes, Jason: Kelman installation",1,0,0,0,0
+"Hayes, Jason: AC High Voltage Test Set PM / CM",0,0,0,1,0
+"Hayes, Jason: DC High Voltage Test Set PM / CM",0,0,0,1,0
+"Hayes, Jason: Low Voltage Test Set CM",0,0,0,1,0
+"Hayes, Jason: PURs Pump/Motor Replacement",0,0,0,1,0
+"Hayes, Jason: PURs Pump VFD Replacement",0,0,0,1,0
+"Hayes, Jason: PURs/CP Pump/Motor Alignment",0,0,0,1,0
+"Hayes, Jason: Pump House Ladder Calibration",0,0,0,1,0
+"Hayes, Jason: Pump House PLC troubleshooting & Repairs",0,0,0,1,0
+"Hayes, Jason: Diesel Generator PM / CM",0,0,0,1,0
+"Hayes, Jason: Working in a PURs facility w/ out an operator",0,0,0,1,0
+"Hayes, Jason: Pump House Pump Replacement ",0,0,0,1,0
+"Hayes, Jason: Distribution Breaker PM",1,0,0,0,0
+"Hayes, Jason: Distribution Breaker CM",1,0,0,0,0
+"Hayes, Jason: Transmission Breaker CM",1,0,0,0,0
+"Hayes, Jason: Transmission Breaker PM",1,0,0,0,0
+"Hayes, Jason: Barksdale PM / CM",1,0,0,0,0
+"Hayes, Jason: Battery Corrective Maintenance",1,0,0,0,0
+"Hayes, Jason: Battery PM",1,0,0,0,0
+"Hayes, Jason: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Hayes, Jason: Installing / troubleshooting RMS coils",1,0,0,0,0
+"Hayes, Jason: Capbank Repairs",1,0,0,0,0
+"Hayes, Jason: Disconnect and Ground Switch Adj/Repairs",1,0,0,0,0
+"Hayes, Jason: Kemper Roof Installations",1,0,0,0,0
+"Hayes, Jason: HVAC Maintenance",1,0,0,0,0
+"Hayes, Jason: Asbestos abatement",1,0,0,0,0
+"Hoti, Rock: Aerial lift Use",0,0,0,1,0
+"Hoti, Rock: Electrical Troubleshooting",0,0,0,1,0
+"Hoti, Rock: Gas Calls (any equipment)",0,0,0,1,0
+"Hoti, Rock: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Hoti, Rock: Swagelok tubing",0,0,0,1,0
+"Hoti, Rock: Vacuum pump repair",0,1,0,0,0
+"Hoti, Rock: Forklift operator",1,0,0,0,0
+"Hoti, Rock: Confined Space Entry",1,0,0,0,0
+"Hoti, Rock: Confined Space Supervisor",1,0,0,0,0
+"Hoti, Rock: Welder",1,0,0,0,0
+"Hoti, Rock: Fire Watch",0,1,0,0,0
+"Hoti, Rock: Rigging",0,0,0,1,0
+"Hoti, Rock: Cadwelds",0,0,1,0,0
+"Hoti, Rock: Compressor PM / CM",1,0,0,0,0
+"Hoti, Rock: Troubleshoot DC Grounds",0,0,0,0,1
+"Hoti, Rock: SF6 gas cart use",0,0,0,1,0
+"Hoti, Rock: Hotspots Inspections",1,0,0,0,0
+"Hoti, Rock: Overheard Crane Training",0,0,0,1,0
+"Hoti, Rock: CS PM / CM",1,0,0,0,0
+"Hoti, Rock: LTC PM / CM",1,0,0,0,0
+"Hoti, Rock: AGS PM / CM",1,0,0,0,0
+"Hoti, Rock: Mechanical Deluge Repair",1,0,0,0,0
+"Hoti, Rock: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Hoti, Rock: Transformer Fan replacement",1,0,0,0,0
+"Hoti, Rock: Transformer Pump replacement",1,0,0,0,0
+"Hoti, Rock: Sesco oil processing truck operator",1,0,0,0,0
+"Hoti, Rock: Sesco oil processing truck repair",1,0,0,0,0
+"Hoti, Rock: Transformer Vacuum pump operator",1,0,0,0,0
+"Hoti, Rock: Transformer Replacement",1,0,0,0,0
+"Hoti, Rock: Transformer Bushing Replacement",1,0,0,0,0
+"Hoti, Rock: Circuit Switcher Replacement",1,0,0,0,0
+"Hoti, Rock: Kelman installation",1,0,0,0,0
+"Hoti, Rock: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Hoti, Rock: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Hoti, Rock: Low Voltage Test Set CM",1,0,0,0,0
+"Hoti, Rock: PURs Pump/Motor Replacement",1,0,0,0,0
+"Hoti, Rock: PURs Pump VFD Replacement",1,0,0,0,0
+"Hoti, Rock: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Hoti, Rock: Pump House Ladder Calibration",1,0,0,0,0
+"Hoti, Rock: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Hoti, Rock: Diesel Generator PM / CM",1,0,0,0,0
+"Hoti, Rock: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Hoti, Rock: Pump House Pump Replacement ",1,0,0,0,0
+"Hoti, Rock: Distribution Breaker PM",0,0,0,1,0
+"Hoti, Rock: Distribution Breaker CM",0,0,0,1,0
+"Hoti, Rock: Transmission Breaker CM",0,0,0,1,0
+"Hoti, Rock: Transmission Breaker PM",0,0,0,1,0
+"Hoti, Rock: Barksdale PM / CM",0,0,0,1,0
+"Hoti, Rock: Battery Corrective Maintenance",0,0,1,0,0
+"Hoti, Rock: Battery PM",0,0,1,0,0
+"Hoti, Rock: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Hoti, Rock: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Hoti, Rock: Capbank Repairs",0,0,0,1,0
+"Hoti, Rock: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Hoti, Rock: Kemper Roof Installations",0,0,0,1,0
+"Hoti, Rock: HVAC Maintenance",0,0,0,1,0
+"Hoti, Rock: Asbestos abatement",1,0,0,0,0
+"Jones, Jonathan: Aerial lift Use",0,0,0,1,0
+"Jones, Jonathan: Electrical Troubleshooting",0,0,0,1,0
+"Jones, Jonathan: Gas Calls (any equipment)",0,0,0,1,0
+"Jones, Jonathan: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Jones, Jonathan: Swagelok tubing",0,0,0,1,0
+"Jones, Jonathan: Vacuum pump repair",0,1,0,0,0
+"Jones, Jonathan: Forklift operator",1,0,0,0,0
+"Jones, Jonathan: Confined Space Entry",1,0,0,0,0
+"Jones, Jonathan: Confined Space Supervisor",1,0,0,0,0
+"Jones, Jonathan: Welder",0,0,0,1,0
+"Jones, Jonathan: Fire Watch",0,1,0,0,0
+"Jones, Jonathan: Rigging",0,0,0,1,0
+"Jones, Jonathan: Cadwelds",0,0,1,0,0
+"Jones, Jonathan: Compressor PM / CM",1,0,0,0,0
+"Jones, Jonathan: Troubleshoot DC Grounds",1,0,0,0,0
+"Jones, Jonathan: SF6 gas cart use",1,0,0,0,0
+"Jones, Jonathan: Hotspots Inspections",1,0,0,0,0
+"Jones, Jonathan: Overheard Crane Training",1,0,0,0,0
+"Jones, Jonathan: CS PM / CM",1,0,0,0,0
+"Jones, Jonathan: LTC PM / CM",1,0,0,0,0
+"Jones, Jonathan: AGS PM / CM",1,0,0,0,0
+"Jones, Jonathan: Mechanical Deluge Repair",1,0,0,0,0
+"Jones, Jonathan: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Jones, Jonathan: Transformer Fan replacement",1,0,0,0,0
+"Jones, Jonathan: Transformer Pump replacement",1,0,0,0,0
+"Jones, Jonathan: Sesco oil processing truck operator",1,0,0,0,0
+"Jones, Jonathan: Sesco oil processing truck repair",1,0,0,0,0
+"Jones, Jonathan: Transformer Vacuum pump operator",1,0,0,0,0
+"Jones, Jonathan: Transformer Replacement",1,0,0,0,0
+"Jones, Jonathan: Transformer Bushing Replacement",1,0,0,0,0
+"Jones, Jonathan: Circuit Switcher Replacement",1,0,0,0,0
+"Jones, Jonathan: Kelman installation",1,0,0,0,0
+"Jones, Jonathan: AC High Voltage Test Set PM / CM",0,0,0,1,0
+"Jones, Jonathan: DC High Voltage Test Set PM / CM",0,0,0,1,0
+"Jones, Jonathan: Low Voltage Test Set CM",0,0,0,1,0
+"Jones, Jonathan: PURs Pump/Motor Replacement",0,0,0,1,0
+"Jones, Jonathan: PURs Pump VFD Replacement",0,0,0,1,0
+"Jones, Jonathan: PURs/CP Pump/Motor Alignment",0,0,0,1,0
+"Jones, Jonathan: Pump House Ladder Calibration",0,0,0,1,0
+"Jones, Jonathan: Pump House PLC troubleshooting & Repairs",0,0,0,1,0
+"Jones, Jonathan: Diesel Generator PM / CM",0,0,0,1,0
+"Jones, Jonathan: Working in a PURs facility w/ out an operator",0,0,0,1,0
+"Jones, Jonathan: Pump House Pump Replacement ",0,0,0,1,0
+"Jones, Jonathan: Distribution Breaker PM",1,0,0,0,0
+"Jones, Jonathan: Distribution Breaker CM",1,0,0,0,0
+"Jones, Jonathan: Transmission Breaker CM",1,0,0,0,0
+"Jones, Jonathan: Transmission Breaker PM",1,0,0,0,0
+"Jones, Jonathan: Barksdale PM / CM",1,0,0,0,0
+"Jones, Jonathan: Battery Corrective Maintenance",1,0,0,0,0
+"Jones, Jonathan: Battery PM",1,0,0,0,0
+"Jones, Jonathan: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Jones, Jonathan: Installing / troubleshooting RMS coils",1,0,0,0,0
+"Jones, Jonathan: Capbank Repairs",1,0,0,0,0
+"Jones, Jonathan: Disconnect and Ground Switch Adj/Repairs",1,0,0,0,0
+"Jones, Jonathan: Kemper Roof Installations",1,0,0,0,0
+"Jones, Jonathan: HVAC Maintenance",1,0,0,0,0
+"Jones, Jonathan: Asbestos abatement",1,0,0,0,0
+"Kane, Brendan: Aerial lift Use",0,0,0,1,0
+"Kane, Brendan: Electrical Troubleshooting",0,0,0,1,0
+"Kane, Brendan: Gas Calls (any equipment)",0,0,0,1,0
+"Kane, Brendan: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Kane, Brendan: Swagelok tubing",0,0,0,1,0
+"Kane, Brendan: Vacuum pump repair",0,1,0,0,0
+"Kane, Brendan: Forklift operator",1,0,0,0,0
+"Kane, Brendan: Confined Space Entry",1,0,0,0,0
+"Kane, Brendan: Confined Space Supervisor",1,0,0,0,0
+"Kane, Brendan: Welder",1,0,0,0,0
+"Kane, Brendan: Fire Watch",0,1,0,0,0
+"Kane, Brendan: Rigging",0,0,0,1,0
+"Kane, Brendan: Cadwelds",0,0,1,0,0
+"Kane, Brendan: Compressor PM / CM",1,0,0,0,0
+"Kane, Brendan: Troubleshoot DC Grounds",0,1,0,0,0
+"Kane, Brendan: SF6 gas cart use",0,0,1,0,0
+"Kane, Brendan: Hotspots Inspections",1,0,0,0,0
+"Kane, Brendan: Overheard Crane Training",0,0,0,1,0
+"Kane, Brendan: CS PM / CM",0,0,0,1,0
+"Kane, Brendan: LTC PM / CM",0,0,0,1,0
+"Kane, Brendan: AGS PM / CM",0,0,0,1,0
+"Kane, Brendan: Mechanical Deluge Repair",0,0,0,1,0
+"Kane, Brendan: Tapguard 260/TM 100 troubleshooting",0,0,0,1,0
+"Kane, Brendan: Transformer Fan replacement",0,0,0,1,0
+"Kane, Brendan: Transformer Pump replacement",0,0,0,1,0
+"Kane, Brendan: Sesco oil processing truck operator",0,0,0,1,0
+"Kane, Brendan: Sesco oil processing truck repair",0,0,0,1,0
+"Kane, Brendan: Transformer Vacuum pump operator",0,0,0,1,0
+"Kane, Brendan: Transformer Replacement",0,0,0,1,0
+"Kane, Brendan: Transformer Bushing Replacement",0,0,0,1,0
+"Kane, Brendan: Circuit Switcher Replacement",0,0,0,1,0
+"Kane, Brendan: Kelman installation",0,0,0,1,0
+"Kane, Brendan: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Kane, Brendan: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Kane, Brendan: Low Voltage Test Set CM",1,0,0,0,0
+"Kane, Brendan: PURs Pump/Motor Replacement",1,0,0,0,0
+"Kane, Brendan: PURs Pump VFD Replacement",1,0,0,0,0
+"Kane, Brendan: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Kane, Brendan: Pump House Ladder Calibration",1,0,0,0,0
+"Kane, Brendan: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Kane, Brendan: Diesel Generator PM / CM",1,0,0,0,0
+"Kane, Brendan: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Kane, Brendan: Pump House Pump Replacement ",1,0,0,0,0
+"Kane, Brendan: Distribution Breaker PM",1,0,0,0,0
+"Kane, Brendan: Distribution Breaker CM",1,0,0,0,0
+"Kane, Brendan: Transmission Breaker CM",1,0,0,0,0
+"Kane, Brendan: Transmission Breaker PM",1,0,0,0,0
+"Kane, Brendan: Barksdale PM / CM",1,0,0,0,0
+"Kane, Brendan: Battery Corrective Maintenance",1,0,0,0,0
+"Kane, Brendan: Battery PM",1,0,0,0,0
+"Kane, Brendan: Repair high voltage test leads/portable grounds",1,0,0,0,0
+"Kane, Brendan: Installing / troubleshooting RMS coils",1,0,0,0,0
+"Kane, Brendan: Capbank Repairs",1,0,0,0,0
+"Kane, Brendan: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Kane, Brendan: Kemper Roof Installations",1,0,0,0,0
+"Kane, Brendan: HVAC Maintenance",1,0,0,0,0
+"Kane, Brendan: Asbestos abatement",1,0,0,0,0
+"Kane, Michael: Aerial lift Use",0,0,0,1,0
+"Kane, Michael: Electrical Troubleshooting",0,0,0,1,0
+"Kane, Michael: Gas Calls (any equipment)",0,0,0,1,0
+"Kane, Michael: Electrical Conduit /Wiring Installation",0,0,0,1,0
+"Kane, Michael: Swagelok tubing",0,0,0,1,0
+"Kane, Michael: Vacuum pump repair",0,1,0,0,0
+"Kane, Michael: Forklift operator",0,0,0,1,0
+"Kane, Michael: Confined Space Entry",1,0,0,0,0
+"Kane, Michael: Confined Space Supervisor",1,0,0,0,0
+"Kane, Michael: Welder",1,0,0,0,0
+"Kane, Michael: Fire Watch",0,0,1,0,0
+"Kane, Michael: Rigging",0,0,0,1,0
+"Kane, Michael: Cadwelds",0,0,0,1,0
+"Kane, Michael: Compressor PM / CM",0,0,0,1,0
+"Kane, Michael: Troubleshoot DC Grounds",0,0,0,1,0
+"Kane, Michael: SF6 gas cart use",0,0,0,1,0
+"Kane, Michael: Hotspots Inspections",1,0,0,0,0
+"Kane, Michael: Overheard Crane Training",0,0,0,1,0
+"Kane, Michael: CS PM / CM",0,0,0,1,0
+"Kane, Michael: LTC PM / CM",0,0,0,1,0
+"Kane, Michael: AGS PM / CM",0,0,0,1,0
+"Kane, Michael: Mechanical Deluge Repair",0,0,0,1,0
+"Kane, Michael: Tapguard 260/TM 100 troubleshooting",0,0,0,1,0
+"Kane, Michael: Transformer Fan replacement",0,0,0,1,0
+"Kane, Michael: Transformer Pump replacement",0,0,0,1,0
+"Kane, Michael: Sesco oil processing truck operator",0,0,0,1,0
+"Kane, Michael: Sesco oil processing truck repair",0,0,0,1,0
+"Kane, Michael: Transformer Vacuum pump operator",0,0,0,1,0
+"Kane, Michael: Transformer Replacement",0,0,0,1,0
+"Kane, Michael: Transformer Bushing Replacement",0,0,0,1,0
+"Kane, Michael: Circuit Switcher Replacement",0,0,0,1,0
+"Kane, Michael: Kelman installation",0,0,0,1,0
+"Kane, Michael: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Kane, Michael: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Kane, Michael: Low Voltage Test Set CM",1,0,0,0,0
+"Kane, Michael: PURs Pump/Motor Replacement",0,0,0,1,0
+"Kane, Michael: PURs Pump VFD Replacement",0,0,0,1,0
+"Kane, Michael: PURs/CP Pump/Motor Alignment",0,0,0,1,0
+"Kane, Michael: Pump House Ladder Calibration",0,0,0,1,0
+"Kane, Michael: Pump House PLC troubleshooting & Repairs",0,0,0,1,0
+"Kane, Michael: Diesel Generator PM / CM",0,0,0,1,0
+"Kane, Michael: Working in a PURs facility w/ out an operator",0,0,0,1,0
+"Kane, Michael: Pump House Pump Replacement ",0,0,0,1,0
+"Kane, Michael: Distribution Breaker PM",0,0,0,1,0
+"Kane, Michael: Distribution Breaker CM",0,0,0,1,0
+"Kane, Michael: Transmission Breaker CM",0,0,0,1,0
+"Kane, Michael: Transmission Breaker PM",0,0,0,1,0
+"Kane, Michael: Barksdale PM / CM",0,0,0,1,0
+"Kane, Michael: Battery Corrective Maintenance",0,0,0,1,0
+"Kane, Michael: Battery PM",0,0,0,1,0
+"Kane, Michael: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Kane, Michael: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Kane, Michael: Capbank Repairs",0,0,0,1,0
+"Kane, Michael: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Kane, Michael: Kemper Roof Installations",0,0,0,1,0
+"Kane, Michael: HVAC Maintenance",0,0,0,1,0
+"Kane, Michael: Asbestos abatement",1,0,0,0,0
+"Kenney, Timothy: Aerial lift Use",0,0,0,1,0
+"Kenney, Timothy: Electrical Troubleshooting",0,0,0,1,0
+"Kenney, Timothy: Gas Calls (any equipment)",0,0,0,1,0
+"Kenney, Timothy: Electrical Conduit /Wiring Installation",0,0,0,1,0
+"Kenney, Timothy: Swagelok tubing",0,0,0,1,0
+"Kenney, Timothy: Vacuum pump repair",0,1,0,0,0
+"Kenney, Timothy: Forklift operator",0,0,0,1,0
+"Kenney, Timothy: Confined Space Entry",1,0,0,0,0
+"Kenney, Timothy: Confined Space Supervisor",1,0,0,0,0
+"Kenney, Timothy: Welder",1,0,0,0,0
+"Kenney, Timothy: Fire Watch",0,0,1,0,0
+"Kenney, Timothy: Rigging",0,0,0,1,0
+"Kenney, Timothy: Cadwelds",0,0,0,1,0
+"Kenney, Timothy: Compressor PM / CM",0,0,0,1,0
+"Kenney, Timothy: Troubleshoot DC Grounds",0,0,0,1,0
+"Kenney, Timothy: SF6 gas cart use",0,0,0,1,0
+"Kenney, Timothy: Hotspots Inspections",1,0,0,0,0
+"Kenney, Timothy: Overheard Crane Training",0,0,0,1,0
+"Kenney, Timothy: CS PM / CM",0,0,0,1,0
+"Kenney, Timothy: LTC PM / CM",0,0,0,1,0
+"Kenney, Timothy: AGS PM / CM",0,0,0,1,0
+"Kenney, Timothy: Mechanical Deluge Repair",0,0,0,1,0
+"Kenney, Timothy: Tapguard 260/TM 100 troubleshooting",0,0,0,1,0
+"Kenney, Timothy: Transformer Fan replacement",0,0,0,1,0
+"Kenney, Timothy: Transformer Pump replacement",0,0,0,1,0
+"Kenney, Timothy: Sesco oil processing truck operator",0,0,0,1,0
+"Kenney, Timothy: Sesco oil processing truck repair",0,0,0,1,0
+"Kenney, Timothy: Transformer Vacuum pump operator",0,0,0,1,0
+"Kenney, Timothy: Transformer Replacement",0,0,0,1,0
+"Kenney, Timothy: Transformer Bushing Replacement",0,0,0,1,0
+"Kenney, Timothy: Circuit Switcher Replacement",0,0,0,1,0
+"Kenney, Timothy: Kelman installation",0,0,0,1,0
+"Kenney, Timothy: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Kenney, Timothy: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Kenney, Timothy: Low Voltage Test Set CM",1,0,0,0,0
+"Kenney, Timothy: PURs Pump/Motor Replacement",0,0,0,1,0
+"Kenney, Timothy: PURs Pump VFD Replacement",0,0,0,1,0
+"Kenney, Timothy: PURs/CP Pump/Motor Alignment",0,0,0,1,0
+"Kenney, Timothy: Pump House Ladder Calibration",0,0,0,1,0
+"Kenney, Timothy: Pump House PLC troubleshooting & Repairs",0,0,0,1,0
+"Kenney, Timothy: Diesel Generator PM / CM",0,0,0,1,0
+"Kenney, Timothy: Working in a PURs facility w/ out an operator",0,0,0,1,0
+"Kenney, Timothy: Pump House Pump Replacement ",0,0,0,1,0
+"Kenney, Timothy: Distribution Breaker PM",0,0,0,1,0
+"Kenney, Timothy: Distribution Breaker CM",0,0,0,1,0
+"Kenney, Timothy: Transmission Breaker CM",0,0,0,1,0
+"Kenney, Timothy: Transmission Breaker PM",0,0,0,1,0
+"Kenney, Timothy: Barksdale PM / CM",0,0,0,1,0
+"Kenney, Timothy: Battery Corrective Maintenance",0,0,0,1,0
+"Kenney, Timothy: Battery PM",0,0,0,1,0
+"Kenney, Timothy: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Kenney, Timothy: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Kenney, Timothy: Capbank Repairs",0,0,0,1,0
+"Kenney, Timothy: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Kenney, Timothy: Kemper Roof Installations",0,0,0,1,0
+"Kenney, Timothy: HVAC Maintenance",0,0,0,1,0
+"Kenney, Timothy: Asbestos abatement",1,0,0,0,0
+"Keo, Roland: Aerial lift Use",0,0,0,1,0
+"Keo, Roland: Electrical Troubleshooting",0,0,0,1,0
+"Keo, Roland: Gas Calls (any equipment)",0,0,0,1,0
+"Keo, Roland: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Keo, Roland: Swagelok tubing",0,0,0,1,0
+"Keo, Roland: Vacuum pump repair",0,1,0,0,0
+"Keo, Roland: Forklift operator",1,0,0,0,0
+"Keo, Roland: Confined Space Entry",1,0,0,0,0
+"Keo, Roland: Confined Space Supervisor",1,0,0,0,0
+"Keo, Roland: Welder",1,0,0,0,0
+"Keo, Roland: Fire Watch",0,1,0,0,0
+"Keo, Roland: Rigging",0,0,0,1,0
+"Keo, Roland: Cadwelds",0,0,1,0,0
+"Keo, Roland: Compressor PM / CM",1,0,0,0,0
+"Keo, Roland: Troubleshoot DC Grounds",0,0,0,1,0
+"Keo, Roland: SF6 gas cart use",0,0,0,1,0
+"Keo, Roland: Hotspots Inspections",1,0,0,0,0
+"Keo, Roland: Overheard Crane Training",0,0,0,1,0
+"Keo, Roland: CS PM / CM",1,0,0,0,0
+"Keo, Roland: LTC PM / CM",1,0,0,0,0
+"Keo, Roland: AGS PM / CM",1,0,0,0,0
+"Keo, Roland: Mechanical Deluge Repair",1,0,0,0,0
+"Keo, Roland: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Keo, Roland: Transformer Fan replacement",1,0,0,0,0
+"Keo, Roland: Transformer Pump replacement",1,0,0,0,0
+"Keo, Roland: Sesco oil processing truck operator",1,0,0,0,0
+"Keo, Roland: Sesco oil processing truck repair",1,0,0,0,0
+"Keo, Roland: Transformer Vacuum pump operator",1,0,0,0,0
+"Keo, Roland: Transformer Replacement",1,0,0,0,0
+"Keo, Roland: Transformer Bushing Replacement",1,0,0,0,0
+"Keo, Roland: Circuit Switcher Replacement",1,0,0,0,0
+"Keo, Roland: Kelman installation",1,0,0,0,0
+"Keo, Roland: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Keo, Roland: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Keo, Roland: Low Voltage Test Set CM",1,0,0,0,0
+"Keo, Roland: PURs Pump/Motor Replacement",1,0,0,0,0
+"Keo, Roland: PURs Pump VFD Replacement",1,0,0,0,0
+"Keo, Roland: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Keo, Roland: Pump House Ladder Calibration",1,0,0,0,0
+"Keo, Roland: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Keo, Roland: Diesel Generator PM / CM",1,0,0,0,0
+"Keo, Roland: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Keo, Roland: Pump House Pump Replacement ",1,0,0,0,0
+"Keo, Roland: Distribution Breaker PM",0,0,0,1,0
+"Keo, Roland: Distribution Breaker CM",0,0,0,1,0
+"Keo, Roland: Transmission Breaker CM",0,0,0,1,0
+"Keo, Roland: Transmission Breaker PM",0,0,0,1,0
+"Keo, Roland: Barksdale PM / CM",0,0,0,1,0
+"Keo, Roland: Battery Corrective Maintenance",0,0,1,0,0
+"Keo, Roland: Battery PM",0,0,1,0,0
+"Keo, Roland: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Keo, Roland: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Keo, Roland: Capbank Repairs",0,0,0,1,0
+"Keo, Roland: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Keo, Roland: Kemper Roof Installations",0,0,0,1,0
+"Keo, Roland: HVAC Maintenance",0,0,0,1,0
+"Keo, Roland: Asbestos abatement",1,0,0,0,0
+"Koehler, Craig : Aerial lift Use",0,0,0,1,0
+"Koehler, Craig : Electrical Troubleshooting",0,0,0,1,0
+"Koehler, Craig : Gas Calls (any equipment)",0,0,0,1,0
+"Koehler, Craig : Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Koehler, Craig : Swagelok tubing",0,0,0,1,0
+"Koehler, Craig : Vacuum pump repair",0,1,0,0,0
+"Koehler, Craig : Forklift operator",1,0,0,0,0
+"Koehler, Craig : Confined Space Entry",1,0,0,0,0
+"Koehler, Craig : Confined Space Supervisor",1,0,0,0,0
+"Koehler, Craig : Welder",0,0,0,1,0
+"Koehler, Craig : Fire Watch",0,1,0,0,0
+"Koehler, Craig : Rigging",0,0,0,1,0
+"Koehler, Craig : Cadwelds",0,0,1,0,0
+"Koehler, Craig : Compressor PM / CM",1,0,0,0,0
+"Koehler, Craig : Troubleshoot DC Grounds",1,0,0,0,0
+"Koehler, Craig : SF6 gas cart use",1,0,0,0,0
+"Koehler, Craig : Hotspots Inspections",1,0,0,0,0
+"Koehler, Craig : Overheard Crane Training",1,0,0,0,0
+"Koehler, Craig : CS PM / CM",1,0,0,0,0
+"Koehler, Craig : LTC PM / CM",1,0,0,0,0
+"Koehler, Craig : AGS PM / CM",1,0,0,0,0
+"Koehler, Craig : Mechanical Deluge Repair",1,0,0,0,0
+"Koehler, Craig : Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Koehler, Craig : Transformer Fan replacement",1,0,0,0,0
+"Koehler, Craig : Transformer Pump replacement",1,0,0,0,0
+"Koehler, Craig : Sesco oil processing truck operator",1,0,0,0,0
+"Koehler, Craig : Sesco oil processing truck repair",1,0,0,0,0
+"Koehler, Craig : Transformer Vacuum pump operator",1,0,0,0,0
+"Koehler, Craig : Transformer Replacement",1,0,0,0,0
+"Koehler, Craig : Transformer Bushing Replacement",1,0,0,0,0
+"Koehler, Craig : Circuit Switcher Replacement",1,0,0,0,0
+"Koehler, Craig : Kelman installation",1,0,0,0,0
+"Koehler, Craig : AC High Voltage Test Set PM / CM",0,0,0,1,0
+"Koehler, Craig : DC High Voltage Test Set PM / CM",0,0,0,1,0
+"Koehler, Craig : Low Voltage Test Set CM",0,0,0,1,0
+"Koehler, Craig : PURs Pump/Motor Replacement",0,0,0,1,0
+"Koehler, Craig : PURs Pump VFD Replacement",0,0,0,1,0
+"Koehler, Craig : PURs/CP Pump/Motor Alignment",0,0,0,1,0
+"Koehler, Craig : Pump House Ladder Calibration",0,0,0,1,0
+"Koehler, Craig : Pump House PLC troubleshooting & Repairs",0,0,0,1,0
+"Koehler, Craig : Diesel Generator PM / CM",0,0,0,1,0
+"Koehler, Craig : Working in a PURs facility w/ out an operator",0,0,0,1,0
+"Koehler, Craig : Pump House Pump Replacement ",0,0,0,1,0
+"Koehler, Craig : Distribution Breaker PM",1,0,0,0,0
+"Koehler, Craig : Distribution Breaker CM",1,0,0,0,0
+"Koehler, Craig : Transmission Breaker CM",1,0,0,0,0
+"Koehler, Craig : Transmission Breaker PM",1,0,0,0,0
+"Koehler, Craig : Barksdale PM / CM",1,0,0,0,0
+"Koehler, Craig : Battery Corrective Maintenance",1,0,0,0,0
+"Koehler, Craig : Battery PM",1,0,0,0,0
+"Koehler, Craig : Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Koehler, Craig : Installing / troubleshooting RMS coils",1,0,0,0,0
+"Koehler, Craig : Capbank Repairs",1,0,0,0,0
+"Koehler, Craig : Disconnect and Ground Switch Adj/Repairs",1,0,0,0,0
+"Koehler, Craig : Kemper Roof Installations",1,0,0,0,0
+"Koehler, Craig : HVAC Maintenance",1,0,0,0,0
+"Koehler, Craig : Asbestos abatement",1,0,0,0,0
+"Kournidakis, John: Aerial lift Use",0,0,0,1,0
+"Kournidakis, John: Electrical Troubleshooting",0,0,0,1,0
+"Kournidakis, John: Gas Calls (any equipment)",0,0,0,1,0
+"Kournidakis, John: Electrical Conduit /Wiring Installation",0,0,0,1,0
+"Kournidakis, John: Swagelok tubing",0,0,0,1,0
+"Kournidakis, John: Vacuum pump repair",0,1,0,0,0
+"Kournidakis, John: Forklift operator",0,0,0,1,0
+"Kournidakis, John: Confined Space Entry",1,0,0,0,0
+"Kournidakis, John: Confined Space Supervisor",1,0,0,0,0
+"Kournidakis, John: Welder",1,0,0,0,0
+"Kournidakis, John: Fire Watch",0,0,1,0,0
+"Kournidakis, John: Rigging",0,0,0,1,0
+"Kournidakis, John: Cadwelds",0,0,0,1,0
+"Kournidakis, John: Compressor PM / CM",0,0,0,1,0
+"Kournidakis, John: Troubleshoot DC Grounds",0,0,0,1,0
+"Kournidakis, John: SF6 gas cart use",0,0,0,1,0
+"Kournidakis, John: Hotspots Inspections",1,0,0,0,0
+"Kournidakis, John: Overheard Crane Training",0,0,0,1,0
+"Kournidakis, John: CS PM / CM",0,0,0,1,0
+"Kournidakis, John: LTC PM / CM",0,0,0,1,0
+"Kournidakis, John: AGS PM / CM",0,0,0,1,0
+"Kournidakis, John: Mechanical Deluge Repair",0,0,0,1,0
+"Kournidakis, John: Tapguard 260/TM 100 troubleshooting",0,0,0,1,0
+"Kournidakis, John: Transformer Fan replacement",0,0,0,1,0
+"Kournidakis, John: Transformer Pump replacement",0,0,0,1,0
+"Kournidakis, John: Sesco oil processing truck operator",0,0,0,1,0
+"Kournidakis, John: Sesco oil processing truck repair",0,0,0,1,0
+"Kournidakis, John: Transformer Vacuum pump operator",0,0,0,1,0
+"Kournidakis, John: Transformer Replacement",0,0,0,1,0
+"Kournidakis, John: Transformer Bushing Replacement",0,0,0,1,0
+"Kournidakis, John: Circuit Switcher Replacement",0,0,0,1,0
+"Kournidakis, John: Kelman installation",0,0,0,1,0
+"Kournidakis, John: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Kournidakis, John: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Kournidakis, John: Low Voltage Test Set CM",1,0,0,0,0
+"Kournidakis, John: PURs Pump/Motor Replacement",0,0,0,1,0
+"Kournidakis, John: PURs Pump VFD Replacement",0,0,0,1,0
+"Kournidakis, John: PURs/CP Pump/Motor Alignment",0,0,0,1,0
+"Kournidakis, John: Pump House Ladder Calibration",0,0,0,1,0
+"Kournidakis, John: Pump House PLC troubleshooting & Repairs",0,0,0,1,0
+"Kournidakis, John: Diesel Generator PM / CM",0,0,0,1,0
+"Kournidakis, John: Working in a PURs facility w/ out an operator",0,0,0,1,0
+"Kournidakis, John: Pump House Pump Replacement ",0,0,0,1,0
+"Kournidakis, John: Distribution Breaker PM",0,0,0,1,0
+"Kournidakis, John: Distribution Breaker CM",0,0,0,1,0
+"Kournidakis, John: Transmission Breaker CM",0,0,0,1,0
+"Kournidakis, John: Transmission Breaker PM",0,0,0,1,0
+"Kournidakis, John: Barksdale PM / CM",0,0,0,1,0
+"Kournidakis, John: Battery Corrective Maintenance",0,0,0,1,0
+"Kournidakis, John: Battery PM",0,0,0,1,0
+"Kournidakis, John: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Kournidakis, John: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Kournidakis, John: Capbank Repairs",0,0,0,1,0
+"Kournidakis, John: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Kournidakis, John: Kemper Roof Installations",0,0,0,1,0
+"Kournidakis, John: HVAC Maintenance",0,0,0,1,0
+"Kournidakis, John: Asbestos abatement",1,0,0,0,0
+"Kristinich, Joseph: Aerial lift Use",0,0,0,1,0
+"Kristinich, Joseph: Electrical Troubleshooting",0,0,0,0,1
+"Kristinich, Joseph: Gas Calls (any equipment)",0,0,0,1,0
+"Kristinich, Joseph: Electrical Conduit /Wiring Installation",0,0,0,1,0
+"Kristinich, Joseph: Swagelok tubing",0,0,0,1,0
+"Kristinich, Joseph: Vacuum pump repair",0,1,0,0,0
+"Kristinich, Joseph: Forklift operator",0,0,0,1,0
+"Kristinich, Joseph: Confined Space Entry",1,0,0,0,0
+"Kristinich, Joseph: Confined Space Supervisor",1,0,0,0,0
+"Kristinich, Joseph: Welder",1,0,0,0,0
+"Kristinich, Joseph: Fire Watch",0,0,1,0,0
+"Kristinich, Joseph: Rigging",0,0,0,1,0
+"Kristinich, Joseph: Cadwelds",0,0,0,1,0
+"Kristinich, Joseph: Compressor PM / CM",0,0,0,1,0
+"Kristinich, Joseph: Troubleshoot DC Grounds",0,0,0,1,0
+"Kristinich, Joseph: SF6 gas cart use",0,0,0,1,0
+"Kristinich, Joseph: Hotspots Inspections",1,0,0,0,0
+"Kristinich, Joseph: Overheard Crane Training",0,0,0,1,0
+"Kristinich, Joseph: CS PM / CM",0,0,0,1,0
+"Kristinich, Joseph: LTC PM / CM",0,0,0,1,0
+"Kristinich, Joseph: AGS PM / CM",0,0,0,1,0
+"Kristinich, Joseph: Mechanical Deluge Repair",0,0,0,1,0
+"Kristinich, Joseph: Tapguard 260/TM 100 troubleshooting",0,0,0,1,0
+"Kristinich, Joseph: Transformer Fan replacement",0,0,0,1,0
+"Kristinich, Joseph: Transformer Pump replacement",0,0,0,1,0
+"Kristinich, Joseph: Sesco oil processing truck operator",0,0,0,1,0
+"Kristinich, Joseph: Sesco oil processing truck repair",0,0,0,1,0
+"Kristinich, Joseph: Transformer Vacuum pump operator",0,0,0,1,0
+"Kristinich, Joseph: Transformer Replacement",0,0,0,1,0
+"Kristinich, Joseph: Transformer Bushing Replacement",0,0,0,1,0
+"Kristinich, Joseph: Circuit Switcher Replacement",0,0,0,1,0
+"Kristinich, Joseph: Kelman installation",0,0,0,1,0
+"Kristinich, Joseph: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Kristinich, Joseph: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Kristinich, Joseph: Low Voltage Test Set CM",1,0,0,0,0
+"Kristinich, Joseph: PURs Pump/Motor Replacement",0,0,0,1,0
+"Kristinich, Joseph: PURs Pump VFD Replacement",0,0,0,1,0
+"Kristinich, Joseph: PURs/CP Pump/Motor Alignment",0,0,0,1,0
+"Kristinich, Joseph: Pump House Ladder Calibration",0,0,0,1,0
+"Kristinich, Joseph: Pump House PLC troubleshooting & Repairs",0,0,0,1,0
+"Kristinich, Joseph: Diesel Generator PM / CM",0,0,0,1,0
+"Kristinich, Joseph: Working in a PURs facility w/ out an operator",0,0,0,1,0
+"Kristinich, Joseph: Pump House Pump Replacement ",0,0,0,1,0
+"Kristinich, Joseph: Distribution Breaker PM",0,0,0,1,0
+"Kristinich, Joseph: Distribution Breaker CM",0,0,0,1,0
+"Kristinich, Joseph: Transmission Breaker CM",0,0,0,1,0
+"Kristinich, Joseph: Transmission Breaker PM",0,0,0,1,0
+"Kristinich, Joseph: Barksdale PM / CM",0,0,0,1,0
+"Kristinich, Joseph: Battery Corrective Maintenance",0,0,0,1,0
+"Kristinich, Joseph: Battery PM",0,0,0,1,0
+"Kristinich, Joseph: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Kristinich, Joseph: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Kristinich, Joseph: Capbank Repairs",0,0,0,1,0
+"Kristinich, Joseph: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Kristinich, Joseph: Kemper Roof Installations",0,0,0,1,0
+"Kristinich, Joseph: HVAC Maintenance",0,0,0,1,0
+"Kristinich, Joseph: Asbestos abatement",1,0,0,0,0
+"Lacasse, Robert: Aerial lift Use",0,0,0,1,0
+"Lacasse, Robert: Electrical Troubleshooting",0,0,0,1,0
+"Lacasse, Robert: Gas Calls (any equipment)",0,0,0,1,0
+"Lacasse, Robert: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Lacasse, Robert: Swagelok tubing",0,0,0,1,0
+"Lacasse, Robert: Vacuum pump repair",0,1,0,0,0
+"Lacasse, Robert: Forklift operator",1,0,0,0,0
+"Lacasse, Robert: Confined Space Entry",1,0,0,0,0
+"Lacasse, Robert: Confined Space Supervisor",1,0,0,0,0
+"Lacasse, Robert: Welder",1,0,0,0,0
+"Lacasse, Robert: Fire Watch",0,1,0,0,0
+"Lacasse, Robert: Rigging",0,0,0,1,0
+"Lacasse, Robert: Cadwelds",0,0,1,0,0
+"Lacasse, Robert: Compressor PM / CM",1,0,0,0,0
+"Lacasse, Robert: Troubleshoot DC Grounds",0,0,0,1,0
+"Lacasse, Robert: SF6 gas cart use",0,0,0,1,0
+"Lacasse, Robert: Hotspots Inspections",1,0,0,0,0
+"Lacasse, Robert: Overheard Crane Training",0,0,0,1,0
+"Lacasse, Robert: CS PM / CM",1,0,0,0,0
+"Lacasse, Robert: LTC PM / CM",1,0,0,0,0
+"Lacasse, Robert: AGS PM / CM",1,0,0,0,0
+"Lacasse, Robert: Mechanical Deluge Repair",1,0,0,0,0
+"Lacasse, Robert: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Lacasse, Robert: Transformer Fan replacement",1,0,0,0,0
+"Lacasse, Robert: Transformer Pump replacement",1,0,0,0,0
+"Lacasse, Robert: Sesco oil processing truck operator",1,0,0,0,0
+"Lacasse, Robert: Sesco oil processing truck repair",1,0,0,0,0
+"Lacasse, Robert: Transformer Vacuum pump operator",1,0,0,0,0
+"Lacasse, Robert: Transformer Replacement",1,0,0,0,0
+"Lacasse, Robert: Transformer Bushing Replacement",1,0,0,0,0
+"Lacasse, Robert: Circuit Switcher Replacement",1,0,0,0,0
+"Lacasse, Robert: Kelman installation",1,0,0,0,0
+"Lacasse, Robert: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Lacasse, Robert: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Lacasse, Robert: Low Voltage Test Set CM",1,0,0,0,0
+"Lacasse, Robert: PURs Pump/Motor Replacement",1,0,0,0,0
+"Lacasse, Robert: PURs Pump VFD Replacement",1,0,0,0,0
+"Lacasse, Robert: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Lacasse, Robert: Pump House Ladder Calibration",1,0,0,0,0
+"Lacasse, Robert: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Lacasse, Robert: Diesel Generator PM / CM",1,0,0,0,0
+"Lacasse, Robert: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Lacasse, Robert: Pump House Pump Replacement ",1,0,0,0,0
+"Lacasse, Robert: Distribution Breaker PM",0,0,0,1,0
+"Lacasse, Robert: Distribution Breaker CM",0,0,0,1,0
+"Lacasse, Robert: Transmission Breaker CM",0,0,0,1,0
+"Lacasse, Robert: Transmission Breaker PM",0,0,0,1,0
+"Lacasse, Robert: Barksdale PM / CM",0,0,0,1,0
+"Lacasse, Robert: Battery Corrective Maintenance",0,0,1,0,0
+"Lacasse, Robert: Battery PM",0,0,1,0,0
+"Lacasse, Robert: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Lacasse, Robert: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Lacasse, Robert: Capbank Repairs",0,0,0,1,0
+"Lacasse, Robert: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Lacasse, Robert: Kemper Roof Installations",0,0,0,1,0
+"Lacasse, Robert: HVAC Maintenance",0,0,0,1,0
+"Lacasse, Robert: Asbestos abatement",1,0,0,0,0
+"Larregui, Andrew: Aerial lift Use",0,0,0,1,0
+"Larregui, Andrew: Electrical Troubleshooting",0,0,0,1,0
+"Larregui, Andrew: Gas Calls (any equipment)",0,0,0,1,0
+"Larregui, Andrew: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Larregui, Andrew: Swagelok tubing",0,0,0,1,0
+"Larregui, Andrew: Vacuum pump repair",0,1,0,0,0
+"Larregui, Andrew: Forklift operator",1,0,0,0,0
+"Larregui, Andrew: Confined Space Entry",1,0,0,0,0
+"Larregui, Andrew: Confined Space Supervisor",1,0,0,0,0
+"Larregui, Andrew: Welder",0,0,0,1,0
+"Larregui, Andrew: Fire Watch",0,1,0,0,0
+"Larregui, Andrew: Rigging",0,0,0,1,0
+"Larregui, Andrew: Cadwelds",0,0,1,0,0
+"Larregui, Andrew: Compressor PM / CM",1,0,0,0,0
+"Larregui, Andrew: Troubleshoot DC Grounds",0,0,0,1,0
+"Larregui, Andrew: SF6 gas cart use",0,0,0,1,0
+"Larregui, Andrew: Hotspots Inspections",0,0,0,1,0
+"Larregui, Andrew: Overheard Crane Training",0,0,0,1,0
+"Larregui, Andrew: CS PM / CM",1,0,0,0,0
+"Larregui, Andrew: LTC PM / CM",1,0,0,0,0
+"Larregui, Andrew: AGS PM / CM",1,0,0,0,0
+"Larregui, Andrew: Mechanical Deluge Repair",1,0,0,0,0
+"Larregui, Andrew: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Larregui, Andrew: Transformer Fan replacement",1,0,0,0,0
+"Larregui, Andrew: Transformer Pump replacement",1,0,0,0,0
+"Larregui, Andrew: Sesco oil processing truck operator",1,0,0,0,0
+"Larregui, Andrew: Sesco oil processing truck repair",1,0,0,0,0
+"Larregui, Andrew: Transformer Vacuum pump operator",1,0,0,0,0
+"Larregui, Andrew: Transformer Replacement",1,0,0,0,0
+"Larregui, Andrew: Transformer Bushing Replacement",1,0,0,0,0
+"Larregui, Andrew: Circuit Switcher Replacement",1,0,0,0,0
+"Larregui, Andrew: Kelman installation",1,0,0,0,0
+"Larregui, Andrew: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Larregui, Andrew: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Larregui, Andrew: Low Voltage Test Set CM",1,0,0,0,0
+"Larregui, Andrew: PURs Pump/Motor Replacement",1,0,0,0,0
+"Larregui, Andrew: PURs Pump VFD Replacement",1,0,0,0,0
+"Larregui, Andrew: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Larregui, Andrew: Pump House Ladder Calibration",1,0,0,0,0
+"Larregui, Andrew: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Larregui, Andrew: Diesel Generator PM / CM",1,0,0,0,0
+"Larregui, Andrew: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Larregui, Andrew: Pump House Pump Replacement ",1,0,0,0,0
+"Larregui, Andrew: Distribution Breaker PM",0,0,0,1,0
+"Larregui, Andrew: Distribution Breaker CM",0,0,0,1,0
+"Larregui, Andrew: Transmission Breaker CM",0,0,0,1,0
+"Larregui, Andrew: Transmission Breaker PM",0,0,0,1,0
+"Larregui, Andrew: Barksdale PM / CM",0,0,0,1,0
+"Larregui, Andrew: Battery Corrective Maintenance",0,0,1,0,0
+"Larregui, Andrew: Battery PM",0,0,1,0,0
+"Larregui, Andrew: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Larregui, Andrew: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Larregui, Andrew: Capbank Repairs",0,0,0,1,0
+"Larregui, Andrew: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Larregui, Andrew: Kemper Roof Installations",0,0,0,1,0
+"Larregui, Andrew: HVAC Maintenance",0,0,0,1,0
+"Larregui, Andrew: Asbestos abatement",1,0,0,0,0
+"Lauricella, Vincent: Aerial lift Use",0,0,0,1,0
+"Lauricella, Vincent: Electrical Troubleshooting",0,0,0,1,0
+"Lauricella, Vincent: Gas Calls (any equipment)",0,0,0,1,0
+"Lauricella, Vincent: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Lauricella, Vincent: Swagelok tubing",0,0,0,1,0
+"Lauricella, Vincent: Vacuum pump repair",0,1,0,0,0
+"Lauricella, Vincent: Forklift operator",1,0,0,0,0
+"Lauricella, Vincent: Confined Space Entry",1,0,0,0,0
+"Lauricella, Vincent: Confined Space Supervisor",1,0,0,0,0
+"Lauricella, Vincent: Welder",1,0,0,0,0
+"Lauricella, Vincent: Fire Watch",0,1,0,0,0
+"Lauricella, Vincent: Rigging",0,0,0,1,0
+"Lauricella, Vincent: Cadwelds",0,0,1,0,0
+"Lauricella, Vincent: Compressor PM / CM",1,0,0,0,0
+"Lauricella, Vincent: Troubleshoot DC Grounds",1,0,0,0,0
+"Lauricella, Vincent: SF6 gas cart use",1,0,0,0,0
+"Lauricella, Vincent: Hotspots Inspections",1,0,0,0,0
+"Lauricella, Vincent: Overheard Crane Training",1,0,0,0,0
+"Lauricella, Vincent: CS PM / CM",1,0,0,0,0
+"Lauricella, Vincent: LTC PM / CM",1,0,0,0,0
+"Lauricella, Vincent: AGS PM / CM",1,0,0,0,0
+"Lauricella, Vincent: Mechanical Deluge Repair",1,0,0,0,0
+"Lauricella, Vincent: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Lauricella, Vincent: Transformer Fan replacement",1,0,0,0,0
+"Lauricella, Vincent: Transformer Pump replacement",1,0,0,0,0
+"Lauricella, Vincent: Sesco oil processing truck operator",1,0,0,0,0
+"Lauricella, Vincent: Sesco oil processing truck repair",1,0,0,0,0
+"Lauricella, Vincent: Transformer Vacuum pump operator",1,0,0,0,0
+"Lauricella, Vincent: Transformer Replacement",1,0,0,0,0
+"Lauricella, Vincent: Transformer Bushing Replacement",1,0,0,0,0
+"Lauricella, Vincent: Circuit Switcher Replacement",1,0,0,0,0
+"Lauricella, Vincent: Kelman installation",1,0,0,0,0
+"Lauricella, Vincent: AC High Voltage Test Set PM / CM",0,0,0,1,0
+"Lauricella, Vincent: DC High Voltage Test Set PM / CM",0,0,0,1,0
+"Lauricella, Vincent: Low Voltage Test Set CM",0,0,0,1,0
+"Lauricella, Vincent: PURs Pump/Motor Replacement",0,0,0,1,0
+"Lauricella, Vincent: PURs Pump VFD Replacement",0,0,0,1,0
+"Lauricella, Vincent: PURs/CP Pump/Motor Alignment",0,0,0,1,0
+"Lauricella, Vincent: Pump House Ladder Calibration",0,0,0,1,0
+"Lauricella, Vincent: Pump House PLC troubleshooting & Repairs",0,0,0,1,0
+"Lauricella, Vincent: Diesel Generator PM / CM",0,0,0,1,0
+"Lauricella, Vincent: Working in a PURs facility w/ out an operator",0,0,0,1,0
+"Lauricella, Vincent: Pump House Pump Replacement ",0,0,0,1,0
+"Lauricella, Vincent: Distribution Breaker PM",1,0,0,0,0
+"Lauricella, Vincent: Distribution Breaker CM",1,0,0,0,0
+"Lauricella, Vincent: Transmission Breaker CM",1,0,0,0,0
+"Lauricella, Vincent: Transmission Breaker PM",1,0,0,0,0
+"Lauricella, Vincent: Barksdale PM / CM",1,0,0,0,0
+"Lauricella, Vincent: Battery Corrective Maintenance",1,0,0,0,0
+"Lauricella, Vincent: Battery PM",1,0,0,0,0
+"Lauricella, Vincent: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Lauricella, Vincent: Installing / troubleshooting RMS coils",1,0,0,0,0
+"Lauricella, Vincent: Capbank Repairs",1,0,0,0,0
+"Lauricella, Vincent: Disconnect and Ground Switch Adj/Repairs",1,0,0,0,0
+"Lauricella, Vincent: Kemper Roof Installations",1,0,0,0,0
+"Lauricella, Vincent: HVAC Maintenance",1,0,0,0,0
+"Lauricella, Vincent: Asbestos abatement",1,0,0,0,0
+"Longo, Vincenzo: Aerial lift Use",0,0,0,1,0
+"Longo, Vincenzo: Electrical Troubleshooting",0,0,0,1,0
+"Longo, Vincenzo: Gas Calls (any equipment)",0,0,0,1,0
+"Longo, Vincenzo: Electrical Conduit /Wiring Installation",0,0,0,1,0
+"Longo, Vincenzo: Swagelok tubing",0,0,0,1,0
+"Longo, Vincenzo: Vacuum pump repair",0,1,0,0,0
+"Longo, Vincenzo: Forklift operator",0,0,0,1,0
+"Longo, Vincenzo: Confined Space Entry",1,0,0,0,0
+"Longo, Vincenzo: Confined Space Supervisor",1,0,0,0,0
+"Longo, Vincenzo: Welder",1,0,0,0,0
+"Longo, Vincenzo: Fire Watch",0,0,1,0,0
+"Longo, Vincenzo: Rigging",0,0,0,1,0
+"Longo, Vincenzo: Cadwelds",0,0,0,1,0
+"Longo, Vincenzo: Compressor PM / CM",0,0,0,1,0
+"Longo, Vincenzo: Troubleshoot DC Grounds",0,0,0,1,0
+"Longo, Vincenzo: SF6 gas cart use",0,0,0,1,0
+"Longo, Vincenzo: Hotspots Inspections",1,0,0,0,0
+"Longo, Vincenzo: Overheard Crane Training",0,0,0,1,0
+"Longo, Vincenzo: CS PM / CM",0,0,0,1,0
+"Longo, Vincenzo: LTC PM / CM",0,0,0,1,0
+"Longo, Vincenzo: AGS PM / CM",0,0,0,1,0
+"Longo, Vincenzo: Mechanical Deluge Repair",0,0,0,1,0
+"Longo, Vincenzo: Tapguard 260/TM 100 troubleshooting",0,0,0,1,0
+"Longo, Vincenzo: Transformer Fan replacement",0,0,0,1,0
+"Longo, Vincenzo: Transformer Pump replacement",0,0,0,1,0
+"Longo, Vincenzo: Sesco oil processing truck operator",0,0,0,1,0
+"Longo, Vincenzo: Sesco oil processing truck repair",0,0,0,1,0
+"Longo, Vincenzo: Transformer Vacuum pump operator",0,0,0,1,0
+"Longo, Vincenzo: Transformer Replacement",0,0,0,1,0
+"Longo, Vincenzo: Transformer Bushing Replacement",0,0,0,1,0
+"Longo, Vincenzo: Circuit Switcher Replacement",0,0,0,1,0
+"Longo, Vincenzo: Kelman installation",0,0,0,1,0
+"Longo, Vincenzo: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Longo, Vincenzo: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Longo, Vincenzo: Low Voltage Test Set CM",1,0,0,0,0
+"Longo, Vincenzo: PURs Pump/Motor Replacement",0,0,0,1,0
+"Longo, Vincenzo: PURs Pump VFD Replacement",0,0,0,1,0
+"Longo, Vincenzo: PURs/CP Pump/Motor Alignment",0,0,0,1,0
+"Longo, Vincenzo: Pump House Ladder Calibration",0,0,0,1,0
+"Longo, Vincenzo: Pump House PLC troubleshooting & Repairs",0,0,0,1,0
+"Longo, Vincenzo: Diesel Generator PM / CM",0,0,0,1,0
+"Longo, Vincenzo: Working in a PURs facility w/ out an operator",0,0,0,1,0
+"Longo, Vincenzo: Pump House Pump Replacement ",0,0,0,1,0
+"Longo, Vincenzo: Distribution Breaker PM",0,0,0,1,0
+"Longo, Vincenzo: Distribution Breaker CM",0,0,0,1,0
+"Longo, Vincenzo: Transmission Breaker CM",0,0,0,1,0
+"Longo, Vincenzo: Transmission Breaker PM",0,0,0,1,0
+"Longo, Vincenzo: Barksdale PM / CM",0,0,0,1,0
+"Longo, Vincenzo: Battery Corrective Maintenance",0,0,0,1,0
+"Longo, Vincenzo: Battery PM",0,0,0,1,0
+"Longo, Vincenzo: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Longo, Vincenzo: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Longo, Vincenzo: Capbank Repairs",0,0,0,1,0
+"Longo, Vincenzo: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Longo, Vincenzo: Kemper Roof Installations",0,0,0,1,0
+"Longo, Vincenzo: HVAC Maintenance",0,0,0,1,0
+"Longo, Vincenzo: Asbestos abatement",1,0,0,0,0
+"Luckett, Shaun: Aerial lift Use",0,0,0,1,0
+"Luckett, Shaun: Electrical Troubleshooting",0,0,0,1,0
+"Luckett, Shaun: Gas Calls (any equipment)",0,0,0,1,0
+"Luckett, Shaun: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Luckett, Shaun: Swagelok tubing",0,0,0,1,0
+"Luckett, Shaun: Vacuum pump repair",0,1,0,0,0
+"Luckett, Shaun: Forklift operator",1,0,0,0,0
+"Luckett, Shaun: Confined Space Entry",1,0,0,0,0
+"Luckett, Shaun: Confined Space Supervisor",1,0,0,0,0
+"Luckett, Shaun: Welder",1,0,0,0,0
+"Luckett, Shaun: Fire Watch",0,1,0,0,0
+"Luckett, Shaun: Rigging",0,0,0,1,0
+"Luckett, Shaun: Cadwelds",0,0,1,0,0
+"Luckett, Shaun: Compressor PM / CM",1,0,0,0,0
+"Luckett, Shaun: Troubleshoot DC Grounds",1,0,0,0,0
+"Luckett, Shaun: SF6 gas cart use",1,0,0,0,0
+"Luckett, Shaun: Hotspots Inspections",1,0,0,0,0
+"Luckett, Shaun: Overheard Crane Training",1,0,0,0,0
+"Luckett, Shaun: CS PM / CM",1,0,0,0,0
+"Luckett, Shaun: LTC PM / CM",1,0,0,0,0
+"Luckett, Shaun: AGS PM / CM",1,0,0,0,0
+"Luckett, Shaun: Mechanical Deluge Repair",1,0,0,0,0
+"Luckett, Shaun: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Luckett, Shaun: Transformer Fan replacement",1,0,0,0,0
+"Luckett, Shaun: Transformer Pump replacement",1,0,0,0,0
+"Luckett, Shaun: Sesco oil processing truck operator",1,0,0,0,0
+"Luckett, Shaun: Sesco oil processing truck repair",1,0,0,0,0
+"Luckett, Shaun: Transformer Vacuum pump operator",1,0,0,0,0
+"Luckett, Shaun: Transformer Replacement",1,0,0,0,0
+"Luckett, Shaun: Transformer Bushing Replacement",1,0,0,0,0
+"Luckett, Shaun: Circuit Switcher Replacement",1,0,0,0,0
+"Luckett, Shaun: Kelman installation",1,0,0,0,0
+"Luckett, Shaun: AC High Voltage Test Set PM / CM",0,0,0,1,0
+"Luckett, Shaun: DC High Voltage Test Set PM / CM",0,0,0,1,0
+"Luckett, Shaun: Low Voltage Test Set CM",0,0,0,1,0
+"Luckett, Shaun: PURs Pump/Motor Replacement",0,0,0,1,0
+"Luckett, Shaun: PURs Pump VFD Replacement",0,0,0,1,0
+"Luckett, Shaun: PURs/CP Pump/Motor Alignment",0,0,0,1,0
+"Luckett, Shaun: Pump House Ladder Calibration",0,0,0,1,0
+"Luckett, Shaun: Pump House PLC troubleshooting & Repairs",0,0,0,1,0
+"Luckett, Shaun: Diesel Generator PM / CM",0,0,0,1,0
+"Luckett, Shaun: Working in a PURs facility w/ out an operator",0,0,0,1,0
+"Luckett, Shaun: Pump House Pump Replacement ",0,0,0,1,0
+"Luckett, Shaun: Distribution Breaker PM",1,0,0,0,0
+"Luckett, Shaun: Distribution Breaker CM",1,0,0,0,0
+"Luckett, Shaun: Transmission Breaker CM",1,0,0,0,0
+"Luckett, Shaun: Transmission Breaker PM",1,0,0,0,0
+"Luckett, Shaun: Barksdale PM / CM",1,0,0,0,0
+"Luckett, Shaun: Battery Corrective Maintenance",1,0,0,0,0
+"Luckett, Shaun: Battery PM",1,0,0,0,0
+"Luckett, Shaun: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Luckett, Shaun: Installing / troubleshooting RMS coils",1,0,0,0,0
+"Luckett, Shaun: Capbank Repairs",1,0,0,0,0
+"Luckett, Shaun: Disconnect and Ground Switch Adj/Repairs",1,0,0,0,0
+"Luckett, Shaun: Kemper Roof Installations",1,0,0,0,0
+"Luckett, Shaun: HVAC Maintenance",1,0,0,0,0
+"Luckett, Shaun: Asbestos abatement",1,0,0,0,0
+"McCabe, Matthew: Aerial lift Use",0,0,0,1,0
+"McCabe, Matthew: Electrical Troubleshooting",0,0,0,1,0
+"McCabe, Matthew: Gas Calls (any equipment)",0,0,0,1,0
+"McCabe, Matthew: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"McCabe, Matthew: Swagelok tubing",0,0,0,1,0
+"McCabe, Matthew: Vacuum pump repair",0,1,0,0,0
+"McCabe, Matthew: Forklift operator",1,0,0,0,0
+"McCabe, Matthew: Confined Space Entry",1,0,0,0,0
+"McCabe, Matthew: Confined Space Supervisor",1,0,0,0,0
+"McCabe, Matthew: Welder",1,0,0,0,0
+"McCabe, Matthew: Fire Watch",0,1,0,0,0
+"McCabe, Matthew: Rigging",0,0,0,1,0
+"McCabe, Matthew: Cadwelds",0,0,1,0,0
+"McCabe, Matthew: Compressor PM / CM",1,0,0,0,0
+"McCabe, Matthew: Troubleshoot DC Grounds",0,0,0,1,0
+"McCabe, Matthew: SF6 gas cart use",0,0,0,1,0
+"McCabe, Matthew: Hotspots Inspections",1,0,0,0,0
+"McCabe, Matthew: Overheard Crane Training",0,0,0,1,0
+"McCabe, Matthew: CS PM / CM",1,0,0,0,0
+"McCabe, Matthew: LTC PM / CM",1,0,0,0,0
+"McCabe, Matthew: AGS PM / CM",1,0,0,0,0
+"McCabe, Matthew: Mechanical Deluge Repair",1,0,0,0,0
+"McCabe, Matthew: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"McCabe, Matthew: Transformer Fan replacement",1,0,0,0,0
+"McCabe, Matthew: Transformer Pump replacement",1,0,0,0,0
+"McCabe, Matthew: Sesco oil processing truck operator",1,0,0,0,0
+"McCabe, Matthew: Sesco oil processing truck repair",1,0,0,0,0
+"McCabe, Matthew: Transformer Vacuum pump operator",1,0,0,0,0
+"McCabe, Matthew: Transformer Replacement",1,0,0,0,0
+"McCabe, Matthew: Transformer Bushing Replacement",1,0,0,0,0
+"McCabe, Matthew: Circuit Switcher Replacement",1,0,0,0,0
+"McCabe, Matthew: Kelman installation",1,0,0,0,0
+"McCabe, Matthew: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"McCabe, Matthew: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"McCabe, Matthew: Low Voltage Test Set CM",1,0,0,0,0
+"McCabe, Matthew: PURs Pump/Motor Replacement",1,0,0,0,0
+"McCabe, Matthew: PURs Pump VFD Replacement",1,0,0,0,0
+"McCabe, Matthew: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"McCabe, Matthew: Pump House Ladder Calibration",1,0,0,0,0
+"McCabe, Matthew: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"McCabe, Matthew: Diesel Generator PM / CM",1,0,0,0,0
+"McCabe, Matthew: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"McCabe, Matthew: Pump House Pump Replacement ",1,0,0,0,0
+"McCabe, Matthew: Distribution Breaker PM",0,0,0,1,0
+"McCabe, Matthew: Distribution Breaker CM",0,0,0,1,0
+"McCabe, Matthew: Transmission Breaker CM",0,0,0,1,0
+"McCabe, Matthew: Transmission Breaker PM",0,0,0,1,0
+"McCabe, Matthew: Barksdale PM / CM",0,0,0,1,0
+"McCabe, Matthew: Battery Corrective Maintenance",0,0,1,0,0
+"McCabe, Matthew: Battery PM",0,0,1,0,0
+"McCabe, Matthew: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"McCabe, Matthew: Installing / troubleshooting RMS coils",0,0,0,1,0
+"McCabe, Matthew: Capbank Repairs",0,0,0,1,0
+"McCabe, Matthew: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"McCabe, Matthew: Kemper Roof Installations",0,0,0,1,0
+"McCabe, Matthew: HVAC Maintenance",0,0,0,1,0
+"McCabe, Matthew: Asbestos abatement",1,0,0,0,0
+"McCarthy, Sean: Aerial lift Use",0,0,0,1,0
+"McCarthy, Sean: Electrical Troubleshooting",0,0,0,1,0
+"McCarthy, Sean: Gas Calls (any equipment)",0,0,0,1,0
+"McCarthy, Sean: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"McCarthy, Sean: Swagelok tubing",0,0,0,1,0
+"McCarthy, Sean: Vacuum pump repair",0,1,0,0,0
+"McCarthy, Sean: Forklift operator",1,0,0,0,0
+"McCarthy, Sean: Confined Space Entry",1,0,0,0,0
+"McCarthy, Sean: Confined Space Supervisor",1,0,0,0,0
+"McCarthy, Sean: Welder",1,0,0,0,0
+"McCarthy, Sean: Fire Watch",0,1,0,0,0
+"McCarthy, Sean: Rigging",0,0,0,1,0
+"McCarthy, Sean: Cadwelds",0,0,1,0,0
+"McCarthy, Sean: Compressor PM / CM",1,0,0,0,0
+"McCarthy, Sean: Troubleshoot DC Grounds",0,1,0,0,0
+"McCarthy, Sean: SF6 gas cart use",0,0,1,0,0
+"McCarthy, Sean: Hotspots Inspections",1,0,0,0,0
+"McCarthy, Sean: Overheard Crane Training",0,0,0,1,0
+"McCarthy, Sean: CS PM / CM",0,0,0,1,0
+"McCarthy, Sean: LTC PM / CM",0,0,0,1,0
+"McCarthy, Sean: AGS PM / CM",0,0,0,1,0
+"McCarthy, Sean: Mechanical Deluge Repair",0,0,0,1,0
+"McCarthy, Sean: Tapguard 260/TM 100 troubleshooting",0,0,0,1,0
+"McCarthy, Sean: Transformer Fan replacement",0,0,0,1,0
+"McCarthy, Sean: Transformer Pump replacement",0,0,0,1,0
+"McCarthy, Sean: Sesco oil processing truck operator",0,0,0,1,0
+"McCarthy, Sean: Sesco oil processing truck repair",0,0,0,1,0
+"McCarthy, Sean: Transformer Vacuum pump operator",0,0,0,1,0
+"McCarthy, Sean: Transformer Replacement",0,0,0,1,0
+"McCarthy, Sean: Transformer Bushing Replacement",0,0,0,1,0
+"McCarthy, Sean: Circuit Switcher Replacement",0,0,0,1,0
+"McCarthy, Sean: Kelman installation",0,0,0,1,0
+"McCarthy, Sean: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"McCarthy, Sean: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"McCarthy, Sean: Low Voltage Test Set CM",1,0,0,0,0
+"McCarthy, Sean: PURs Pump/Motor Replacement",1,0,0,0,0
+"McCarthy, Sean: PURs Pump VFD Replacement",1,0,0,0,0
+"McCarthy, Sean: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"McCarthy, Sean: Pump House Ladder Calibration",1,0,0,0,0
+"McCarthy, Sean: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"McCarthy, Sean: Diesel Generator PM / CM",1,0,0,0,0
+"McCarthy, Sean: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"McCarthy, Sean: Pump House Pump Replacement ",1,0,0,0,0
+"McCarthy, Sean: Distribution Breaker PM",1,0,0,0,0
+"McCarthy, Sean: Distribution Breaker CM",1,0,0,0,0
+"McCarthy, Sean: Transmission Breaker CM",1,0,0,0,0
+"McCarthy, Sean: Transmission Breaker PM",1,0,0,0,0
+"McCarthy, Sean: Barksdale PM / CM",1,0,0,0,0
+"McCarthy, Sean: Battery Corrective Maintenance",1,0,0,0,0
+"McCarthy, Sean: Battery PM",1,0,0,0,0
+"McCarthy, Sean: Repair high voltage test leads/portable grounds",1,0,0,0,0
+"McCarthy, Sean: Installing / troubleshooting RMS coils",1,0,0,0,0
+"McCarthy, Sean: Capbank Repairs",1,0,0,0,0
+"McCarthy, Sean: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"McCarthy, Sean: Kemper Roof Installations",1,0,0,0,0
+"McCarthy, Sean: HVAC Maintenance",1,0,0,0,0
+"McCarthy, Sean: Asbestos abatement",1,0,0,0,0
+"Medina, Armando: Aerial lift Use",0,0,0,1,0
+"Medina, Armando: Electrical Troubleshooting",0,0,0,1,0
+"Medina, Armando: Gas Calls (any equipment)",0,0,0,1,0
+"Medina, Armando: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Medina, Armando: Swagelok tubing",0,0,0,1,0
+"Medina, Armando: Vacuum pump repair",0,1,0,0,0
+"Medina, Armando: Forklift operator",1,0,0,0,0
+"Medina, Armando: Confined Space Entry",1,0,0,0,0
+"Medina, Armando: Confined Space Supervisor",1,0,0,0,0
+"Medina, Armando: Welder",1,0,0,0,0
+"Medina, Armando: Fire Watch",0,1,0,0,0
+"Medina, Armando: Rigging",0,0,0,1,0
+"Medina, Armando: Cadwelds",0,0,1,0,0
+"Medina, Armando: Compressor PM / CM",1,0,0,0,0
+"Medina, Armando: Troubleshoot DC Grounds",0,1,0,0,0
+"Medina, Armando: SF6 gas cart use",0,0,1,0,0
+"Medina, Armando: Hotspots Inspections",1,0,0,0,0
+"Medina, Armando: Overheard Crane Training",0,0,0,1,0
+"Medina, Armando: CS PM / CM",0,0,0,1,0
+"Medina, Armando: LTC PM / CM",0,0,0,1,0
+"Medina, Armando: AGS PM / CM",0,0,0,1,0
+"Medina, Armando: Mechanical Deluge Repair",0,0,0,1,0
+"Medina, Armando: Tapguard 260/TM 100 troubleshooting",0,0,0,1,0
+"Medina, Armando: Transformer Fan replacement",0,0,0,1,0
+"Medina, Armando: Transformer Pump replacement",0,0,0,1,0
+"Medina, Armando: Sesco oil processing truck operator",0,0,0,1,0
+"Medina, Armando: Sesco oil processing truck repair",0,0,0,1,0
+"Medina, Armando: Transformer Vacuum pump operator",0,0,0,1,0
+"Medina, Armando: Transformer Replacement",0,0,0,1,0
+"Medina, Armando: Transformer Bushing Replacement",0,0,0,1,0
+"Medina, Armando: Circuit Switcher Replacement",0,0,0,1,0
+"Medina, Armando: Kelman installation",0,0,0,1,0
+"Medina, Armando: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Medina, Armando: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Medina, Armando: Low Voltage Test Set CM",1,0,0,0,0
+"Medina, Armando: PURs Pump/Motor Replacement",1,0,0,0,0
+"Medina, Armando: PURs Pump VFD Replacement",1,0,0,0,0
+"Medina, Armando: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Medina, Armando: Pump House Ladder Calibration",1,0,0,0,0
+"Medina, Armando: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Medina, Armando: Diesel Generator PM / CM",1,0,0,0,0
+"Medina, Armando: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Medina, Armando: Pump House Pump Replacement ",1,0,0,0,0
+"Medina, Armando: Distribution Breaker PM",1,0,0,0,0
+"Medina, Armando: Distribution Breaker CM",1,0,0,0,0
+"Medina, Armando: Transmission Breaker CM",1,0,0,0,0
+"Medina, Armando: Transmission Breaker PM",1,0,0,0,0
+"Medina, Armando: Barksdale PM / CM",1,0,0,0,0
+"Medina, Armando: Battery Corrective Maintenance",1,0,0,0,0
+"Medina, Armando: Battery PM",1,0,0,0,0
+"Medina, Armando: Repair high voltage test leads/portable grounds",1,0,0,0,0
+"Medina, Armando: Installing / troubleshooting RMS coils",1,0,0,0,0
+"Medina, Armando: Capbank Repairs",1,0,0,0,0
+"Medina, Armando: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Medina, Armando: Kemper Roof Installations",1,0,0,0,0
+"Medina, Armando: HVAC Maintenance",1,0,0,0,0
+"Medina, Armando: Asbestos abatement",1,0,0,0,0
+"Mee, Michael: Aerial lift Use",0,0,0,1,0
+"Mee, Michael: Electrical Troubleshooting",0,0,0,1,0
+"Mee, Michael: Gas Calls (any equipment)",0,0,0,1,0
+"Mee, Michael: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Mee, Michael: Swagelok tubing",0,0,0,1,0
+"Mee, Michael: Vacuum pump repair",0,1,0,0,0
+"Mee, Michael: Forklift operator",1,0,0,0,0
+"Mee, Michael: Confined Space Entry",1,0,0,0,0
+"Mee, Michael: Confined Space Supervisor",1,0,0,0,0
+"Mee, Michael: Welder",1,0,0,0,0
+"Mee, Michael: Fire Watch",0,1,0,0,0
+"Mee, Michael: Rigging",0,0,0,1,0
+"Mee, Michael: Cadwelds",0,0,1,0,0
+"Mee, Michael: Compressor PM / CM",1,0,0,0,0
+"Mee, Michael: Troubleshoot DC Grounds",1,0,0,0,0
+"Mee, Michael: SF6 gas cart use",1,0,0,0,0
+"Mee, Michael: Hotspots Inspections",1,0,0,0,0
+"Mee, Michael: Overheard Crane Training",0,0,0,1,0
+"Mee, Michael: CS PM / CM",1,0,0,0,0
+"Mee, Michael: LTC PM / CM",1,0,0,0,0
+"Mee, Michael: AGS PM / CM",1,0,0,0,0
+"Mee, Michael: Mechanical Deluge Repair",1,0,0,0,0
+"Mee, Michael: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Mee, Michael: Transformer Fan replacement",1,0,0,0,0
+"Mee, Michael: Transformer Pump replacement",1,0,0,0,0
+"Mee, Michael: Sesco oil processing truck operator",1,0,0,0,0
+"Mee, Michael: Sesco oil processing truck repair",1,0,0,0,0
+"Mee, Michael: Transformer Vacuum pump operator",1,0,0,0,0
+"Mee, Michael: Transformer Replacement",1,0,0,0,0
+"Mee, Michael: Transformer Bushing Replacement",1,0,0,0,0
+"Mee, Michael: Circuit Switcher Replacement",1,0,0,0,0
+"Mee, Michael: Kelman installation",1,0,0,0,0
+"Mee, Michael: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Mee, Michael: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Mee, Michael: Low Voltage Test Set CM",1,0,0,0,0
+"Mee, Michael: PURs Pump/Motor Replacement",1,0,0,0,0
+"Mee, Michael: PURs Pump VFD Replacement",1,0,0,0,0
+"Mee, Michael: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Mee, Michael: Pump House Ladder Calibration",1,0,0,0,0
+"Mee, Michael: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Mee, Michael: Diesel Generator PM / CM",1,0,0,0,0
+"Mee, Michael: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Mee, Michael: Pump House Pump Replacement ",1,0,0,0,0
+"Mee, Michael: Distribution Breaker PM",1,0,0,0,0
+"Mee, Michael: Distribution Breaker CM",1,0,0,0,0
+"Mee, Michael: Transmission Breaker CM",1,0,0,0,0
+"Mee, Michael: Transmission Breaker PM",1,0,0,0,0
+"Mee, Michael: Barksdale PM / CM",1,0,0,0,0
+"Mee, Michael: Battery Corrective Maintenance",1,0,0,0,0
+"Mee, Michael: Battery PM",1,0,0,0,0
+"Mee, Michael: Repair high voltage test leads/portable grounds",1,0,0,0,0
+"Mee, Michael: Installing / troubleshooting RMS coils",1,0,0,0,0
+"Mee, Michael: Capbank Repairs",1,0,0,0,0
+"Mee, Michael: Disconnect and Ground Switch Adj/Repairs",1,0,0,0,0
+"Mee, Michael: Kemper Roof Installations",1,0,0,0,0
+"Mee, Michael: HVAC Maintenance",1,0,0,0,0
+"Mee, Michael: Asbestos abatement",1,0,0,0,0
+"Milo, Jason: Aerial lift Use",0,0,0,1,0
+"Milo, Jason: Electrical Troubleshooting",0,0,0,1,0
+"Milo, Jason: Gas Calls (any equipment)",0,0,0,1,0
+"Milo, Jason: Electrical Conduit /Wiring Installation",0,0,0,1,0
+"Milo, Jason: Swagelok tubing",0,0,0,1,0
+"Milo, Jason: Vacuum pump repair",0,1,0,0,0
+"Milo, Jason: Forklift operator",0,0,0,1,0
+"Milo, Jason: Confined Space Entry",1,0,0,0,0
+"Milo, Jason: Confined Space Supervisor",1,0,0,0,0
+"Milo, Jason: Welder",1,0,0,0,0
+"Milo, Jason: Fire Watch",0,0,1,0,0
+"Milo, Jason: Rigging",0,0,0,1,0
+"Milo, Jason: Cadwelds",0,0,0,1,0
+"Milo, Jason: Compressor PM / CM",0,0,0,1,0
+"Milo, Jason: Troubleshoot DC Grounds",0,0,0,1,0
+"Milo, Jason: SF6 gas cart use",0,0,0,1,0
+"Milo, Jason: Hotspots Inspections",1,0,0,0,0
+"Milo, Jason: Overheard Crane Training",0,0,0,1,0
+"Milo, Jason: CS PM / CM",1,0,0,0,0
+"Milo, Jason: LTC PM / CM",1,0,0,0,0
+"Milo, Jason: AGS PM / CM",1,0,0,0,0
+"Milo, Jason: Mechanical Deluge Repair",1,0,0,0,0
+"Milo, Jason: Tapguard 260/TM 100 troubleshooting",0,0,0,1,0
+"Milo, Jason: Transformer Fan replacement",0,0,0,1,0
+"Milo, Jason: Transformer Pump replacement",0,0,0,1,0
+"Milo, Jason: Sesco oil processing truck operator",0,0,0,1,0
+"Milo, Jason: Sesco oil processing truck repair",0,0,0,1,0
+"Milo, Jason: Transformer Vacuum pump operator",0,0,0,1,0
+"Milo, Jason: Transformer Replacement",0,0,0,1,0
+"Milo, Jason: Transformer Bushing Replacement",0,0,0,1,0
+"Milo, Jason: Circuit Switcher Replacement",0,0,0,1,0
+"Milo, Jason: Kelman installation",0,0,0,1,0
+"Milo, Jason: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Milo, Jason: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Milo, Jason: Low Voltage Test Set CM",1,0,0,0,0
+"Milo, Jason: PURs Pump/Motor Replacement",0,0,0,1,0
+"Milo, Jason: PURs Pump VFD Replacement",0,0,0,1,0
+"Milo, Jason: PURs/CP Pump/Motor Alignment",0,0,0,1,0
+"Milo, Jason: Pump House Ladder Calibration",0,0,0,1,0
+"Milo, Jason: Pump House PLC troubleshooting & Repairs",0,0,0,1,0
+"Milo, Jason: Diesel Generator PM / CM",0,0,0,1,0
+"Milo, Jason: Working in a PURs facility w/ out an operator",0,0,0,1,0
+"Milo, Jason: Pump House Pump Replacement ",0,0,0,1,0
+"Milo, Jason: Distribution Breaker PM",0,0,0,1,0
+"Milo, Jason: Distribution Breaker CM",0,0,0,1,0
+"Milo, Jason: Transmission Breaker CM",0,0,0,1,0
+"Milo, Jason: Transmission Breaker PM",0,0,0,1,0
+"Milo, Jason: Barksdale PM / CM",0,0,0,1,0
+"Milo, Jason: Battery Corrective Maintenance",0,0,0,1,0
+"Milo, Jason: Battery PM",0,0,0,1,0
+"Milo, Jason: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Milo, Jason: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Milo, Jason: Capbank Repairs",0,0,0,1,0
+"Milo, Jason: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Milo, Jason: Kemper Roof Installations",0,0,0,1,0
+"Milo, Jason: HVAC Maintenance",0,0,0,1,0
+"Milo, Jason: Asbestos abatement",1,0,0,0,0
+"Minucci, Anthony: Aerial lift Use",0,0,0,1,0
+"Minucci, Anthony: Electrical Troubleshooting",0,0,0,1,0
+"Minucci, Anthony: Gas Calls (any equipment)",0,0,0,1,0
+"Minucci, Anthony: Electrical Conduit /Wiring Installation",0,0,0,1,0
+"Minucci, Anthony: Swagelok tubing",0,0,0,1,0
+"Minucci, Anthony: Vacuum pump repair",0,1,0,0,0
+"Minucci, Anthony: Forklift operator",0,0,0,1,0
+"Minucci, Anthony: Confined Space Entry",1,0,0,0,0
+"Minucci, Anthony: Confined Space Supervisor",1,0,0,0,0
+"Minucci, Anthony: Welder",1,0,0,0,0
+"Minucci, Anthony: Fire Watch",0,0,1,0,0
+"Minucci, Anthony: Rigging",0,0,0,1,0
+"Minucci, Anthony: Cadwelds",0,0,0,1,0
+"Minucci, Anthony: Compressor PM / CM",0,0,0,1,0
+"Minucci, Anthony: Troubleshoot DC Grounds",0,0,0,1,0
+"Minucci, Anthony: SF6 gas cart use",0,0,0,1,0
+"Minucci, Anthony: Hotspots Inspections",1,0,0,0,0
+"Minucci, Anthony: Overheard Crane Training",0,0,0,1,0
+"Minucci, Anthony: CS PM / CM",0,0,0,1,0
+"Minucci, Anthony: LTC PM / CM",0,0,0,1,0
+"Minucci, Anthony: AGS PM / CM",0,0,0,1,0
+"Minucci, Anthony: Mechanical Deluge Repair",0,0,0,1,0
+"Minucci, Anthony: Tapguard 260/TM 100 troubleshooting",0,0,0,1,0
+"Minucci, Anthony: Transformer Fan replacement",0,0,0,1,0
+"Minucci, Anthony: Transformer Pump replacement",0,0,0,1,0
+"Minucci, Anthony: Sesco oil processing truck operator",0,0,0,1,0
+"Minucci, Anthony: Sesco oil processing truck repair",0,0,0,1,0
+"Minucci, Anthony: Transformer Vacuum pump operator",0,0,0,1,0
+"Minucci, Anthony: Transformer Replacement",0,0,0,1,0
+"Minucci, Anthony: Transformer Bushing Replacement",0,0,0,1,0
+"Minucci, Anthony: Circuit Switcher Replacement",0,0,0,1,0
+"Minucci, Anthony: Kelman installation",0,0,0,1,0
+"Minucci, Anthony: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Minucci, Anthony: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Minucci, Anthony: Low Voltage Test Set CM",1,0,0,0,0
+"Minucci, Anthony: PURs Pump/Motor Replacement",0,0,0,1,0
+"Minucci, Anthony: PURs Pump VFD Replacement",0,0,0,1,0
+"Minucci, Anthony: PURs/CP Pump/Motor Alignment",0,0,0,1,0
+"Minucci, Anthony: Pump House Ladder Calibration",0,0,0,1,0
+"Minucci, Anthony: Pump House PLC troubleshooting & Repairs",0,0,0,1,0
+"Minucci, Anthony: Diesel Generator PM / CM",0,0,0,1,0
+"Minucci, Anthony: Working in a PURs facility w/ out an operator",0,0,0,1,0
+"Minucci, Anthony: Pump House Pump Replacement ",0,0,0,1,0
+"Minucci, Anthony: Distribution Breaker PM",0,0,0,1,0
+"Minucci, Anthony: Distribution Breaker CM",0,0,0,1,0
+"Minucci, Anthony: Transmission Breaker CM",0,0,0,1,0
+"Minucci, Anthony: Transmission Breaker PM",0,0,0,1,0
+"Minucci, Anthony: Barksdale PM / CM",0,0,0,1,0
+"Minucci, Anthony: Battery Corrective Maintenance",0,0,0,1,0
+"Minucci, Anthony: Battery PM",0,0,0,1,0
+"Minucci, Anthony: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Minucci, Anthony: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Minucci, Anthony: Capbank Repairs",0,0,0,1,0
+"Minucci, Anthony: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Minucci, Anthony: Kemper Roof Installations",0,0,0,1,0
+"Minucci, Anthony: HVAC Maintenance",0,0,0,1,0
+"Minucci, Anthony: Asbestos abatement",1,0,0,0,0
+"Monasseri, Joseph: Aerial lift Use",0,0,0,1,0
+"Monasseri, Joseph: Electrical Troubleshooting",0,0,0,1,0
+"Monasseri, Joseph: Gas Calls (any equipment)",0,0,0,1,0
+"Monasseri, Joseph: Electrical Conduit /Wiring Installation",0,0,0,1,0
+"Monasseri, Joseph: Swagelok tubing",0,0,0,1,0
+"Monasseri, Joseph: Vacuum pump repair",0,1,0,0,0
+"Monasseri, Joseph: Forklift operator",0,0,0,1,0
+"Monasseri, Joseph: Confined Space Entry",1,0,0,0,0
+"Monasseri, Joseph: Confined Space Supervisor",1,0,0,0,0
+"Monasseri, Joseph: Welder",1,0,0,0,0
+"Monasseri, Joseph: Fire Watch",0,0,1,0,0
+"Monasseri, Joseph: Rigging",0,0,0,1,0
+"Monasseri, Joseph: Cadwelds",0,0,0,1,0
+"Monasseri, Joseph: Compressor PM / CM",0,0,0,1,0
+"Monasseri, Joseph: Troubleshoot DC Grounds",0,0,0,1,0
+"Monasseri, Joseph: SF6 gas cart use",0,0,0,1,0
+"Monasseri, Joseph: Hotspots Inspections",1,0,0,0,0
+"Monasseri, Joseph: Overheard Crane Training",0,0,0,1,0
+"Monasseri, Joseph: CS PM / CM",0,0,0,1,0
+"Monasseri, Joseph: LTC PM / CM",0,0,0,1,0
+"Monasseri, Joseph: AGS PM / CM",0,0,0,1,0
+"Monasseri, Joseph: Mechanical Deluge Repair",0,0,0,1,0
+"Monasseri, Joseph: Tapguard 260/TM 100 troubleshooting",0,0,0,1,0
+"Monasseri, Joseph: Transformer Fan replacement",0,0,0,1,0
+"Monasseri, Joseph: Transformer Pump replacement",0,0,0,1,0
+"Monasseri, Joseph: Sesco oil processing truck operator",0,0,0,1,0
+"Monasseri, Joseph: Sesco oil processing truck repair",0,0,0,1,0
+"Monasseri, Joseph: Transformer Vacuum pump operator",0,0,0,1,0
+"Monasseri, Joseph: Transformer Replacement",0,0,0,1,0
+"Monasseri, Joseph: Transformer Bushing Replacement",0,0,0,1,0
+"Monasseri, Joseph: Circuit Switcher Replacement",0,0,0,1,0
+"Monasseri, Joseph: Kelman installation",0,0,0,1,0
+"Monasseri, Joseph: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Monasseri, Joseph: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Monasseri, Joseph: Low Voltage Test Set CM",1,0,0,0,0
+"Monasseri, Joseph: PURs Pump/Motor Replacement",0,0,0,1,0
+"Monasseri, Joseph: PURs Pump VFD Replacement",0,0,0,1,0
+"Monasseri, Joseph: PURs/CP Pump/Motor Alignment",0,0,0,1,0
+"Monasseri, Joseph: Pump House Ladder Calibration",0,0,0,1,0
+"Monasseri, Joseph: Pump House PLC troubleshooting & Repairs",0,0,0,1,0
+"Monasseri, Joseph: Diesel Generator PM / CM",0,0,0,1,0
+"Monasseri, Joseph: Working in a PURs facility w/ out an operator",0,0,0,1,0
+"Monasseri, Joseph: Pump House Pump Replacement ",0,0,0,1,0
+"Monasseri, Joseph: Distribution Breaker PM",0,0,0,1,0
+"Monasseri, Joseph: Distribution Breaker CM",0,0,0,1,0
+"Monasseri, Joseph: Transmission Breaker CM",0,0,0,1,0
+"Monasseri, Joseph: Transmission Breaker PM",0,0,0,1,0
+"Monasseri, Joseph: Barksdale PM / CM",0,0,0,1,0
+"Monasseri, Joseph: Battery Corrective Maintenance",0,0,0,1,0
+"Monasseri, Joseph: Battery PM",0,0,0,1,0
+"Monasseri, Joseph: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Monasseri, Joseph: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Monasseri, Joseph: Capbank Repairs",0,0,0,1,0
+"Monasseri, Joseph: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Monasseri, Joseph: Kemper Roof Installations",0,0,0,1,0
+"Monasseri, Joseph: HVAC Maintenance",0,0,0,1,0
+"Monasseri, Joseph: Asbestos abatement",1,0,0,0,0
+"Montalvo, Orlando: Aerial lift Use",0,0,0,1,0
+"Montalvo, Orlando: Electrical Troubleshooting",0,0,0,0,1
+"Montalvo, Orlando: Gas Calls (any equipment)",0,0,0,1,0
+"Montalvo, Orlando: Electrical Conduit /Wiring Installation",0,0,0,1,0
+"Montalvo, Orlando: Swagelok tubing",0,0,0,1,0
+"Montalvo, Orlando: Vacuum pump repair",0,1,0,0,0
+"Montalvo, Orlando: Forklift operator",0,0,0,1,0
+"Montalvo, Orlando: Confined Space Entry",1,0,0,0,0
+"Montalvo, Orlando: Confined Space Supervisor",1,0,0,0,0
+"Montalvo, Orlando: Welder",1,0,0,0,0
+"Montalvo, Orlando: Fire Watch",0,0,1,0,0
+"Montalvo, Orlando: Rigging",0,0,0,1,0
+"Montalvo, Orlando: Cadwelds",0,0,0,1,0
+"Montalvo, Orlando: Compressor PM / CM",0,0,0,1,0
+"Montalvo, Orlando: Troubleshoot DC Grounds",0,0,0,1,0
+"Montalvo, Orlando: SF6 gas cart use",0,0,0,1,0
+"Montalvo, Orlando: Hotspots Inspections",1,0,0,0,0
+"Montalvo, Orlando: Overheard Crane Training",0,0,0,1,0
+"Montalvo, Orlando: CS PM / CM",0,0,0,1,0
+"Montalvo, Orlando: LTC PM / CM",0,0,0,1,0
+"Montalvo, Orlando: AGS PM / CM",0,0,0,1,0
+"Montalvo, Orlando: Mechanical Deluge Repair",0,0,0,1,0
+"Montalvo, Orlando: Tapguard 260/TM 100 troubleshooting",0,0,0,1,0
+"Montalvo, Orlando: Transformer Fan replacement",0,0,0,1,0
+"Montalvo, Orlando: Transformer Pump replacement",0,0,0,1,0
+"Montalvo, Orlando: Sesco oil processing truck operator",0,0,0,1,0
+"Montalvo, Orlando: Sesco oil processing truck repair",0,0,0,1,0
+"Montalvo, Orlando: Transformer Vacuum pump operator",0,0,0,1,0
+"Montalvo, Orlando: Transformer Replacement",0,0,0,1,0
+"Montalvo, Orlando: Transformer Bushing Replacement",0,0,0,1,0
+"Montalvo, Orlando: Circuit Switcher Replacement",0,0,0,1,0
+"Montalvo, Orlando: Kelman installation",0,0,0,1,0
+"Montalvo, Orlando: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Montalvo, Orlando: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Montalvo, Orlando: Low Voltage Test Set CM",1,0,0,0,0
+"Montalvo, Orlando: PURs Pump/Motor Replacement",0,0,0,1,0
+"Montalvo, Orlando: PURs Pump VFD Replacement",0,0,0,1,0
+"Montalvo, Orlando: PURs/CP Pump/Motor Alignment",0,0,0,1,0
+"Montalvo, Orlando: Pump House Ladder Calibration",0,0,0,1,0
+"Montalvo, Orlando: Pump House PLC troubleshooting & Repairs",0,0,0,1,0
+"Montalvo, Orlando: Diesel Generator PM / CM",0,0,0,1,0
+"Montalvo, Orlando: Working in a PURs facility w/ out an operator",0,0,0,1,0
+"Montalvo, Orlando: Pump House Pump Replacement ",0,0,0,1,0
+"Montalvo, Orlando: Distribution Breaker PM",0,0,0,1,0
+"Montalvo, Orlando: Distribution Breaker CM",0,0,0,1,0
+"Montalvo, Orlando: Transmission Breaker CM",0,0,0,1,0
+"Montalvo, Orlando: Transmission Breaker PM",0,0,0,1,0
+"Montalvo, Orlando: Barksdale PM / CM",0,0,0,1,0
+"Montalvo, Orlando: Battery Corrective Maintenance",0,0,0,1,0
+"Montalvo, Orlando: Battery PM",0,0,0,1,0
+"Montalvo, Orlando: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Montalvo, Orlando: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Montalvo, Orlando: Capbank Repairs",0,0,0,1,0
+"Montalvo, Orlando: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Montalvo, Orlando: Kemper Roof Installations",0,0,0,1,0
+"Montalvo, Orlando: HVAC Maintenance",0,0,0,1,0
+"Montalvo, Orlando: Asbestos abatement",1,0,0,0,0
+"Neville, Robert: Aerial lift Use",0,0,0,1,0
+"Neville, Robert: Electrical Troubleshooting",0,0,0,1,0
+"Neville, Robert: Gas Calls (any equipment)",0,0,0,1,0
+"Neville, Robert: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Neville, Robert: Swagelok tubing",0,0,0,1,0
+"Neville, Robert: Vacuum pump repair",0,1,0,0,0
+"Neville, Robert: Forklift operator",1,0,0,0,0
+"Neville, Robert: Confined Space Entry",1,0,0,0,0
+"Neville, Robert: Confined Space Supervisor",1,0,0,0,0
+"Neville, Robert: Welder",1,0,0,0,0
+"Neville, Robert: Fire Watch",0,1,0,0,0
+"Neville, Robert: Rigging",0,0,0,1,0
+"Neville, Robert: Cadwelds",0,0,1,0,0
+"Neville, Robert: Compressor PM / CM",1,0,0,0,0
+"Neville, Robert: Troubleshoot DC Grounds",0,1,0,0,0
+"Neville, Robert: SF6 gas cart use",1,0,0,0,0
+"Neville, Robert: Hotspots Inspections",1,0,0,0,0
+"Neville, Robert: Overheard Crane Training",0,0,0,1,0
+"Neville, Robert: CS PM / CM",1,0,0,0,0
+"Neville, Robert: LTC PM / CM",1,0,0,0,0
+"Neville, Robert: AGS PM / CM",1,0,0,0,0
+"Neville, Robert: Mechanical Deluge Repair",1,0,0,0,0
+"Neville, Robert: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Neville, Robert: Transformer Fan replacement",1,0,0,0,0
+"Neville, Robert: Transformer Pump replacement",1,0,0,0,0
+"Neville, Robert: Sesco oil processing truck operator",1,0,0,0,0
+"Neville, Robert: Sesco oil processing truck repair",1,0,0,0,0
+"Neville, Robert: Transformer Vacuum pump operator",1,0,0,0,0
+"Neville, Robert: Transformer Replacement",1,0,0,0,0
+"Neville, Robert: Transformer Bushing Replacement",1,0,0,0,0
+"Neville, Robert: Circuit Switcher Replacement",1,0,0,0,0
+"Neville, Robert: Kelman installation",1,0,0,0,0
+"Neville, Robert: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Neville, Robert: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Neville, Robert: Low Voltage Test Set CM",1,0,0,0,0
+"Neville, Robert: PURs Pump/Motor Replacement",1,0,0,0,0
+"Neville, Robert: PURs Pump VFD Replacement",1,0,0,0,0
+"Neville, Robert: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Neville, Robert: Pump House Ladder Calibration",1,0,0,0,0
+"Neville, Robert: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Neville, Robert: Diesel Generator PM / CM",1,0,0,0,0
+"Neville, Robert: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Neville, Robert: Pump House Pump Replacement ",1,0,0,0,0
+"Neville, Robert: Distribution Breaker PM",0,0,0,1,0
+"Neville, Robert: Distribution Breaker CM",0,0,0,1,0
+"Neville, Robert: Transmission Breaker CM",0,0,0,1,0
+"Neville, Robert: Transmission Breaker PM",0,0,0,1,0
+"Neville, Robert: Barksdale PM / CM",0,0,0,1,0
+"Neville, Robert: Battery Corrective Maintenance",0,0,1,0,0
+"Neville, Robert: Battery PM",0,0,1,0,0
+"Neville, Robert: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Neville, Robert: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Neville, Robert: Capbank Repairs",0,0,0,1,0
+"Neville, Robert: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Neville, Robert: Kemper Roof Installations",0,0,0,1,0
+"Neville, Robert: HVAC Maintenance",0,0,0,1,0
+"Neville, Robert: Asbestos abatement",1,0,0,0,0
+"O'Rourke, Henry: Aerial lift Use",0,0,0,1,0
+"O'Rourke, Henry: Electrical Troubleshooting",0,0,0,1,0
+"O'Rourke, Henry: Gas Calls (any equipment)",0,0,0,1,0
+"O'Rourke, Henry: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"O'Rourke, Henry: Swagelok tubing",0,0,0,1,0
+"O'Rourke, Henry: Vacuum pump repair",0,1,0,0,0
+"O'Rourke, Henry: Forklift operator",1,0,0,0,0
+"O'Rourke, Henry: Confined Space Entry",1,0,0,0,0
+"O'Rourke, Henry: Confined Space Supervisor",1,0,0,0,0
+"O'Rourke, Henry: Welder",1,0,0,0,0
+"O'Rourke, Henry: Fire Watch",0,1,0,0,0
+"O'Rourke, Henry: Rigging",0,0,0,1,0
+"O'Rourke, Henry: Cadwelds",0,0,1,0,0
+"O'Rourke, Henry: Compressor PM / CM",1,0,0,0,0
+"O'Rourke, Henry: Troubleshoot DC Grounds",0,0,0,1,0
+"O'Rourke, Henry: SF6 gas cart use",0,0,0,1,0
+"O'Rourke, Henry: Hotspots Inspections",0,0,0,0,1
+"O'Rourke, Henry: Overheard Crane Training",0,0,0,1,0
+"O'Rourke, Henry: CS PM / CM",1,0,0,0,0
+"O'Rourke, Henry: LTC PM / CM",1,0,0,0,0
+"O'Rourke, Henry: AGS PM / CM",1,0,0,0,0
+"O'Rourke, Henry: Mechanical Deluge Repair",1,0,0,0,0
+"O'Rourke, Henry: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"O'Rourke, Henry: Transformer Fan replacement",1,0,0,0,0
+"O'Rourke, Henry: Transformer Pump replacement",1,0,0,0,0
+"O'Rourke, Henry: Sesco oil processing truck operator",1,0,0,0,0
+"O'Rourke, Henry: Sesco oil processing truck repair",1,0,0,0,0
+"O'Rourke, Henry: Transformer Vacuum pump operator",1,0,0,0,0
+"O'Rourke, Henry: Transformer Replacement",1,0,0,0,0
+"O'Rourke, Henry: Transformer Bushing Replacement",1,0,0,0,0
+"O'Rourke, Henry: Circuit Switcher Replacement",1,0,0,0,0
+"O'Rourke, Henry: Kelman installation",1,0,0,0,0
+"O'Rourke, Henry: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"O'Rourke, Henry: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"O'Rourke, Henry: Low Voltage Test Set CM",1,0,0,0,0
+"O'Rourke, Henry: PURs Pump/Motor Replacement",1,0,0,0,0
+"O'Rourke, Henry: PURs Pump VFD Replacement",1,0,0,0,0
+"O'Rourke, Henry: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"O'Rourke, Henry: Pump House Ladder Calibration",1,0,0,0,0
+"O'Rourke, Henry: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"O'Rourke, Henry: Diesel Generator PM / CM",1,0,0,0,0
+"O'Rourke, Henry: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"O'Rourke, Henry: Pump House Pump Replacement ",1,0,0,0,0
+"O'Rourke, Henry: Distribution Breaker PM",0,0,0,1,0
+"O'Rourke, Henry: Distribution Breaker CM",0,0,0,1,0
+"O'Rourke, Henry: Transmission Breaker CM",0,0,0,1,0
+"O'Rourke, Henry: Transmission Breaker PM",0,0,0,1,0
+"O'Rourke, Henry: Barksdale PM / CM",0,0,0,1,0
+"O'Rourke, Henry: Battery Corrective Maintenance",0,0,1,0,0
+"O'Rourke, Henry: Battery PM",0,0,1,0,0
+"O'Rourke, Henry: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"O'Rourke, Henry: Installing / troubleshooting RMS coils",0,0,0,1,0
+"O'Rourke, Henry: Capbank Repairs",0,0,0,1,0
+"O'Rourke, Henry: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"O'Rourke, Henry: Kemper Roof Installations",0,0,0,1,0
+"O'Rourke, Henry: HVAC Maintenance",0,0,0,1,0
+"O'Rourke, Henry: Asbestos abatement",1,0,0,0,0
+"Panagos, Miltiades: Aerial lift Use",0,0,0,1,0
+"Panagos, Miltiades: Electrical Troubleshooting",0,0,0,1,0
+"Panagos, Miltiades: Gas Calls (any equipment)",0,0,0,1,0
+"Panagos, Miltiades: Electrical Conduit /Wiring Installation",0,0,0,1,0
+"Panagos, Miltiades: Swagelok tubing",0,0,0,1,0
+"Panagos, Miltiades: Vacuum pump repair",0,1,0,0,0
+"Panagos, Miltiades: Forklift operator",0,0,0,1,0
+"Panagos, Miltiades: Confined Space Entry",1,0,0,0,0
+"Panagos, Miltiades: Confined Space Supervisor",1,0,0,0,0
+"Panagos, Miltiades: Welder",0,0,0,1,0
+"Panagos, Miltiades: Fire Watch",0,0,1,0,0
+"Panagos, Miltiades: Rigging",0,0,0,1,0
+"Panagos, Miltiades: Cadwelds",0,0,0,1,0
+"Panagos, Miltiades: Compressor PM / CM",0,0,0,1,0
+"Panagos, Miltiades: Troubleshoot DC Grounds",0,0,0,1,0
+"Panagos, Miltiades: SF6 gas cart use",0,0,0,1,0
+"Panagos, Miltiades: Hotspots Inspections",1,0,0,0,0
+"Panagos, Miltiades: Overheard Crane Training",0,0,0,1,0
+"Panagos, Miltiades: CS PM / CM",0,0,0,1,0
+"Panagos, Miltiades: LTC PM / CM",0,0,0,1,0
+"Panagos, Miltiades: AGS PM / CM",0,0,0,1,0
+"Panagos, Miltiades: Mechanical Deluge Repair",0,0,0,1,0
+"Panagos, Miltiades: Tapguard 260/TM 100 troubleshooting",0,0,0,1,0
+"Panagos, Miltiades: Transformer Fan replacement",0,0,0,1,0
+"Panagos, Miltiades: Transformer Pump replacement",0,0,0,1,0
+"Panagos, Miltiades: Sesco oil processing truck operator",0,0,0,1,0
+"Panagos, Miltiades: Sesco oil processing truck repair",0,0,0,1,0
+"Panagos, Miltiades: Transformer Vacuum pump operator",0,0,0,1,0
+"Panagos, Miltiades: Transformer Replacement",0,0,0,1,0
+"Panagos, Miltiades: Transformer Bushing Replacement",0,0,0,1,0
+"Panagos, Miltiades: Circuit Switcher Replacement",0,0,0,1,0
+"Panagos, Miltiades: Kelman installation",0,0,0,1,0
+"Panagos, Miltiades: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Panagos, Miltiades: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Panagos, Miltiades: Low Voltage Test Set CM",1,0,0,0,0
+"Panagos, Miltiades: PURs Pump/Motor Replacement",0,0,0,1,0
+"Panagos, Miltiades: PURs Pump VFD Replacement",0,0,0,1,0
+"Panagos, Miltiades: PURs/CP Pump/Motor Alignment",0,0,0,1,0
+"Panagos, Miltiades: Pump House Ladder Calibration",0,0,0,1,0
+"Panagos, Miltiades: Pump House PLC troubleshooting & Repairs",0,0,0,1,0
+"Panagos, Miltiades: Diesel Generator PM / CM",0,0,0,1,0
+"Panagos, Miltiades: Working in a PURs facility w/ out an operator",0,0,0,1,0
+"Panagos, Miltiades: Pump House Pump Replacement ",0,0,0,1,0
+"Panagos, Miltiades: Distribution Breaker PM",0,0,0,1,0
+"Panagos, Miltiades: Distribution Breaker CM",0,0,0,1,0
+"Panagos, Miltiades: Transmission Breaker CM",0,0,0,1,0
+"Panagos, Miltiades: Transmission Breaker PM",0,0,0,1,0
+"Panagos, Miltiades: Barksdale PM / CM",0,0,0,1,0
+"Panagos, Miltiades: Battery Corrective Maintenance",0,0,0,1,0
+"Panagos, Miltiades: Battery PM",0,0,0,1,0
+"Panagos, Miltiades: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Panagos, Miltiades: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Panagos, Miltiades: Capbank Repairs",0,0,0,1,0
+"Panagos, Miltiades: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Panagos, Miltiades: Kemper Roof Installations",0,0,0,1,0
+"Panagos, Miltiades: HVAC Maintenance",0,0,0,1,0
+"Panagos, Miltiades: Asbestos abatement",1,0,0,0,0
+"Papaderos, Manolis: Aerial lift Use",0,0,0,1,0
+"Papaderos, Manolis: Electrical Troubleshooting",0,0,0,1,0
+"Papaderos, Manolis: Gas Calls (any equipment)",0,0,0,1,0
+"Papaderos, Manolis: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Papaderos, Manolis: Swagelok tubing",0,0,0,1,0
+"Papaderos, Manolis: Vacuum pump repair",0,1,0,0,0
+"Papaderos, Manolis: Forklift operator",1,0,0,0,0
+"Papaderos, Manolis: Confined Space Entry",1,0,0,0,0
+"Papaderos, Manolis: Confined Space Supervisor",1,0,0,0,0
+"Papaderos, Manolis: Welder",1,0,0,0,0
+"Papaderos, Manolis: Fire Watch",0,1,0,0,0
+"Papaderos, Manolis: Rigging",0,0,0,1,0
+"Papaderos, Manolis: Cadwelds",0,0,1,0,0
+"Papaderos, Manolis: Compressor PM / CM",1,0,0,0,0
+"Papaderos, Manolis: Troubleshoot DC Grounds",0,1,0,0,0
+"Papaderos, Manolis: SF6 gas cart use",0,0,1,0,0
+"Papaderos, Manolis: Hotspots Inspections",1,0,0,0,0
+"Papaderos, Manolis: Overheard Crane Training",0,0,0,1,0
+"Papaderos, Manolis: CS PM / CM",0,0,0,1,0
+"Papaderos, Manolis: LTC PM / CM",0,0,0,1,0
+"Papaderos, Manolis: AGS PM / CM",0,0,0,1,0
+"Papaderos, Manolis: Mechanical Deluge Repair",0,0,0,1,0
+"Papaderos, Manolis: Tapguard 260/TM 100 troubleshooting",0,0,0,1,0
+"Papaderos, Manolis: Transformer Fan replacement",0,0,0,1,0
+"Papaderos, Manolis: Transformer Pump replacement",0,0,0,1,0
+"Papaderos, Manolis: Sesco oil processing truck operator",0,0,0,1,0
+"Papaderos, Manolis: Sesco oil processing truck repair",0,0,0,1,0
+"Papaderos, Manolis: Transformer Vacuum pump operator",0,0,0,1,0
+"Papaderos, Manolis: Transformer Replacement",0,0,0,1,0
+"Papaderos, Manolis: Transformer Bushing Replacement",0,0,0,1,0
+"Papaderos, Manolis: Circuit Switcher Replacement",0,0,0,1,0
+"Papaderos, Manolis: Kelman installation",0,0,0,1,0
+"Papaderos, Manolis: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Papaderos, Manolis: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Papaderos, Manolis: Low Voltage Test Set CM",1,0,0,0,0
+"Papaderos, Manolis: PURs Pump/Motor Replacement",1,0,0,0,0
+"Papaderos, Manolis: PURs Pump VFD Replacement",1,0,0,0,0
+"Papaderos, Manolis: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Papaderos, Manolis: Pump House Ladder Calibration",1,0,0,0,0
+"Papaderos, Manolis: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Papaderos, Manolis: Diesel Generator PM / CM",1,0,0,0,0
+"Papaderos, Manolis: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Papaderos, Manolis: Pump House Pump Replacement ",1,0,0,0,0
+"Papaderos, Manolis: Distribution Breaker PM",1,0,0,0,0
+"Papaderos, Manolis: Distribution Breaker CM",1,0,0,0,0
+"Papaderos, Manolis: Transmission Breaker CM",1,0,0,0,0
+"Papaderos, Manolis: Transmission Breaker PM",1,0,0,0,0
+"Papaderos, Manolis: Barksdale PM / CM",1,0,0,0,0
+"Papaderos, Manolis: Battery Corrective Maintenance",1,0,0,0,0
+"Papaderos, Manolis: Battery PM",1,0,0,0,0
+"Papaderos, Manolis: Repair high voltage test leads/portable grounds",1,0,0,0,0
+"Papaderos, Manolis: Installing / troubleshooting RMS coils",1,0,0,0,0
+"Papaderos, Manolis: Capbank Repairs",1,0,0,0,0
+"Papaderos, Manolis: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Papaderos, Manolis: Kemper Roof Installations",1,0,0,0,0
+"Papaderos, Manolis: HVAC Maintenance",1,0,0,0,0
+"Papaderos, Manolis: Asbestos abatement",1,0,0,0,0
+"Proscia, Anthony: Aerial lift Use",0,0,0,1,0
+"Proscia, Anthony: Electrical Troubleshooting",0,0,0,1,0
+"Proscia, Anthony: Gas Calls (any equipment)",0,0,0,1,0
+"Proscia, Anthony: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Proscia, Anthony: Swagelok tubing",0,0,0,1,0
+"Proscia, Anthony: Vacuum pump repair",0,1,0,0,0
+"Proscia, Anthony: Forklift operator",1,0,0,0,0
+"Proscia, Anthony: Confined Space Entry",1,0,0,0,0
+"Proscia, Anthony: Confined Space Supervisor",1,0,0,0,0
+"Proscia, Anthony: Welder",1,0,0,0,0
+"Proscia, Anthony: Fire Watch",0,1,0,0,0
+"Proscia, Anthony: Rigging",0,0,0,1,0
+"Proscia, Anthony: Cadwelds",0,0,1,0,0
+"Proscia, Anthony: Compressor PM / CM",1,0,0,0,0
+"Proscia, Anthony: Troubleshoot DC Grounds",0,0,0,1,0
+"Proscia, Anthony: SF6 gas cart use",0,0,0,1,0
+"Proscia, Anthony: Hotspots Inspections",1,0,0,0,0
+"Proscia, Anthony: Overheard Crane Training",0,0,0,1,0
+"Proscia, Anthony: CS PM / CM",1,0,0,0,0
+"Proscia, Anthony: LTC PM / CM",1,0,0,0,0
+"Proscia, Anthony: AGS PM / CM",1,0,0,0,0
+"Proscia, Anthony: Mechanical Deluge Repair",1,0,0,0,0
+"Proscia, Anthony: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Proscia, Anthony: Transformer Fan replacement",1,0,0,0,0
+"Proscia, Anthony: Transformer Pump replacement",1,0,0,0,0
+"Proscia, Anthony: Sesco oil processing truck operator",1,0,0,0,0
+"Proscia, Anthony: Sesco oil processing truck repair",1,0,0,0,0
+"Proscia, Anthony: Transformer Vacuum pump operator",1,0,0,0,0
+"Proscia, Anthony: Transformer Replacement",1,0,0,0,0
+"Proscia, Anthony: Transformer Bushing Replacement",1,0,0,0,0
+"Proscia, Anthony: Circuit Switcher Replacement",1,0,0,0,0
+"Proscia, Anthony: Kelman installation",1,0,0,0,0
+"Proscia, Anthony: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Proscia, Anthony: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Proscia, Anthony: Low Voltage Test Set CM",1,0,0,0,0
+"Proscia, Anthony: PURs Pump/Motor Replacement",1,0,0,0,0
+"Proscia, Anthony: PURs Pump VFD Replacement",1,0,0,0,0
+"Proscia, Anthony: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Proscia, Anthony: Pump House Ladder Calibration",1,0,0,0,0
+"Proscia, Anthony: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Proscia, Anthony: Diesel Generator PM / CM",1,0,0,0,0
+"Proscia, Anthony: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Proscia, Anthony: Pump House Pump Replacement ",1,0,0,0,0
+"Proscia, Anthony: Distribution Breaker PM",0,0,0,1,0
+"Proscia, Anthony: Distribution Breaker CM",0,0,0,1,0
+"Proscia, Anthony: Transmission Breaker CM",0,0,0,1,0
+"Proscia, Anthony: Transmission Breaker PM",0,0,0,1,0
+"Proscia, Anthony: Barksdale PM / CM",0,0,0,1,0
+"Proscia, Anthony: Battery Corrective Maintenance",0,0,1,0,0
+"Proscia, Anthony: Battery PM",0,0,1,0,0
+"Proscia, Anthony: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Proscia, Anthony: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Proscia, Anthony: Capbank Repairs",0,0,0,1,0
+"Proscia, Anthony: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Proscia, Anthony: Kemper Roof Installations",1,0,0,0,0
+"Proscia, Anthony: HVAC Maintenance",1,0,0,0,0
+"Proscia, Anthony: Asbestos abatement",1,0,0,0,0
+"Raft, Dennis: Aerial lift Use",0,0,0,1,0
+"Raft, Dennis: Electrical Troubleshooting",0,0,0,1,0
+"Raft, Dennis: Gas Calls (any equipment)",0,0,0,1,0
+"Raft, Dennis: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Raft, Dennis: Swagelok tubing",0,0,0,1,0
+"Raft, Dennis: Vacuum pump repair",0,1,0,0,0
+"Raft, Dennis: Forklift operator",0,0,0,1,0
+"Raft, Dennis: Confined Space Entry",1,0,0,0,0
+"Raft, Dennis: Confined Space Supervisor",1,0,0,0,0
+"Raft, Dennis: Welder",1,0,0,0,0
+"Raft, Dennis: Fire Watch",0,1,0,0,0
+"Raft, Dennis: Rigging",0,0,0,1,0
+"Raft, Dennis: Cadwelds",0,0,1,0,0
+"Raft, Dennis: Compressor PM / CM",1,0,0,0,0
+"Raft, Dennis: Troubleshoot DC Grounds",1,0,0,0,0
+"Raft, Dennis: SF6 gas cart use",1,0,0,0,0
+"Raft, Dennis: Hotspots Inspections",1,0,0,0,0
+"Raft, Dennis: Overheard Crane Training",1,0,0,0,0
+"Raft, Dennis: CS PM / CM",1,0,0,0,0
+"Raft, Dennis: LTC PM / CM",1,0,0,0,0
+"Raft, Dennis: AGS PM / CM",1,0,0,0,0
+"Raft, Dennis: Mechanical Deluge Repair",1,0,0,0,0
+"Raft, Dennis: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Raft, Dennis: Transformer Fan replacement",1,0,0,0,0
+"Raft, Dennis: Transformer Pump replacement",1,0,0,0,0
+"Raft, Dennis: Sesco oil processing truck operator",1,0,0,0,0
+"Raft, Dennis: Sesco oil processing truck repair",1,0,0,0,0
+"Raft, Dennis: Transformer Vacuum pump operator",1,0,0,0,0
+"Raft, Dennis: Transformer Replacement",1,0,0,0,0
+"Raft, Dennis: Transformer Bushing Replacement",1,0,0,0,0
+"Raft, Dennis: Circuit Switcher Replacement",1,0,0,0,0
+"Raft, Dennis: Kelman installation",1,0,0,0,0
+"Raft, Dennis: AC High Voltage Test Set PM / CM",0,0,0,1,0
+"Raft, Dennis: DC High Voltage Test Set PM / CM",0,0,0,1,0
+"Raft, Dennis: Low Voltage Test Set CM",0,0,0,1,0
+"Raft, Dennis: PURs Pump/Motor Replacement",0,0,0,1,0
+"Raft, Dennis: PURs Pump VFD Replacement",0,0,0,1,0
+"Raft, Dennis: PURs/CP Pump/Motor Alignment",0,0,0,1,0
+"Raft, Dennis: Pump House Ladder Calibration",0,0,0,1,0
+"Raft, Dennis: Pump House PLC troubleshooting & Repairs",0,0,0,1,0
+"Raft, Dennis: Diesel Generator PM / CM",0,0,0,1,0
+"Raft, Dennis: Working in a PURs facility w/ out an operator",0,0,0,1,0
+"Raft, Dennis: Pump House Pump Replacement ",0,0,0,1,0
+"Raft, Dennis: Distribution Breaker PM",1,0,0,0,0
+"Raft, Dennis: Distribution Breaker CM",1,0,0,0,0
+"Raft, Dennis: Transmission Breaker CM",1,0,0,0,0
+"Raft, Dennis: Transmission Breaker PM",1,0,0,0,0
+"Raft, Dennis: Barksdale PM / CM",1,0,0,0,0
+"Raft, Dennis: Battery Corrective Maintenance",1,0,0,0,0
+"Raft, Dennis: Battery PM",1,0,0,0,0
+"Raft, Dennis: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Raft, Dennis: Installing / troubleshooting RMS coils",1,0,0,0,0
+"Raft, Dennis: Capbank Repairs",1,0,0,0,0
+"Raft, Dennis: Disconnect and Ground Switch Adj/Repairs",1,0,0,0,0
+"Raft, Dennis: Kemper Roof Installations",1,0,0,0,0
+"Raft, Dennis: HVAC Maintenance",1,0,0,0,0
+"Raft, Dennis: Asbestos abatement",1,0,0,0,0
+"Rogers, Paul: Aerial lift Use",0,0,0,1,0
+"Rogers, Paul: Electrical Troubleshooting",0,0,0,1,0
+"Rogers, Paul: Gas Calls (any equipment)",0,0,0,1,0
+"Rogers, Paul: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Rogers, Paul: Swagelok tubing",0,0,0,1,0
+"Rogers, Paul: Vacuum pump repair",0,1,0,0,0
+"Rogers, Paul: Forklift operator",0,0,0,1,0
+"Rogers, Paul: Confined Space Entry",1,0,0,0,0
+"Rogers, Paul: Confined Space Supervisor",1,0,0,0,0
+"Rogers, Paul: Welder",1,0,0,0,0
+"Rogers, Paul: Fire Watch",0,1,0,0,0
+"Rogers, Paul: Rigging",0,0,0,1,0
+"Rogers, Paul: Cadwelds",0,0,1,0,0
+"Rogers, Paul: Compressor PM / CM",1,0,0,0,0
+"Rogers, Paul: Troubleshoot DC Grounds",1,0,0,0,0
+"Rogers, Paul: SF6 gas cart use",1,0,0,0,0
+"Rogers, Paul: Hotspots Inspections",1,0,0,0,0
+"Rogers, Paul: Overheard Crane Training",1,0,0,0,0
+"Rogers, Paul: CS PM / CM",1,0,0,0,0
+"Rogers, Paul: LTC PM / CM",1,0,0,0,0
+"Rogers, Paul: AGS PM / CM",1,0,0,0,0
+"Rogers, Paul: Mechanical Deluge Repair",1,0,0,0,0
+"Rogers, Paul: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Rogers, Paul: Transformer Fan replacement",1,0,0,0,0
+"Rogers, Paul: Transformer Pump replacement",1,0,0,0,0
+"Rogers, Paul: Sesco oil processing truck operator",1,0,0,0,0
+"Rogers, Paul: Sesco oil processing truck repair",1,0,0,0,0
+"Rogers, Paul: Transformer Vacuum pump operator",1,0,0,0,0
+"Rogers, Paul: Transformer Replacement",1,0,0,0,0
+"Rogers, Paul: Transformer Bushing Replacement",1,0,0,0,0
+"Rogers, Paul: Circuit Switcher Replacement",1,0,0,0,0
+"Rogers, Paul: Kelman installation",1,0,0,0,0
+"Rogers, Paul: AC High Voltage Test Set PM / CM",0,0,0,1,0
+"Rogers, Paul: DC High Voltage Test Set PM / CM",0,0,0,1,0
+"Rogers, Paul: Low Voltage Test Set CM",0,0,0,1,0
+"Rogers, Paul: PURs Pump/Motor Replacement",0,0,0,1,0
+"Rogers, Paul: PURs Pump VFD Replacement",0,0,0,1,0
+"Rogers, Paul: PURs/CP Pump/Motor Alignment",0,0,0,1,0
+"Rogers, Paul: Pump House Ladder Calibration",0,0,0,1,0
+"Rogers, Paul: Pump House PLC troubleshooting & Repairs",0,0,0,1,0
+"Rogers, Paul: Diesel Generator PM / CM",0,0,0,1,0
+"Rogers, Paul: Working in a PURs facility w/ out an operator",0,0,0,1,0
+"Rogers, Paul: Pump House Pump Replacement ",0,0,0,1,0
+"Rogers, Paul: Distribution Breaker PM",1,0,0,0,0
+"Rogers, Paul: Distribution Breaker CM",1,0,0,0,0
+"Rogers, Paul: Transmission Breaker CM",1,0,0,0,0
+"Rogers, Paul: Transmission Breaker PM",1,0,0,0,0
+"Rogers, Paul: Barksdale PM / CM",1,0,0,0,0
+"Rogers, Paul: Battery Corrective Maintenance",1,0,0,0,0
+"Rogers, Paul: Battery PM",1,0,0,0,0
+"Rogers, Paul: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Rogers, Paul: Installing / troubleshooting RMS coils",1,0,0,0,0
+"Rogers, Paul: Capbank Repairs",1,0,0,0,0
+"Rogers, Paul: Disconnect and Ground Switch Adj/Repairs",1,0,0,0,0
+"Rogers, Paul: Kemper Roof Installations",1,0,0,0,0
+"Rogers, Paul: HVAC Maintenance",1,0,0,0,0
+"Rogers, Paul: Asbestos abatement",1,0,0,0,0
+"Roth, Richard: Aerial lift Use",0,0,0,1,0
+"Roth, Richard: Electrical Troubleshooting",0,0,0,1,0
+"Roth, Richard: Gas Calls (any equipment)",0,0,0,1,0
+"Roth, Richard: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Roth, Richard: Swagelok tubing",0,0,0,1,0
+"Roth, Richard: Vacuum pump repair",0,1,0,0,0
+"Roth, Richard: Forklift operator",1,0,0,0,0
+"Roth, Richard: Confined Space Entry",1,0,0,0,0
+"Roth, Richard: Confined Space Supervisor",1,0,0,0,0
+"Roth, Richard: Welder",1,0,0,0,0
+"Roth, Richard: Fire Watch",0,1,0,0,0
+"Roth, Richard: Rigging",0,0,0,1,0
+"Roth, Richard: Cadwelds",0,0,1,0,0
+"Roth, Richard: Compressor PM / CM",1,0,0,0,0
+"Roth, Richard: Troubleshoot DC Grounds",0,0,0,1,0
+"Roth, Richard: SF6 gas cart use",0,0,0,1,0
+"Roth, Richard: Hotspots Inspections",1,0,0,0,0
+"Roth, Richard: Overheard Crane Training",0,0,0,1,0
+"Roth, Richard: CS PM / CM",1,0,0,0,0
+"Roth, Richard: LTC PM / CM",1,0,0,0,0
+"Roth, Richard: AGS PM / CM",1,0,0,0,0
+"Roth, Richard: Mechanical Deluge Repair",1,0,0,0,0
+"Roth, Richard: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Roth, Richard: Transformer Fan replacement",1,0,0,0,0
+"Roth, Richard: Transformer Pump replacement",1,0,0,0,0
+"Roth, Richard: Sesco oil processing truck operator",1,0,0,0,0
+"Roth, Richard: Sesco oil processing truck repair",1,0,0,0,0
+"Roth, Richard: Transformer Vacuum pump operator",1,0,0,0,0
+"Roth, Richard: Transformer Replacement",1,0,0,0,0
+"Roth, Richard: Transformer Bushing Replacement",1,0,0,0,0
+"Roth, Richard: Circuit Switcher Replacement",1,0,0,0,0
+"Roth, Richard: Kelman installation",1,0,0,0,0
+"Roth, Richard: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Roth, Richard: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Roth, Richard: Low Voltage Test Set CM",1,0,0,0,0
+"Roth, Richard: PURs Pump/Motor Replacement",1,0,0,0,0
+"Roth, Richard: PURs Pump VFD Replacement",1,0,0,0,0
+"Roth, Richard: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Roth, Richard: Pump House Ladder Calibration",1,0,0,0,0
+"Roth, Richard: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Roth, Richard: Diesel Generator PM / CM",1,0,0,0,0
+"Roth, Richard: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Roth, Richard: Pump House Pump Replacement ",1,0,0,0,0
+"Roth, Richard: Distribution Breaker PM",0,0,0,1,0
+"Roth, Richard: Distribution Breaker CM",0,0,0,1,0
+"Roth, Richard: Transmission Breaker CM",0,0,0,1,0
+"Roth, Richard: Transmission Breaker PM",0,0,0,1,0
+"Roth, Richard: Barksdale PM / CM",0,0,0,1,0
+"Roth, Richard: Battery Corrective Maintenance",0,0,1,0,0
+"Roth, Richard: Battery PM",0,0,1,0,0
+"Roth, Richard: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Roth, Richard: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Roth, Richard: Capbank Repairs",0,0,0,1,0
+"Roth, Richard: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Roth, Richard: Kemper Roof Installations",0,0,0,0,0
+"Roth, Richard: HVAC Maintenance",0,0,0,0,0
+"Roth, Richard: Asbestos abatement",1,0,0,0,0
+"Samanka, Michael: Aerial lift Use",0,0,0,1,0
+"Samanka, Michael: Electrical Troubleshooting",0,0,0,1,0
+"Samanka, Michael: Gas Calls (any equipment)",0,0,0,1,0
+"Samanka, Michael: Electrical Conduit /Wiring Installation",0,0,0,1,0
+"Samanka, Michael: Swagelok tubing",0,0,0,1,0
+"Samanka, Michael: Vacuum pump repair",0,1,0,0,0
+"Samanka, Michael: Forklift operator",0,0,0,1,0
+"Samanka, Michael: Confined Space Entry",1,0,0,0,0
+"Samanka, Michael: Confined Space Supervisor",1,0,0,0,0
+"Samanka, Michael: Welder",1,0,0,0,0
+"Samanka, Michael: Fire Watch",0,0,1,0,0
+"Samanka, Michael: Rigging",0,0,0,1,0
+"Samanka, Michael: Cadwelds",0,0,0,1,0
+"Samanka, Michael: Compressor PM / CM",0,0,0,1,0
+"Samanka, Michael: Troubleshoot DC Grounds",0,0,0,1,0
+"Samanka, Michael: SF6 gas cart use",0,0,0,1,0
+"Samanka, Michael: Hotspots Inspections",1,0,0,0,0
+"Samanka, Michael: Overheard Crane Training",0,0,0,1,0
+"Samanka, Michael: CS PM / CM",0,0,0,1,0
+"Samanka, Michael: LTC PM / CM",0,0,0,1,0
+"Samanka, Michael: AGS PM / CM",0,0,0,1,0
+"Samanka, Michael: Mechanical Deluge Repair",0,0,0,1,0
+"Samanka, Michael: Tapguard 260/TM 100 troubleshooting",0,0,0,1,0
+"Samanka, Michael: Transformer Fan replacement",0,0,0,1,0
+"Samanka, Michael: Transformer Pump replacement",0,0,0,1,0
+"Samanka, Michael: Sesco oil processing truck operator",0,0,0,1,0
+"Samanka, Michael: Sesco oil processing truck repair",0,0,0,1,0
+"Samanka, Michael: Transformer Vacuum pump operator",0,0,0,1,0
+"Samanka, Michael: Transformer Replacement",0,0,0,1,0
+"Samanka, Michael: Transformer Bushing Replacement",0,0,0,1,0
+"Samanka, Michael: Circuit Switcher Replacement",0,0,0,1,0
+"Samanka, Michael: Kelman installation",0,0,0,1,0
+"Samanka, Michael: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Samanka, Michael: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Samanka, Michael: Low Voltage Test Set CM",1,0,0,0,0
+"Samanka, Michael: PURs Pump/Motor Replacement",0,0,0,1,0
+"Samanka, Michael: PURs Pump VFD Replacement",0,0,0,1,0
+"Samanka, Michael: PURs/CP Pump/Motor Alignment",0,0,0,1,0
+"Samanka, Michael: Pump House Ladder Calibration",0,0,0,1,0
+"Samanka, Michael: Pump House PLC troubleshooting & Repairs",0,0,0,1,0
+"Samanka, Michael: Diesel Generator PM / CM",0,0,0,1,0
+"Samanka, Michael: Working in a PURs facility w/ out an operator",0,0,0,1,0
+"Samanka, Michael: Pump House Pump Replacement ",0,0,0,1,0
+"Samanka, Michael: Distribution Breaker PM",0,0,0,1,0
+"Samanka, Michael: Distribution Breaker CM",0,0,0,1,0
+"Samanka, Michael: Transmission Breaker CM",0,0,0,1,0
+"Samanka, Michael: Transmission Breaker PM",0,0,0,1,0
+"Samanka, Michael: Barksdale PM / CM",0,0,0,1,0
+"Samanka, Michael: Battery Corrective Maintenance",0,0,0,1,0
+"Samanka, Michael: Battery PM",0,0,0,1,0
+"Samanka, Michael: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Samanka, Michael: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Samanka, Michael: Capbank Repairs",0,0,0,1,0
+"Samanka, Michael: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Samanka, Michael: Kemper Roof Installations",0,0,0,1,0
+"Samanka, Michael: HVAC Maintenance",0,0,0,1,0
+"Samanka, Michael: Asbestos abatement",1,0,0,0,0
+"Summa, James: Aerial lift Use",0,0,0,1,0
+"Summa, James: Electrical Troubleshooting",0,0,0,1,0
+"Summa, James: Gas Calls (any equipment)",0,0,0,1,0
+"Summa, James: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Summa, James: Swagelok tubing",0,0,0,1,0
+"Summa, James: Vacuum pump repair",0,1,0,0,0
+"Summa, James: Forklift operator",1,0,0,0,0
+"Summa, James: Confined Space Entry",1,0,0,0,0
+"Summa, James: Confined Space Supervisor",1,0,0,0,0
+"Summa, James: Welder",1,0,0,0,0
+"Summa, James: Fire Watch",0,1,0,0,0
+"Summa, James: Rigging",0,0,0,1,0
+"Summa, James: Cadwelds",0,0,1,0,0
+"Summa, James: Compressor PM / CM",1,0,0,0,0
+"Summa, James: Troubleshoot DC Grounds",0,0,0,1,0
+"Summa, James: SF6 gas cart use",0,0,0,1,0
+"Summa, James: Hotspots Inspections",1,0,0,0,0
+"Summa, James: Overheard Crane Training",0,0,0,1,0
+"Summa, James: CS PM / CM",1,0,0,0,0
+"Summa, James: LTC PM / CM",1,0,0,0,0
+"Summa, James: AGS PM / CM",1,0,0,0,0
+"Summa, James: Mechanical Deluge Repair",1,0,0,0,0
+"Summa, James: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Summa, James: Transformer Fan replacement",1,0,0,0,0
+"Summa, James: Transformer Pump replacement",1,0,0,0,0
+"Summa, James: Sesco oil processing truck operator",1,0,0,0,0
+"Summa, James: Sesco oil processing truck repair",1,0,0,0,0
+"Summa, James: Transformer Vacuum pump operator",1,0,0,0,0
+"Summa, James: Transformer Replacement",1,0,0,0,0
+"Summa, James: Transformer Bushing Replacement",1,0,0,0,0
+"Summa, James: Circuit Switcher Replacement",1,0,0,0,0
+"Summa, James: Kelman installation",1,0,0,0,0
+"Summa, James: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Summa, James: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Summa, James: Low Voltage Test Set CM",1,0,0,0,0
+"Summa, James: PURs Pump/Motor Replacement",1,0,0,0,0
+"Summa, James: PURs Pump VFD Replacement",1,0,0,0,0
+"Summa, James: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Summa, James: Pump House Ladder Calibration",1,0,0,0,0
+"Summa, James: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Summa, James: Diesel Generator PM / CM",1,0,0,0,0
+"Summa, James: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Summa, James: Pump House Pump Replacement ",1,0,0,0,0
+"Summa, James: Distribution Breaker PM",0,0,0,1,0
+"Summa, James: Distribution Breaker CM",0,0,0,1,0
+"Summa, James: Transmission Breaker CM",0,0,0,1,0
+"Summa, James: Transmission Breaker PM",0,0,0,1,0
+"Summa, James: Barksdale PM / CM",0,0,0,1,0
+"Summa, James: Battery Corrective Maintenance",0,0,1,0,0
+"Summa, James: Battery PM",0,0,1,0,0
+"Summa, James: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Summa, James: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Summa, James: Capbank Repairs",0,0,0,1,0
+"Summa, James: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Summa, James: Kemper Roof Installations",0,0,0,1,0
+"Summa, James: HVAC Maintenance",0,0,0,1,0
+"Summa, James: Asbestos abatement",1,0,0,0,0
+"Svaral, Stephen: Aerial lift Use",0,0,0,1,0
+"Svaral, Stephen: Electrical Troubleshooting",0,0,0,1,0
+"Svaral, Stephen: Gas Calls (any equipment)",0,0,0,1,0
+"Svaral, Stephen: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Svaral, Stephen: Swagelok tubing",0,0,0,1,0
+"Svaral, Stephen: Vacuum pump repair",0,1,0,0,0
+"Svaral, Stephen: Forklift operator",1,0,0,0,0
+"Svaral, Stephen: Confined Space Entry",1,0,0,0,0
+"Svaral, Stephen: Confined Space Supervisor",1,0,0,0,0
+"Svaral, Stephen: Welder",1,0,0,0,0
+"Svaral, Stephen: Fire Watch",0,1,0,0,0
+"Svaral, Stephen: Rigging",0,0,0,1,0
+"Svaral, Stephen: Cadwelds",0,0,1,0,0
+"Svaral, Stephen: Compressor PM / CM",1,0,0,0,0
+"Svaral, Stephen: Troubleshoot DC Grounds",0,0,0,1,0
+"Svaral, Stephen: SF6 gas cart use",0,0,0,1,0
+"Svaral, Stephen: Hotspots Inspections",1,0,0,0,0
+"Svaral, Stephen: Overheard Crane Training",0,0,0,1,0
+"Svaral, Stephen: CS PM / CM",1,0,0,0,0
+"Svaral, Stephen: LTC PM / CM",1,0,0,0,0
+"Svaral, Stephen: AGS PM / CM",1,0,0,0,0
+"Svaral, Stephen: Mechanical Deluge Repair",1,0,0,0,0
+"Svaral, Stephen: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Svaral, Stephen: Transformer Fan replacement",1,0,0,0,0
+"Svaral, Stephen: Transformer Pump replacement",1,0,0,0,0
+"Svaral, Stephen: Sesco oil processing truck operator",1,0,0,0,0
+"Svaral, Stephen: Sesco oil processing truck repair",1,0,0,0,0
+"Svaral, Stephen: Transformer Vacuum pump operator",1,0,0,0,0
+"Svaral, Stephen: Transformer Replacement",1,0,0,0,0
+"Svaral, Stephen: Transformer Bushing Replacement",1,0,0,0,0
+"Svaral, Stephen: Circuit Switcher Replacement",1,0,0,0,0
+"Svaral, Stephen: Kelman installation",1,0,0,0,0
+"Svaral, Stephen: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Svaral, Stephen: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Svaral, Stephen: Low Voltage Test Set CM",1,0,0,0,0
+"Svaral, Stephen: PURs Pump/Motor Replacement",1,0,0,0,0
+"Svaral, Stephen: PURs Pump VFD Replacement",1,0,0,0,0
+"Svaral, Stephen: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Svaral, Stephen: Pump House Ladder Calibration",1,0,0,0,0
+"Svaral, Stephen: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Svaral, Stephen: Diesel Generator PM / CM",1,0,0,0,0
+"Svaral, Stephen: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Svaral, Stephen: Pump House Pump Replacement ",1,0,0,0,0
+"Svaral, Stephen: Distribution Breaker PM",0,0,0,1,0
+"Svaral, Stephen: Distribution Breaker CM",0,0,0,1,0
+"Svaral, Stephen: Transmission Breaker CM",0,0,0,1,0
+"Svaral, Stephen: Transmission Breaker PM",0,0,0,1,0
+"Svaral, Stephen: Barksdale PM / CM",0,0,0,1,0
+"Svaral, Stephen: Battery Corrective Maintenance",0,0,1,0,0
+"Svaral, Stephen: Battery PM",0,0,1,0,0
+"Svaral, Stephen: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Svaral, Stephen: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Svaral, Stephen: Capbank Repairs",0,0,0,1,0
+"Svaral, Stephen: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Svaral, Stephen: Kemper Roof Installations",0,0,0,1,0
+"Svaral, Stephen: HVAC Maintenance",0,0,0,1,0
+"Svaral, Stephen: Asbestos abatement",1,0,0,0,0
+"Tagliaferro, Robert: Aerial lift Use",0,0,0,1,0
+"Tagliaferro, Robert: Electrical Troubleshooting",0,0,0,0,1
+"Tagliaferro, Robert: Gas Calls (any equipment)",0,0,0,1,0
+"Tagliaferro, Robert: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Tagliaferro, Robert: Swagelok tubing",0,0,0,1,0
+"Tagliaferro, Robert: Vacuum pump repair",0,1,0,0,0
+"Tagliaferro, Robert: Forklift operator",1,0,0,0,0
+"Tagliaferro, Robert: Confined Space Entry",1,0,0,0,0
+"Tagliaferro, Robert: Confined Space Supervisor",1,0,0,0,0
+"Tagliaferro, Robert: Welder",1,0,0,0,0
+"Tagliaferro, Robert: Fire Watch",0,1,0,0,0
+"Tagliaferro, Robert: Rigging",0,0,0,1,0
+"Tagliaferro, Robert: Cadwelds",0,0,1,0,0
+"Tagliaferro, Robert: Compressor PM / CM",1,0,0,0,0
+"Tagliaferro, Robert: Troubleshoot DC Grounds",0,0,0,0,1
+"Tagliaferro, Robert: SF6 gas cart use",0,0,0,1,0
+"Tagliaferro, Robert: Hotspots Inspections",0,0,0,1,0
+"Tagliaferro, Robert: Overheard Crane Training",0,0,0,1,0
+"Tagliaferro, Robert: CS PM / CM",1,0,0,0,0
+"Tagliaferro, Robert: LTC PM / CM",1,0,0,0,0
+"Tagliaferro, Robert: AGS PM / CM",1,0,0,0,0
+"Tagliaferro, Robert: Mechanical Deluge Repair",1,0,0,0,0
+"Tagliaferro, Robert: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Tagliaferro, Robert: Transformer Fan replacement",1,0,0,0,0
+"Tagliaferro, Robert: Transformer Pump replacement",1,0,0,0,0
+"Tagliaferro, Robert: Sesco oil processing truck operator",1,0,0,0,0
+"Tagliaferro, Robert: Sesco oil processing truck repair",1,0,0,0,0
+"Tagliaferro, Robert: Transformer Vacuum pump operator",1,0,0,0,0
+"Tagliaferro, Robert: Transformer Replacement",1,0,0,0,0
+"Tagliaferro, Robert: Transformer Bushing Replacement",1,0,0,0,0
+"Tagliaferro, Robert: Circuit Switcher Replacement",1,0,0,0,0
+"Tagliaferro, Robert: Kelman installation",1,0,0,0,0
+"Tagliaferro, Robert: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Tagliaferro, Robert: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Tagliaferro, Robert: Low Voltage Test Set CM",1,0,0,0,0
+"Tagliaferro, Robert: PURs Pump/Motor Replacement",1,0,0,0,0
+"Tagliaferro, Robert: PURs Pump VFD Replacement",1,0,0,0,0
+"Tagliaferro, Robert: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Tagliaferro, Robert: Pump House Ladder Calibration",1,0,0,0,0
+"Tagliaferro, Robert: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Tagliaferro, Robert: Diesel Generator PM / CM",1,0,0,0,0
+"Tagliaferro, Robert: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Tagliaferro, Robert: Pump House Pump Replacement ",1,0,0,0,0
+"Tagliaferro, Robert: Distribution Breaker PM",0,0,0,1,0
+"Tagliaferro, Robert: Distribution Breaker CM",0,0,0,1,0
+"Tagliaferro, Robert: Transmission Breaker CM",0,0,0,1,0
+"Tagliaferro, Robert: Transmission Breaker PM",0,0,0,1,0
+"Tagliaferro, Robert: Barksdale PM / CM",0,0,0,1,0
+"Tagliaferro, Robert: Battery Corrective Maintenance",0,0,1,0,0
+"Tagliaferro, Robert: Battery PM",0,0,1,0,0
+"Tagliaferro, Robert: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Tagliaferro, Robert: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Tagliaferro, Robert: Capbank Repairs",0,0,0,1,0
+"Tagliaferro, Robert: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Tagliaferro, Robert: Kemper Roof Installations",0,0,0,1,0
+"Tagliaferro, Robert: HVAC Maintenance",0,0,0,1,0
+"Tagliaferro, Robert: Asbestos abatement",1,0,0,0,0
+"Vanagas, Michael: Aerial lift Use",0,0,0,1,0
+"Vanagas, Michael: Electrical Troubleshooting",0,0,0,1,0
+"Vanagas, Michael: Gas Calls (any equipment)",0,0,0,1,0
+"Vanagas, Michael: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Vanagas, Michael: Swagelok tubing",0,0,0,1,0
+"Vanagas, Michael: Vacuum pump repair",0,1,0,0,0
+"Vanagas, Michael: Forklift operator",1,0,0,0,0
+"Vanagas, Michael: Confined Space Entry",1,0,0,0,0
+"Vanagas, Michael: Confined Space Supervisor",1,0,0,0,0
+"Vanagas, Michael: Welder",1,0,0,0,0
+"Vanagas, Michael: Fire Watch",0,1,0,0,0
+"Vanagas, Michael: Rigging",0,0,0,1,0
+"Vanagas, Michael: Cadwelds",0,0,1,0,0
+"Vanagas, Michael: Compressor PM / CM",1,0,0,0,0
+"Vanagas, Michael: Troubleshoot DC Grounds",0,0,0,1,0
+"Vanagas, Michael: SF6 gas cart use",0,0,0,1,0
+"Vanagas, Michael: Hotspots Inspections",1,0,0,0,0
+"Vanagas, Michael: Overheard Crane Training",0,0,0,1,0
+"Vanagas, Michael: CS PM / CM",1,0,0,0,0
+"Vanagas, Michael: LTC PM / CM",1,0,0,0,0
+"Vanagas, Michael: AGS PM / CM",1,0,0,0,0
+"Vanagas, Michael: Mechanical Deluge Repair",1,0,0,0,0
+"Vanagas, Michael: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Vanagas, Michael: Transformer Fan replacement",1,0,0,0,0
+"Vanagas, Michael: Transformer Pump replacement",1,0,0,0,0
+"Vanagas, Michael: Sesco oil processing truck operator",1,0,0,0,0
+"Vanagas, Michael: Sesco oil processing truck repair",1,0,0,0,0
+"Vanagas, Michael: Transformer Vacuum pump operator",1,0,0,0,0
+"Vanagas, Michael: Transformer Replacement",1,0,0,0,0
+"Vanagas, Michael: Transformer Bushing Replacement",1,0,0,0,0
+"Vanagas, Michael: Circuit Switcher Replacement",1,0,0,0,0
+"Vanagas, Michael: Kelman installation",1,0,0,0,0
+"Vanagas, Michael: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Vanagas, Michael: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Vanagas, Michael: Low Voltage Test Set CM",1,0,0,0,0
+"Vanagas, Michael: PURs Pump/Motor Replacement",1,0,0,0,0
+"Vanagas, Michael: PURs Pump VFD Replacement",1,0,0,0,0
+"Vanagas, Michael: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Vanagas, Michael: Pump House Ladder Calibration",1,0,0,0,0
+"Vanagas, Michael: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Vanagas, Michael: Diesel Generator PM / CM",1,0,0,0,0
+"Vanagas, Michael: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Vanagas, Michael: Pump House Pump Replacement ",1,0,0,0,0
+"Vanagas, Michael: Distribution Breaker PM",0,0,0,1,0
+"Vanagas, Michael: Distribution Breaker CM",0,0,0,1,0
+"Vanagas, Michael: Transmission Breaker CM",0,0,0,1,0
+"Vanagas, Michael: Transmission Breaker PM",0,0,0,1,0
+"Vanagas, Michael: Barksdale PM / CM",0,0,0,1,0
+"Vanagas, Michael: Battery Corrective Maintenance",0,0,1,0,0
+"Vanagas, Michael: Battery PM",0,0,1,0,0
+"Vanagas, Michael: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Vanagas, Michael: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Vanagas, Michael: Capbank Repairs",0,0,0,1,0
+"Vanagas, Michael: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Vanagas, Michael: Kemper Roof Installations",0,0,0,1,0
+"Vanagas, Michael: HVAC Maintenance",0,0,0,1,0
+"Vanagas, Michael: Asbestos abatement",1,0,0,0,0
+"Vega, Ian: Aerial lift Use",0,0,0,1,0
+"Vega, Ian: Electrical Troubleshooting",0,0,0,1,0
+"Vega, Ian: Gas Calls (any equipment)",0,0,0,1,0
+"Vega, Ian: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Vega, Ian: Swagelok tubing",0,0,0,1,0
+"Vega, Ian: Vacuum pump repair",0,1,0,0,0
+"Vega, Ian: Forklift operator",1,0,0,0,0
+"Vega, Ian: Confined Space Entry",1,0,0,0,0
+"Vega, Ian: Confined Space Supervisor",1,0,0,0,0
+"Vega, Ian: Welder",1,0,0,0,0
+"Vega, Ian: Fire Watch",0,1,0,0,0
+"Vega, Ian: Rigging",0,0,0,1,0
+"Vega, Ian: Cadwelds",0,0,1,0,0
+"Vega, Ian: Compressor PM / CM",1,0,0,0,0
+"Vega, Ian: Troubleshoot DC Grounds",0,1,0,0,0
+"Vega, Ian: SF6 gas cart use",1,0,0,0,0
+"Vega, Ian: Hotspots Inspections",1,0,0,0,0
+"Vega, Ian: Overheard Crane Training",0,0,0,1,0
+"Vega, Ian: CS PM / CM",0,0,0,1,0
+"Vega, Ian: LTC PM / CM",0,0,0,1,0
+"Vega, Ian: AGS PM / CM",0,0,0,1,0
+"Vega, Ian: Mechanical Deluge Repair",0,0,0,1,0
+"Vega, Ian: Tapguard 260/TM 100 troubleshooting",0,0,0,1,0
+"Vega, Ian: Transformer Fan replacement",0,0,0,1,0
+"Vega, Ian: Transformer Pump replacement",0,0,0,1,0
+"Vega, Ian: Sesco oil processing truck operator",0,0,0,1,0
+"Vega, Ian: Sesco oil processing truck repair",0,0,0,1,0
+"Vega, Ian: Transformer Vacuum pump operator",0,0,0,1,0
+"Vega, Ian: Transformer Replacement",0,0,0,1,0
+"Vega, Ian: Transformer Bushing Replacement",0,0,0,1,0
+"Vega, Ian: Circuit Switcher Replacement",0,0,0,1,0
+"Vega, Ian: Kelman installation",0,0,0,1,0
+"Vega, Ian: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Vega, Ian: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Vega, Ian: Low Voltage Test Set CM",1,0,0,0,0
+"Vega, Ian: PURs Pump/Motor Replacement",1,0,0,0,0
+"Vega, Ian: PURs Pump VFD Replacement",1,0,0,0,0
+"Vega, Ian: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Vega, Ian: Pump House Ladder Calibration",1,0,0,0,0
+"Vega, Ian: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Vega, Ian: Diesel Generator PM / CM",1,0,0,0,0
+"Vega, Ian: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Vega, Ian: Pump House Pump Replacement ",1,0,0,0,0
+"Vega, Ian: Distribution Breaker PM",1,0,0,0,0
+"Vega, Ian: Distribution Breaker CM",1,0,0,0,0
+"Vega, Ian: Transmission Breaker CM",1,0,0,0,0
+"Vega, Ian: Transmission Breaker PM",1,0,0,0,0
+"Vega, Ian: Barksdale PM / CM",1,0,0,0,0
+"Vega, Ian: Battery Corrective Maintenance",1,0,0,0,0
+"Vega, Ian: Battery PM",1,0,0,0,0
+"Vega, Ian: Repair high voltage test leads/portable grounds",1,0,0,0,0
+"Vega, Ian: Installing / troubleshooting RMS coils",1,0,0,0,0
+"Vega, Ian: Capbank Repairs",1,0,0,0,0
+"Vega, Ian: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Vega, Ian: Kemper Roof Installations",1,0,0,0,0
+"Vega, Ian: HVAC Maintenance",1,0,0,0,0
+"Vega, Ian: Asbestos abatement",1,0,0,0,0
+"Velasco, Stanley: Aerial lift Use",0,0,0,1,0
+"Velasco, Stanley: Electrical Troubleshooting",0,0,0,1,0
+"Velasco, Stanley: Gas Calls (any equipment)",0,0,0,1,0
+"Velasco, Stanley: Electrical Conduit /Wiring Installation",1,0,0,0,0
+"Velasco, Stanley: Swagelok tubing",0,0,0,1,0
+"Velasco, Stanley: Vacuum pump repair",0,1,0,0,0
+"Velasco, Stanley: Forklift operator",1,0,0,0,0
+"Velasco, Stanley: Confined Space Entry",1,0,0,0,0
+"Velasco, Stanley: Confined Space Supervisor",1,0,0,0,0
+"Velasco, Stanley: Welder",1,0,0,0,0
+"Velasco, Stanley: Fire Watch",0,1,0,0,0
+"Velasco, Stanley: Rigging",0,0,0,1,0
+"Velasco, Stanley: Cadwelds",0,0,1,0,0
+"Velasco, Stanley: Compressor PM / CM",1,0,0,0,0
+"Velasco, Stanley: Troubleshoot DC Grounds",0,0,0,1,0
+"Velasco, Stanley: SF6 gas cart use",0,0,0,1,0
+"Velasco, Stanley: Hotspots Inspections",1,0,0,0,0
+"Velasco, Stanley: Overheard Crane Training",0,0,0,1,0
+"Velasco, Stanley: CS PM / CM",1,0,0,0,0
+"Velasco, Stanley: LTC PM / CM",1,0,0,0,0
+"Velasco, Stanley: AGS PM / CM",1,0,0,0,0
+"Velasco, Stanley: Mechanical Deluge Repair",1,0,0,0,0
+"Velasco, Stanley: Tapguard 260/TM 100 troubleshooting",1,0,0,0,0
+"Velasco, Stanley: Transformer Fan replacement",1,0,0,0,0
+"Velasco, Stanley: Transformer Pump replacement",1,0,0,0,0
+"Velasco, Stanley: Sesco oil processing truck operator",1,0,0,0,0
+"Velasco, Stanley: Sesco oil processing truck repair",1,0,0,0,0
+"Velasco, Stanley: Transformer Vacuum pump operator",1,0,0,0,0
+"Velasco, Stanley: Transformer Replacement",1,0,0,0,0
+"Velasco, Stanley: Transformer Bushing Replacement",1,0,0,0,0
+"Velasco, Stanley: Circuit Switcher Replacement",1,0,0,0,0
+"Velasco, Stanley: Kelman installation",1,0,0,0,0
+"Velasco, Stanley: AC High Voltage Test Set PM / CM",1,0,0,0,0
+"Velasco, Stanley: DC High Voltage Test Set PM / CM",1,0,0,0,0
+"Velasco, Stanley: Low Voltage Test Set CM",1,0,0,0,0
+"Velasco, Stanley: PURs Pump/Motor Replacement",1,0,0,0,0
+"Velasco, Stanley: PURs Pump VFD Replacement",1,0,0,0,0
+"Velasco, Stanley: PURs/CP Pump/Motor Alignment",1,0,0,0,0
+"Velasco, Stanley: Pump House Ladder Calibration",1,0,0,0,0
+"Velasco, Stanley: Pump House PLC troubleshooting & Repairs",1,0,0,0,0
+"Velasco, Stanley: Diesel Generator PM / CM",1,0,0,0,0
+"Velasco, Stanley: Working in a PURs facility w/ out an operator",1,0,0,0,0
+"Velasco, Stanley: Pump House Pump Replacement ",1,0,0,0,0
+"Velasco, Stanley: Distribution Breaker PM",0,0,0,1,0
+"Velasco, Stanley: Distribution Breaker CM",0,0,0,1,0
+"Velasco, Stanley: Transmission Breaker CM",0,0,0,1,0
+"Velasco, Stanley: Transmission Breaker PM",0,0,0,1,0
+"Velasco, Stanley: Barksdale PM / CM",0,0,0,1,0
+"Velasco, Stanley: Battery Corrective Maintenance",0,0,1,0,0
+"Velasco, Stanley: Battery PM",0,0,1,0,0
+"Velasco, Stanley: Repair high voltage test leads/portable grounds",0,0,0,1,0
+"Velasco, Stanley: Installing / troubleshooting RMS coils",0,0,0,1,0
+"Velasco, Stanley: Capbank Repairs",0,0,0,1,0
+"Velasco, Stanley: Disconnect and Ground Switch Adj/Repairs",0,0,0,1,0
+"Velasco, Stanley: Kemper Roof Installations",0,0,0,1,0
+"Velasco, Stanley: HVAC Maintenance",0,0,0,1,0
+"Velasco, Stanley: Asbestos abatement",1,0,0,0,0
