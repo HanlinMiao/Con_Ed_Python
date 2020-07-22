@@ -3,7 +3,9 @@ import cplex
 import random
 
 #Indices
-
+weight1 = -0.4
+weight2 = 0.4
+weight3 = 0.2
 
 #return a list of regions
 df = pd.read_csv('worker_boro_and_task.csv',index_col=False)
@@ -49,7 +51,7 @@ for region in regions:
     N_rm[region] = {}
     for i in range(len(main_type)):
         N_rm[region][main_type[i]] = N[region][i]
-print(N_rm)
+
 #s_wtl: The skill level of worker w for task t
 df = df.fillna(0)
 S_wtl = {}
@@ -92,6 +94,7 @@ for i in range(len(current_regions)):
 
 #Linear Programming Part
 my_var_type = ""
+my_cons_type = ""
 my_ub = []
 my_lb = []
 my_obj = []
@@ -112,7 +115,7 @@ for region in regions:
 my_var_type += "C"
 my_ub.append(1)
 my_lb.append(0)
-my_obj.append(-0.4)
+my_obj.append(weight1)
 
 
 #theta for 57 tasks and 5 skill indices, integer
@@ -121,7 +124,7 @@ for level in skill:
         my_var_type += "I"
         my_ub.append(cplex.infinity)
         my_lb.append(0)
-        my_obj.append(0.4/(58*5))
+        my_obj.append(weight2/(len(tasks)*len(skill)))
         
 #z_wnr for 52 workers and 4 regions, binary 0, 1
 for region1 in regions:
@@ -130,7 +133,7 @@ for region1 in regions:
             my_var_type += "B"
             my_ub.append(1)
             my_lb.append(0)
-            my_obj.append(0.2*distance[region1][region2])
+            my_obj.append(weight3*distance[region1][region2])
 
 #generating constraint Left hand side and right hand side
 
@@ -142,17 +145,14 @@ for region in regions:
     work_hour += N_rm[region]["PM"]+N_rm[region]["CM"]+N_rm[region]["FM"]
     my_cons_L.append([[],[]])
     my_cons_R.append(0)
+    my_cons_type += "L"
     for worker in workers:
         my_cons_L[constraint_count][0].append(d_var_index)
-        my_cons_L[constraint_count][1].append(1600/work_hour)
+        my_cons_L[constraint_count][1].append(-1600/work_hour)
         d_var_index = d_var_index+1
     my_cons_L[constraint_count][0].append(208)
-    my_cons_L[constraint_count][1].append(-1)
+    my_cons_L[constraint_count][1].append(1)
     constraint_count +=1
-
-print(len(my_cons_L))
-print(constraint_count)
-print(d_var_index)
 # wxwr1swtl - wxwr2swtl ≤ Θ_tl
 d_var_index = 209
 x_wr1_index = 0
@@ -164,6 +164,7 @@ for task in tasks:
             while(r2<len(regions)):
                 my_cons_L.append([[],[]])
                 my_cons_R.append(0)
+                my_cons_type += "L"
                 x_wr2_index = len(workers)*r2
                 x_wr1_index = len(workers)*r1
                 for worker in workers:
@@ -178,9 +179,8 @@ for task in tasks:
                 constraint_count += 1
                 r2+=1
         d_var_index += 1
-print(len(my_cons_L))
-print(constraint_count)
-print(d_var_index)
+
+
 
 # Zwnr >= (xwr - ywn)
 x_wr_index = 0
@@ -191,17 +191,30 @@ for region1 in regions:
     for region2 in regions:
         for worker in workers:
             my_cons_L.append([[],[]])
+            my_cons_type += "L"
             my_cons_L[constraint_count][0].append(x_wr_index)
-            my_cons_L[constraint_count][0].append(y_wn[worker][region2])
             my_cons_L[constraint_count][0].append(d_var_index)
             my_cons_L[constraint_count][1].append(1)
             my_cons_L[constraint_count][1].append(-1)
-            my_cons_L[constraint_count][1].append(1)
-            my_cons_R.append(0)
+            my_cons_R.append(y_wn[worker][region2])
             constraint_count += 1
             x_wr_index += 1
             d_var_index +=1
-print(len(my_cons_L))
-print(constraint_count)
-print(d_var_index)
 
+
+my_prob = cplex.Cplex()
+
+my_prob.objective.set_sense(my_prob.objective.sense.minimize)
+my_prob.variables.add(obj=my_obj, lb=my_lb, ub=my_ub, types=my_var_type)
+
+my_prob.linear_constraints.add(lin_expr=my_cons_L, senses=my_cons_type, rhs=my_cons_R)
+my_prob.solve()
+
+# get objective value
+obj_val = my_prob.solution.get_objective_value()
+
+# get variable value
+var_vals = my_prob.solution.get_values()
+
+print(obj_val)
+print(var_vals)
