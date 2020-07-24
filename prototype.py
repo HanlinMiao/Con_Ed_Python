@@ -1,19 +1,21 @@
 import pandas as pd
+import openpyxl
 import cplex
 import random
-import sys
+import operator
+import xlwt
+from xlwt import Workbook
 
 #Indices
-weight1 = 0.33
-weight2 = 0.33
-weight3 = 0.001
+weight1 = 0.4
+weight2 = 500
+weight3 = 0.4
 
 #return a list of regions
 df = pd.read_csv('worker_boro_and_task.csv',index_col=False)
 regions = df['Boro']
 regions = regions.dropna()
 regions = regions.unique()
-
 current_regions = df['Boro']
 current_regions = current_regions.dropna()
 
@@ -69,6 +71,18 @@ for i in range(1, len(worker_keys)+1):
                 S_wtl[worker_keys[i]][task].append(0)
 
 
+#d_nr: The distance between two regions in miles
+distance = {}
+distance["n/r"] = list(regions)
+for region1 in regions:
+    count = 0
+    distance[region1] = {}
+    for region2 in regions:
+        if region1 == region2:
+            distance[region1][region2] = 0
+        else:
+            distance[region1][region2]= random.randint(0, 5)
+
 #y_wn: If the worker w is not currently assigned to region n, then ywn= 1; otherwise  ywn = 0
 y_wn = {}
 y_wn['worker/region'] = list(regions)
@@ -79,20 +93,6 @@ for i in range(len(current_regions)):
             y_wn[workers[i]][region]=1
         else:
             y_wn[workers[i]][region]=0
-
-#d_nr: The distance between two regions in miles
-distance = {}
-distance["n/r"] = list(regions)
-for worker in workers:
-    distance[worker] = {}
-    for region1 in regions:
-        distance[worker][region1] = {}
-        for region2 in regions:
-            if region1 == region2:
-                distance[worker][region1][region2] = 0
-            else:
-                distance[worker][region1][region2]= random.random()
-        
 
 
 
@@ -137,14 +137,15 @@ for region1 in regions:
             my_var_type += "B"
             my_ub.append(1)
             my_lb.append(0)
-            my_obj.append(weight3*distance[worker][region1][region2])
+            my_obj.append(weight3*distance[region1][region2])
 
 #generating constraint Left hand side and right hand side
+
 #xwr=1
 d_var_index = 0
 constraint_count = 0
 for i in range(len(workers)):
-    d_var_index = i
+    d_var_index = i 
     my_cons_L.append([[],[]])
     my_cons_R.append(1)
     my_cons_type += "E"
@@ -154,7 +155,7 @@ for i in range(len(workers)):
         my_cons_L[constraint_count][1].append(1)
     constraint_count +=1
 
-#-1600wxrw /mNrm + φ <= 0
+#1600wxrw /mNrm ≥ φ
 d_var_index = 0
 for region in regions:
     work_hour = 0
@@ -170,8 +171,7 @@ for region in regions:
     my_cons_L[constraint_count][1].append(1)
     constraint_count +=1
 
-    
-#wxwr1swtl - wxwr2swtl - Θ_tl<=0
+# wxwr1swtl - wxwr2swtl ≤ Θ_tl
 d_var_index = 209
 x_wr1_index = 0
 x_wr2_index = len(workers)
@@ -198,12 +198,9 @@ for task in tasks:
                 r2+=1
         d_var_index += 1
 
-
-
-#xwr -zwnr <= ywn
-
+# Zwnr >= (xwr - ywn)
+# xwr - zwnr <= ywn
 x_wr_index = 0
-d_var_index = 494
 for region1 in regions:
     x_wr_index = 0
     for region2 in regions:
@@ -217,11 +214,9 @@ for region1 in regions:
             my_cons_R.append(y_wn[worker][region1])
             constraint_count += 1
             x_wr_index += 1
-            d_var_index +=1
+            d_var_index += 1
 
-
-            
-#sum(z_wnr)<=1
+#sum(z_wnr) = 1
 z_wnr_index = 494
 starting_index = 494
 for i in range(len(workers)):
@@ -229,20 +224,21 @@ for i in range(len(workers)):
     my_cons_R.append(1)
     my_cons_type += "E"
     for n in range(len(regions)):
-        z_wnr_index_n = starting_index + 4 *len(workers)*n
+        z_wnr_index_n = starting_index + 4 * len(workers) * n
         for r in range(len(regions)):
-            z_wnr_index_r = z_wnr_index_n  + len(workers)*r
+            z_wnr_index_r = z_wnr_index_n + len(workers) * r
             my_cons_L[constraint_count][0].append(z_wnr_index_r)
             my_cons_L[constraint_count][1].append(1)
-    constraint_count +=1
+            z_wnr_index = z_wnr_index + 1
+    constraint_count += 1
     starting_index += 1
 
-
-        
-        
+#calling Cplex
 my_prob = cplex.Cplex()
+
 my_prob.objective.set_sense(my_prob.objective.sense.minimize)
 my_prob.variables.add(obj=my_obj, lb=my_lb, ub=my_ub, types=my_var_type)
+
 my_prob.linear_constraints.add(lin_expr=my_cons_L, senses=my_cons_type, rhs=my_cons_R)
 my_prob.solve()
 
@@ -251,23 +247,29 @@ obj_val = my_prob.solution.get_objective_value()
 
 # get variable value
 var_vals = my_prob.solution.get_values()
-
-print(obj_val)
-print(var_vals)
-
+#Output Section
+#Total Number of Worker Assigned
 count = 0
 for i in range(208):
     if var_vals[i] > 0.5:
-        count +=1
+        count += 1
+
 print("Worker Assigned: "+str(count))
+
+#Percentage of Work Fulfilled
 count = 0
 for i in range(208, 209):
     print("Work fulfilled: " + str(var_vals[208]*100) +"%")
+    
+#Average Skill differential
 total = 0
-for i in range(209, 493):
-    total += var_vals[i]
-print("Average Skill Differential: "+str(total/(57*5)))
 
+for i in range(209,493):
+    total += var_vals[i]
+    
+print("Average Skill Differential: "+str(total/(57*5)))   
+
+#Worker Movement
 count = 0
 for i in range(494, 1326):
     if var_vals[i] == 1 and my_obj[i] == 0:
@@ -279,29 +281,110 @@ for i in range(494, 1326):
         count +=1
 print("Worker Moved: "+ str(count))
 
-output = {}
-output["worker/region"] = workers
+
+
+#output.csv
+result = {}
+result["workers/region"] = workers
 for j in range(len(regions)):
-    output[regions[j]] = []
+    result[regions[j]] = []
     for i in range(len(workers)):
-        output[regions[j]].append(var_vals[j*len(workers)+i])
-        
-df = pd.DataFrame.from_dict(output)
-df = pd.DataFrame.transpose(df)
+        result[regions[j]].append(var_vals[j*len(workers)+i])
+      
+df = pd.DataFrame.from_dict(result)
+df = df.T
 df.to_csv('output.csv')
 
+#Movement_of_Workers.csv
 output = {}
+moved_workers = []
 output["worker/region"] = workers
-
 for i in range(len(regions)):
     for j in range(len(regions)):
         output[regions[i]+"->"+regions[j]]=[]
         for k in range(len(workers)):
             output[regions[i]+"->"+ regions[j]].append(var_vals[494+4*len(workers)*i+len(workers)*j+k])
-        
+            if regions[i]!=regions[j] and var_vals[494+4*len(workers)*i+len(workers)*j+k] == 1:
+                moved_workers.append(workers[k])
 df = pd.DataFrame.from_dict(output)
 df = pd.DataFrame.transpose(df)
-df.to_csv('output1.csv')
+df.to_csv('Movement_of_Workers.csv')
 
+#region:{worker 1, worker 2...}
+results= {}
+results["workers/region"] = workers
+for j in range(len(regions)):
+    results[regions[j]] = []
+    for i in range(len(workers)):
+        if result[regions[j]][i] == 1:
+            results[regions[j]].append(workers[i])
+
+
+        
+#sort workers by average skill level
+df = pd.read_csv('worker_boro_and_task.csv',index_col=False)
+df = df.fillna(0)
+table2 = {}
+for i in range(len(workers)):
+    num = 0
+    row = {}
+    row = df.iloc[i+1]
+    row = row.dropna()
+    for task in tasks:
+        if row[task] != "na" and row[task] != "nan" and int(row[task]) >= 1 and int(row[task]) <= 5 :
+            num += int (row[task])
+    table2[workers[i]] = num/len(tasks)
+   # table2[workers[i]] = sorted(table2[workers[i]])
+table2 = dict(sorted(table2.items(), key = operator.itemgetter(1), reverse = True))
+
+#Assign workers by regions and sorted by average skill levels
+table = {}
+df = df.fillna(0)
+key_list = list(table2.keys()) 
+for i in range(len(regions)):
+    
+    table[regions[i]] = []
+    for j in range(len(table2)):
+        if key_list[j] in results[regions[i]]:
+            table[regions[i]].append(key_list[j] + " " + "(Skill level: " + str(round(table2[key_list[j]], 2)) + ")") 
+max = 0
+for region in regions:
+    if len(table[region]) > max:
+        max = len(table[region])
+
+for region in regions:
+    while(len(table[region]) < max):
+        table[region].append(" ")
+
+
+
+#.csv and .xls files output
+#csv file
+df = pd.DataFrame.from_dict(table)
+key_list = list(table.keys())
+df.to_csv('result.csv')
+
+#xls file with coloring indicating moved workers
+st = xlwt.easyxf('pattern: pattern solid;')
+
+#change pattern_fore_colour here to change the color
+st.pattern.pattern_fore_colour = 50
+workbook = Workbook()
+worksheet = workbook.add_sheet('Sheet 1')
+row = 1
+col = 0
+for key in key_list:
+    worksheet.write(row, col, key)
+    for i in range(len(table[key])):
+        row+=1
+        index = table[key][i].find('(')
+        if table[key][i][0:index-1] in moved_workers:
+            worksheet.write(row, col, table[key][i], st)
+        else:
+            worksheet.write(row, col, table[key][i])
+    col+=1
+    row =1
+workbook.save('result.xls')
+print("see worker assignment at result.xls")
 
 
