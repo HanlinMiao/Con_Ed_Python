@@ -1,17 +1,19 @@
 import pandas as pd
 import cplex
 import random
+import sys
 
 #Indices
-weight1 = -0.4
-weight2 = 0.4
-weight3 = 0.2
+weight1 = 0.33
+weight2 = 0.33
+weight3 = 0.001
 
 #return a list of regions
 df = pd.read_csv('worker_boro_and_task.csv',index_col=False)
 regions = df['Boro']
 regions = regions.dropna()
 regions = regions.unique()
+
 current_regions = df['Boro']
 current_regions = current_regions.dropna()
 
@@ -67,18 +69,6 @@ for i in range(1, len(worker_keys)+1):
                 S_wtl[worker_keys[i]][task].append(0)
 
 
-#d_nr: The distance between two regions in miles
-distance = {}
-distance["n/r"] = list(regions)
-for region1 in regions:
-    count = 0
-    distance[region1] = {}
-    for region2 in regions:
-        if region1 == region2:
-            distance[region1][region2] = 0
-        else:
-            distance[region1][region2]= random.randint(0, 5)
-
 #y_wn: If the worker w is not currently assigned to region n, then ywn= 1; otherwise  ywn = 0
 y_wn = {}
 y_wn['worker/region'] = list(regions)
@@ -89,6 +79,20 @@ for i in range(len(current_regions)):
             y_wn[workers[i]][region]=1
         else:
             y_wn[workers[i]][region]=0
+
+#d_nr: The distance between two regions in miles
+distance = {}
+distance["n/r"] = list(regions)
+for worker in workers:
+    distance[worker] = {}
+    for region1 in regions:
+        distance[worker][region1] = {}
+        for region2 in regions:
+            if region1 == region2:
+                distance[worker][region1][region2] = 0
+            else:
+                distance[worker][region1][region2]= random.random()
+        
 
 
 
@@ -115,7 +119,7 @@ for region in regions:
 my_var_type += "C"
 my_ub.append(1)
 my_lb.append(0)
-my_obj.append(weight1)
+my_obj.append(-weight1)
 
 
 #theta for 57 tasks and 5 skill indices, integer
@@ -133,13 +137,25 @@ for region1 in regions:
             my_var_type += "B"
             my_ub.append(1)
             my_lb.append(0)
-            my_obj.append(weight3*distance[region1][region2])
+            my_obj.append(weight3*distance[worker][region1][region2])
 
 #generating constraint Left hand side and right hand side
-
-#1600wxrw /mNrm ≥ φ
+#xwr=1
 d_var_index = 0
 constraint_count = 0
+for i in range(len(workers)):
+    d_var_index = i
+    my_cons_L.append([[],[]])
+    my_cons_R.append(1)
+    my_cons_type += "E"
+    for j in range(len(regions)):
+        d_var_index = i + j*(len(workers))
+        my_cons_L[constraint_count][0].append(d_var_index)
+        my_cons_L[constraint_count][1].append(1)
+    constraint_count +=1
+
+#-1600wxrw /mNrm + φ <= 0
+d_var_index = 0
 for region in regions:
     work_hour = 0
     work_hour += N_rm[region]["PM"]+N_rm[region]["CM"]+N_rm[region]["FM"]
@@ -153,7 +169,9 @@ for region in regions:
     my_cons_L[constraint_count][0].append(208)
     my_cons_L[constraint_count][1].append(1)
     constraint_count +=1
-# wxwr1swtl - wxwr2swtl ≤ Θ_tl
+
+    
+#wxwr1swtl - wxwr2swtl - Θ_tl<=0
 d_var_index = 209
 x_wr1_index = 0
 x_wr2_index = len(workers)
@@ -182,10 +200,10 @@ for task in tasks:
 
 
 
-# Zwnr >= (xwr - ywn)
-x_wr_index = 0
-d_var_index
+#xwr -zwnr <= ywn
 
+x_wr_index = 0
+d_var_index = 494
 for region1 in regions:
     x_wr_index = 0
     for region2 in regions:
@@ -196,17 +214,35 @@ for region1 in regions:
             my_cons_L[constraint_count][0].append(d_var_index)
             my_cons_L[constraint_count][1].append(1)
             my_cons_L[constraint_count][1].append(-1)
-            my_cons_R.append(y_wn[worker][region2])
+            my_cons_R.append(y_wn[worker][region1])
             constraint_count += 1
             x_wr_index += 1
             d_var_index +=1
 
 
-my_prob = cplex.Cplex()
+            
+#sum(z_wnr)<=1
+z_wnr_index = 494
+starting_index = 494
+for i in range(len(workers)):
+    my_cons_L.append([[],[]])
+    my_cons_R.append(1)
+    my_cons_type += "E"
+    for n in range(len(regions)):
+        z_wnr_index_n = starting_index + 4 *len(workers)*n
+        for r in range(len(regions)):
+            z_wnr_index_r = z_wnr_index_n  + len(workers)*r
+            my_cons_L[constraint_count][0].append(z_wnr_index_r)
+            my_cons_L[constraint_count][1].append(1)
+    constraint_count +=1
+    starting_index += 1
 
+
+        
+        
+my_prob = cplex.Cplex()
 my_prob.objective.set_sense(my_prob.objective.sense.minimize)
 my_prob.variables.add(obj=my_obj, lb=my_lb, ub=my_ub, types=my_var_type)
-
 my_prob.linear_constraints.add(lin_expr=my_cons_L, senses=my_cons_type, rhs=my_cons_R)
 my_prob.solve()
 
@@ -218,3 +254,54 @@ var_vals = my_prob.solution.get_values()
 
 print(obj_val)
 print(var_vals)
+
+count = 0
+for i in range(208):
+    if var_vals[i] > 0.5:
+        count +=1
+print("Worker Assigned: "+str(count))
+count = 0
+for i in range(208, 209):
+    print("Work fulfilled: " + str(var_vals[208]*100) +"%")
+total = 0
+for i in range(209, 493):
+    total += var_vals[i]
+print("Average Skill Differential: "+str(total/(57*5)))
+
+count = 0
+for i in range(494, 1326):
+    if var_vals[i] == 1 and my_obj[i] == 0:
+        count +=1
+print("Worker Stayed: "+ str(count))
+count = 0
+for i in range(494, 1326):
+    if var_vals[i] == 1 and my_obj[i] != 0:
+        count +=1
+print("Worker Moved: "+ str(count))
+
+output = {}
+output["worker/region"] = workers
+for j in range(len(regions)):
+    output[regions[j]] = []
+    for i in range(len(workers)):
+        output[regions[j]].append(var_vals[j*len(workers)+i])
+        
+df = pd.DataFrame.from_dict(output)
+df = pd.DataFrame.transpose(df)
+df.to_csv('output.csv')
+
+output = {}
+output["worker/region"] = workers
+
+for i in range(len(regions)):
+    for j in range(len(regions)):
+        output[regions[i]+"->"+regions[j]]=[]
+        for k in range(len(workers)):
+            output[regions[i]+"->"+ regions[j]].append(var_vals[494+4*len(workers)*i+len(workers)*j+k])
+        
+df = pd.DataFrame.from_dict(output)
+df = pd.DataFrame.transpose(df)
+df.to_csv('output1.csv')
+
+
+
