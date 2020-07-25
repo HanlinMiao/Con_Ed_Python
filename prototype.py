@@ -12,7 +12,7 @@ weight2 = 1000
 weight3 = 100
 
 #return a list of regions
-df = pd.read_csv('worker_boro_and_task.csv',index_col=False)
+df = pd.read_csv('Input_files/worker_boro_and_task.csv',index_col=False)
 regions = df['Boro']
 regions = regions.dropna()
 regions = regions.unique()
@@ -48,7 +48,7 @@ skill = [1, 2, 3, 4, 5]
 #labor hours per worker
 labor_hours = 1600
 #N_rm: task2 output
-df1 = pd.read_csv('Task2_Output.csv')
+df1 = pd.read_csv('Input_files/Task2_Output.csv')
 N = df1.to_dict()
 N_rm = {}
 for region in regions:
@@ -297,7 +297,7 @@ for j in range(len(regions)):
       
 df = pd.DataFrame.from_dict(result)
 df = df.T
-df.to_csv('output.csv')
+df.to_csv('Output_files/output.csv')
 
 #Movement_of_Workers.csv
 output = {}
@@ -312,7 +312,7 @@ for i in range(len(regions)):
                 moved_workers.append(workers[k])
 df = pd.DataFrame.from_dict(output)
 df = pd.DataFrame.transpose(df)
-df.to_csv('Movement_of_Workers.csv')
+df.to_csv('Output_files/Movement_of_Workers.csv')
 
 #region:{worker 1, worker 2...}
 results= {}
@@ -325,7 +325,7 @@ for j in range(len(regions)):
 
         
 #sort workers by average skill level
-df = pd.read_csv('worker_boro_and_task.csv',index_col=False)
+df = pd.read_csv('Input_files/worker_boro_and_task.csv',index_col=False)
 df = df.fillna(0)
 table2 = {}
 for i in range(len(workers)):
@@ -365,7 +365,7 @@ for region in regions:
 #csv file
 df = pd.DataFrame.from_dict(table)
 key_list = list(table.keys())
-df.to_csv('result.csv')
+df.to_csv('Output_files/result.csv')
 
 #xls file with coloring indicating moved workers
 st = xlwt.easyxf('pattern: pattern solid;')
@@ -387,7 +387,7 @@ for key in key_list:
             worksheet.write(row, col, table[key][i])
     col+=1
     row =1
-workbook.save('result.xls')
+workbook.save('Output_files/result.xls')
 print("see worker assignment at result.xls")
 print(var_vals)
 
