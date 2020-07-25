@@ -7,9 +7,9 @@ import xlwt
 from xlwt import Workbook
 
 #Indices
-weight1 = 0.4
-weight2 = 500
-weight3 = 0.4
+weight1 = 100
+weight2 = 1000
+weight3 = 100
 
 #return a list of regions
 df = pd.read_csv('worker_boro_and_task.csv',index_col=False)
@@ -81,7 +81,7 @@ for region1 in regions:
         if region1 == region2:
             distance[region1][region2] = 0
         else:
-            distance[region1][region2]= random.randint(0, 5)
+            distance[region1][region2]= random.randint(1, 5)
 
 #y_wn: If the worker w is not currently assigned to region n, then ywn= 1; otherwise  ywn = 0
 y_wn = {}
@@ -126,7 +126,7 @@ my_obj.append(-weight1)
 for level in skill:
     for task in tasks:
         my_var_type += "I"
-        my_ub.append(cplex.infinity)
+        my_ub.append(5)
         my_lb.append(0)
         my_obj.append(weight2/(len(tasks)*len(skill)))
         
@@ -173,29 +173,30 @@ for region in regions:
 
 # wxwr1swtl - wxwr2swtl ≤ Θ_tl
 d_var_index = 209
-x_wr1_index = 0
-x_wr2_index = len(workers)
 for task in tasks:
     for i in range(5):
         for r1 in range(len(regions)):
-            r2 = r1+1
+            r2 = 0
             while(r2<len(regions)):
-                my_cons_L.append([[],[]])
-                my_cons_R.append(0)
-                my_cons_type += "L"
-                x_wr2_index = len(workers)*r2
-                x_wr1_index = len(workers)*r1
-                for worker in workers:
-                    my_cons_L[constraint_count][0].append(x_wr1_index)
-                    my_cons_L[constraint_count][0].append(x_wr2_index)
-                    my_cons_L[constraint_count][1].append(S_wtl[worker][task][i])
-                    my_cons_L[constraint_count][1].append(-(S_wtl[worker][task][i]))
-                    x_wr1_index+=1
-                    x_wr2_index+=1
-                my_cons_L[constraint_count][0].append(d_var_index)
-                my_cons_L[constraint_count][1].append(-1)
-                constraint_count += 1
-                r2+=1
+                if r2==r1:
+                    r2+=1
+                else:
+                    my_cons_L.append([[],[]])
+                    my_cons_R.append(0)
+                    my_cons_type += "L"
+                    x_wr2_index = len(workers)*r2
+                    x_wr1_index = len(workers)*r1
+                    for worker in workers:
+                        my_cons_L[constraint_count][0].append(x_wr1_index)
+                        my_cons_L[constraint_count][0].append(x_wr2_index)
+                        my_cons_L[constraint_count][1].append(S_wtl[worker][task][i])
+                        my_cons_L[constraint_count][1].append(-(S_wtl[worker][task][i]))
+                        x_wr1_index+=1
+                        x_wr2_index+=1
+                    my_cons_L[constraint_count][0].append(d_var_index)
+                    my_cons_L[constraint_count][1].append(-1)
+                    constraint_count += 1
+                    r2+=1
         d_var_index += 1
 
 # Zwnr >= (xwr - ywn)
@@ -266,8 +267,11 @@ total = 0
 
 for i in range(209,493):
     total += var_vals[i]
-    
-print("Average Skill Differential: "+str(total/(57*5)))   
+print("Average Skill Differential: "+str(total/(len(tasks)*len(skill))))   
+
+
+        
+
 
 #Worker Movement
 count = 0
@@ -318,7 +322,6 @@ for j in range(len(regions)):
     for i in range(len(workers)):
         if result[regions[j]][i] == 1:
             results[regions[j]].append(workers[i])
-
 
         
 #sort workers by average skill level
@@ -386,5 +389,6 @@ for key in key_list:
     row =1
 workbook.save('result.xls')
 print("see worker assignment at result.xls")
+print(var_vals)
 
 
