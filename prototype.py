@@ -1,4 +1,5 @@
 import pandas as pd
+import copy
 import openpyxl
 import cplex
 import random
@@ -7,9 +8,9 @@ import xlwt
 from xlwt import Workbook
 
 #Indices
-weight1 = 100
-weight2 = 1000
-weight3 = 100
+weight1 = 20
+weight2 = 10
+weight3 = 10
 
 #return a list of regions
 df = pd.read_csv('Input_files/worker_boro_and_task.csv',index_col=False)
@@ -81,7 +82,7 @@ for region1 in regions:
         if region1 == region2:
             distance[region1][region2] = 0
         else:
-            distance[region1][region2]= random.randint(1, 5)
+            distance[region1][region2]= random.randint(1, 5)/1000
 
 #y_wn: If the worker w is not currently assigned to region n, then ywn= 1; otherwise  ywn = 0
 y_wn = {}
@@ -126,7 +127,7 @@ my_obj.append(-weight1)
 for level in skill:
     for task in tasks:
         my_var_type += "I"
-        my_ub.append(5)
+        my_ub.append(cplex.infinity)
         my_lb.append(0)
         my_obj.append(weight2/(len(tasks)*len(skill)))
         
@@ -164,8 +165,19 @@ for region in regions:
     my_cons_R.append(0)
     my_cons_type += "L"
     for worker in workers:
-        my_cons_L[constraint_count][0].append(d_var_index)
-        my_cons_L[constraint_count][1].append(-1600/work_hour)
+        if (type(d_var_index)==int):
+            my_cons_L[constraint_count][0].append(d_var_index)
+            my_cons_L[constraint_count][1].append(-1600/work_hour)
+        else:
+            if d_var_index > 1:
+                my_cons_L[constraint_count][0].append(d_var_index.floor())
+                my_cons_L[constraint_count][1].append(-1600/work_hour)
+            elif d_var_index > 0.5 and d_var_index < 1:
+                my_cons_L[constraint_count][0].append(d_var_index.ceil())
+                my_cons_L[constraint_count][1].append(-1600/work_hour)
+            elif d_var_index < 0.5 and d_var_index > 0:
+                my_cons_L[constraint_count][0].append(d_var_index.floor())
+                my_cons_L[constraint_count][1].append(-1600/work_hour)
         d_var_index = d_var_index+1
     my_cons_L[constraint_count][0].append(208)
     my_cons_L[constraint_count][1].append(1)
@@ -236,10 +248,8 @@ for i in range(len(workers)):
 
 #calling Cplex
 my_prob = cplex.Cplex()
-
 my_prob.objective.set_sense(my_prob.objective.sense.minimize)
 my_prob.variables.add(obj=my_obj, lb=my_lb, ub=my_ub, types=my_var_type)
-
 my_prob.linear_constraints.add(lin_expr=my_cons_L, senses=my_cons_type, rhs=my_cons_R)
 my_prob.solve()
 
@@ -248,6 +258,7 @@ obj_val = my_prob.solution.get_objective_value()
 
 # get variable value
 var_vals = my_prob.solution.get_values()
+
 #Output Section
 #Total Number of Worker Assigned
 count = 0
@@ -276,15 +287,15 @@ print("Average Skill Differential: "+str(total/(len(tasks)*len(skill))))
 #Worker Movement
 count = 0
 for i in range(494, 1326):
-    if var_vals[i] == 1 and my_obj[i] == 0:
+    if var_vals[i] >0.5 and my_obj[i] == 0:
         count +=1
 print("Worker Stayed: "+ str(count))
 count = 0
 for i in range(494, 1326):
-    if var_vals[i] == 1 and my_obj[i] != 0:
+    if var_vals[i] >0.5 and my_obj[i] != 0:
         count +=1
 print("Worker Moved: "+ str(count))
-
+count = 0
 
 
 #output.csv
@@ -337,7 +348,6 @@ for i in range(len(workers)):
         if row[task] != "na" and row[task] != "nan" and int(row[task]) >= 1 and int(row[task]) <= 5 :
             num += int (row[task])
     table2[workers[i]] = num/len(tasks)
-   # table2[workers[i]] = sorted(table2[workers[i]])
 table2 = dict(sorted(table2.items(), key = operator.itemgetter(1), reverse = True))
 
 #Assign workers by regions and sorted by average skill levels
@@ -345,11 +355,12 @@ table = {}
 df = df.fillna(0)
 key_list = list(table2.keys()) 
 for i in range(len(regions)):
-    
     table[regions[i]] = []
     for j in range(len(table2)):
         if key_list[j] in results[regions[i]]:
             table[regions[i]].append(key_list[j] + " " + "(Skill level: " + str(round(table2[key_list[j]], 2)) + ")") 
+
+assignment = copy.deepcopy(table)
 max = 0
 for region in regions:
     if len(table[region]) > max:
@@ -371,9 +382,10 @@ df.to_csv('Output_files/result.csv')
 st = xlwt.easyxf('pattern: pattern solid;')
 
 #change pattern_fore_colour here to change the color
-st.pattern.pattern_fore_colour = 50
+st.pattern.pattern_fore_colour = 15
 workbook = Workbook()
 worksheet = workbook.add_sheet('Sheet 1')
+
 row = 1
 col = 0
 for key in key_list:
@@ -387,8 +399,24 @@ for key in key_list:
             worksheet.write(row, col, table[key][i])
     col+=1
     row =1
+
+maxRow = 0
+for key in key_list:
+    if len(table[key]) > maxRow:
+        maxRow = len(table[key])
+col = 0
+row = maxRow + 3
+for key in key_list:
+    num = 0
+    num = N_rm[key]["PM"]+ N_rm[key]["CM"] + N_rm[key]["FM"]
+    percentage = (1600*len(assignment[key])) / num
+    percentage =percentage*100
+    percent = "{:.2f}".format(percentage)
+    worksheet.write(row, col, "Work Fulfilled: " + percent +"%")
+    col += 1
 workbook.save('Output_files/result.xls')
-print("see worker assignment at result.xls")
 print(var_vals)
+print("see worker assignment at Output_files/result.xls")
+
 
 
