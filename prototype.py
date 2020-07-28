@@ -8,9 +8,9 @@ import xlwt
 from xlwt import Workbook
 
 #Indices
-weight1 = 20
-weight2 = 10
-weight3 = 10
+weight1 = 100
+weight2 = 100
+weight3 = 100
 
 #return a list of regions
 df = pd.read_csv('Input_files/worker_boro_and_task.csv',index_col=False)
@@ -82,8 +82,7 @@ for region1 in regions:
         if region1 == region2:
             distance[region1][region2] = 0
         else:
-            distance[region1][region2]= random.randint(1, 5)/1000
-
+            distance[region1][region2]= random.randint(1, 5)
 #y_wn: If the worker w is not currently assigned to region n, then ywn= 1; otherwise  ywn = 0
 y_wn = {}
 y_wn['worker/region'] = list(regions)
@@ -95,8 +94,11 @@ for i in range(len(current_regions)):
         else:
             y_wn[workers[i]][region]=0
 
-
-
+max_distance_sum = 0
+for i in range(len(current_regions)):
+    value_list = list(distance[current_regions[i+1]].values())
+    max_distance_sum += max(value_list)
+                      
 #Linear Programming Part
 my_var_type = ""
 my_cons_type = ""
@@ -127,9 +129,9 @@ my_obj.append(-weight1)
 for level in skill:
     for task in tasks:
         my_var_type += "I"
-        my_ub.append(cplex.infinity)
+        my_ub.append(len(worker)-1)
         my_lb.append(0)
-        my_obj.append(weight2/(len(tasks)*len(skill)))
+        my_obj.append(weight2/((len(worker)-1)*len(task)*len(skill)))
         
 #z_wnr for 52 workers and 4 regions, binary 0, 1
 for region1 in regions:
@@ -138,7 +140,7 @@ for region1 in regions:
             my_var_type += "B"
             my_ub.append(1)
             my_lb.append(0)
-            my_obj.append(weight3*distance[region1][region2])
+            my_obj.append((weight3*distance[region1][region2])/(max_distance_sum))
 
 #generating constraint Left hand side and right hand side
 
@@ -251,6 +253,8 @@ my_prob = cplex.Cplex()
 my_prob.objective.set_sense(my_prob.objective.sense.minimize)
 my_prob.variables.add(obj=my_obj, lb=my_lb, ub=my_ub, types=my_var_type)
 my_prob.linear_constraints.add(lin_expr=my_cons_L, senses=my_cons_type, rhs=my_cons_R)
+my_prob.parameters.timelimit.set(300.0)
+my_prob.parameters.parallel.set(+1)
 my_prob.solve()
 
 # get objective value
@@ -331,10 +335,10 @@ results["workers/region"] = workers
 for j in range(len(regions)):
     results[regions[j]] = []
     for i in range(len(workers)):
-        if result[regions[j]][i] == 1:
+        if result[regions[j]][i] > 0.9:
             results[regions[j]].append(workers[i])
 
-        
+
 #sort workers by average skill level
 df = pd.read_csv('Input_files/worker_boro_and_task.csv',index_col=False)
 df = df.fillna(0)
