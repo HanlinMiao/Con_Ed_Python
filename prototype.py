@@ -13,7 +13,7 @@ weight2 = 100
 weight3 = 100
 
 #return a list of regions
-df = pd.read_csv('Input_files/worker_boro_and_task.csv',index_col=False)
+df = pd.read_csv('Input_files/worker_boro_and_task1.csv',index_col=False)
 regions = df['Boro']
 regions = regions.dropna()
 regions = regions.unique()
@@ -26,8 +26,10 @@ workers = df.iloc[:,0]
 workers = workers.dropna()
 workers = workers.unique()
 worker_keys = {}
+print(len(workers))
 for i in range(1, len(workers)+1):
     worker_keys[i] = workers[i-1]
+
 #return a list of maintenance type
 main_type = ["PM","CM","FM"]
 
@@ -35,11 +37,11 @@ main_type = ["PM","CM","FM"]
 tasks = list(df.columns)
 tasks.remove(tasks[0])
 tasks.remove(tasks[0])
-tasks.remove(tasks[len(tasks)-1])
+
 task_keys ={}
 for i in range(1, len(tasks)):
     task_keys[i] = tasks[i-1]
-
+print(tasks)
 
 #return a list of task skill level possible
 skill = [1, 2, 3, 4, 5]
@@ -131,7 +133,7 @@ for level in skill:
         my_var_type += "I"
         my_ub.append(len(worker)-1)
         my_lb.append(0)
-        my_obj.append(weight2/((len(worker)-1)*len(task)*len(skill)))
+        my_obj.append(weight2/(len(worker)))
         
 #z_wnr for 52 workers and 4 regions, binary 0, 1
 for region1 in regions:
@@ -340,7 +342,7 @@ for j in range(len(regions)):
 
 
 #sort workers by average skill level
-df = pd.read_csv('Input_files/worker_boro_and_task.csv',index_col=False)
+df = pd.read_csv('Input_files/worker_boro_and_task1.csv',index_col=False)
 df = df.fillna(0)
 table2 = {}
 for i in range(len(workers)):
