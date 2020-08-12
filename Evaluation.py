@@ -94,9 +94,9 @@ for i in range(len(super_regions)):
                     count5 += 1
             except ValueError:
                 myKeyList[super_regions[i]][k][j] = 0
-        output_5[super_regions[i]][k] = round(count5/len(myKeyList[super_regions[i]][k]),4)*100
+        output_5[super_regions[i]][k] = round(count5/len(myKeyList[super_regions[i]][k])*100, 2)
     output_5[super_regions[i]] = dict(sorted(output_5[super_regions[i]].items(), key = operator.itemgetter(1)))
-print(output_5)
+
 output_3plus = {}
 for i in range(len(super_regions)):
     output_3plus[super_regions[i]] = {}
@@ -109,13 +109,30 @@ for i in range(len(super_regions)):
                     count3 += 1
             except ValueError:
                 myKeyList[super_regions[i]][k][j] = 0
-        output_3plus[super_regions[i]][k] = round(count3/len(myKeyList[super_regions[i]][k]),4)*100
+        output_3plus[super_regions[i]][k] = round(count3/len(myKeyList[super_regions[i]][k])*100, 2)
     output_3plus[super_regions[i]] = dict(sorted(output_3plus[super_regions[i]].items(), key = operator.itemgetter(1)))
-print(output_3plus)
 
-data = pd.DataFrame.from_dict(myKeyList)
-data.to_csv('Evaluation.csv')
 
+output = {}
+for i in range(len(super_regions)):
+    output[super_regions[i]] = {}
+    for k in range(1, len(key_list)+1):
+        output[super_regions[i]][k] =100*output_3plus[super_regions[i]][k]+output_5[super_regions[i]][k]
+    output[super_regions[i]] = dict(sorted(output[super_regions[i]].items(), key = operator.itemgetter(1)))
+#work fulfillment percentage
+data = pd.read_csv("Input_files/Task2_Output.csv")
+work_percent = {}
+for region in super_regions:
+    if region == "S":
+        work_percent[region] = 1600*len(workers_S)/int(data[region])
+    elif region == "Q/B":
+        work_percent[region] = 1600*len(workers_Q_B)/int(data[region])
+    elif region == "W/Br":
+        work_percent[region] = 1600*len(workers_W_Br)/int(data[region])
+    else:
+        work_percent[region] = 1600*len(workers_M)/int(data[region])
+
+        
 workbook = Workbook()
 worksheet = workbook.add_sheet('Evaluation')
 count = 0
@@ -125,36 +142,30 @@ st = xlwt.easyxf('pattern: pattern solid;align: horiz center')
 st.pattern.pattern_fore_colour = 15
 index = xlwt.easyxf('pattern: pattern solid;')
 index.pattern.pattern_fore_colour = 45
+
 for i in range(len(super_regions)):
-    worksheet.write_merge(0,0,1*count, 1*count+3, super_regions[i], st)
-    count += 4
-    key_list_5 = list(output_5[super_regions[i]].keys())
-    key_list_3 = list(output_3plus[super_regions[i]].keys())
-    val_list_5 = list(output_5[super_regions[i]].values())
-    val_list_3 = list(output_3plus[super_regions[i]].values())
-    worksheet.write(1, col, "Skill Index")
-    col+=1
-    worksheet.write(1, col, "Percentage of 5's")
-    col+=1
+    worksheet.write_merge(0,0,1*count, 1*count+2, super_regions[i] + " work fulfilled: "+ "{:.2f}".format(work_percent[super_regions[i]]*100) + " %", st)
+    count += 3
+    key_list = list(output[super_regions[i]].keys())
+    
     worksheet.write(1, col, "Skill Index")
     col+=1
     worksheet.write(1, col, "Percentage of 3 plus's")
-    col-=3
-    for j in range( len(key_list_5)):
-        worksheet.write(row, col, key_list_5[j])
+    col+=1
+    worksheet.write(1, col, "Percentage of 5's")
+    col-=2
+    for num in key_list:
+        worksheet.write(row, col, num)
         col+=1
-        worksheet.write(row, col, "{:.2f}".format(val_list_5[j])+ " %")
+        worksheet.write(row, col, "{:.2f}".format(output_3plus[super_regions[i]][num])+ " %")
         col+=1
-        worksheet.write(row, col, key_list_3[j])
-        col+=1
-        worksheet.write(row, col, "{:.2f}".format(val_list_3[j])+ " %")
+        worksheet.write(row, col, "{:.2f}".format(output_5[super_regions[i]][num])+ " %")
         row+=1
-        col-=3
+        col-=2
     row = 2
-    col = (i+1)*4
+    col = (i+1)*3
 
 workbook.save('Output_files/evaluation.xls')
-print(len(workers_S))
-print(len(workers_Q_B))
 
+print("see evaluation result at Output_files/evaluation.xls")
 

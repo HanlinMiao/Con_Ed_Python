@@ -51,7 +51,7 @@ skill = [1, 2, 3, 4, 5]
 #labor hours per worker
 labor_hours = 1600
 #N_rm: task2 output
-df1 = pd.read_csv('Input_files/Task2_Output.csv')
+df1 = pd.read_csv('Input_files/Task2_Output copy.csv')
 N = df1.to_dict()
 N_rm = {}
 for region in regions:
@@ -133,7 +133,7 @@ for level in skill:
         my_var_type += "I"
         my_ub.append(len(worker)-1)
         my_lb.append(0)
-        my_obj.append(weight2/(len(worker)))
+        my_obj.append(weight2/(len(worker)*len(tasks)))
         
 #z_wnr for 52 workers and 4 regions, binary 0, 1
 for region1 in regions:
